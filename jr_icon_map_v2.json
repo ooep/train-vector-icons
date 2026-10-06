@@ -1,0 +1,6833 @@
+{
+ "shinkansen": {
+  "荷物新幹線": {
+   "company": "JR新幹線",
+   "jp": "荷物新幹線",
+   "series": [],
+   "current_images": [
+    "00_shinkansen/e3-cargo-shinkansen__e3w.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "東北新幹線E10": {
+   "company": "JR新幹線",
+   "jp": "東北新幹線E10",
+   "series": [],
+   "current_images": [
+    "00_shinkansen/tohoku-shinkansen__e10.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "SOAR E927": {
+   "company": "JR新幹線",
+   "jp": "SOAR E927",
+   "series": [],
+   "current_images": [
+    "00_shinkansen/inspection-car__e927.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "はやぶさ": {
+   "company": "JR新幹線",
+   "jp": "はやぶさ",
+   "series": [],
+   "current_images": [
+    "00_shinkansen/hayabusa-e5-h5__e5.png",
+    "00_shinkansen/hayabusa-e5-h5__h5.png",
+    "00_shinkansen/hayabusa-e5-h5__e5-1.png",
+    "00_shinkansen/hayabusa-e5-h5__h5-1.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "こまち": {
+   "company": "JR新幹線",
+   "jp": "こまち",
+   "series": [],
+   "current_images": [
+    "00_shinkansen/komachi-e6__e6.png",
+    "00_shinkansen/komachi-e6__e6-1.png"
+   ],
+   "retired_images": [
+    "00_shinkansen/untitled__e3k.png",
+    "00_shinkansen/untitled__e3kk.png",
+    "00_shinkansen/untitled__e3-k.png",
+    "00_shinkansen/untitled__e3kp.png",
+    "00_shinkansen/untitled__e3kpk.png",
+    "00_shinkansen/untitled__e3-kp.png"
+   ],
+   "all_retired": false
+  },
+  "やまびこ": {
+   "company": "JR新幹線",
+   "jp": "やまびこ",
+   "series": [],
+   "current_images": [
+    "00_shinkansen/yamabiko-e2-1__e2pi.png",
+    "00_shinkansen/yamabiko-e2-1__e2pik.png",
+    "00_shinkansen/yamabiko-e2-1__e2-pi.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "E8/E3-2つばさ": {
+   "company": "JR新幹線",
+   "jp": "E8/E3-2つばさ",
+   "series": [],
+   "current_images": [
+    "00_shinkansen/e8-e3-2-tsubasa__e8.png",
+    "00_shinkansen/e8-e3-2-tsubasa__e8-1.png",
+    "00_shinkansen/e8-e3-2-tsubasa__e3t2n.png",
+    "00_shinkansen/e8-e3-2-tsubasa__e3-t2n.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "かがやき/とき": {
+   "company": "JR新幹線",
+   "jp": "かがやき/とき",
+   "series": [],
+   "current_images": [
+    "00_shinkansen/kagayaki-toki__e7.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "East-i": {
+   "company": "JR新幹線",
+   "jp": "East-i",
+   "series": [],
+   "current_images": [
+    "00_shinkansen/measureing-car__e926.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "アルファX試験車": {
+   "company": "JR新幹線",
+   "jp": "アルファX試験車",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "00_shinkansen/x__e956a.png",
+    "00_shinkansen/x__e956a-1.png",
+    "00_shinkansen/x__e956ay.png",
+    "00_shinkansen/x__e956b.png",
+    "00_shinkansen/x__e956b-1.png",
+    "00_shinkansen/x__e956by.png"
+   ],
+   "all_retired": true
+  },
+  "あさま": {
+   "company": "JR新幹線",
+   "jp": "あさま",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "00_shinkansen/asama-e2-0__e2.png",
+    "00_shinkansen/asama-e2-0__e2k.png",
+    "00_shinkansen/asama-e2-0__e2-1.png"
+   ],
+   "all_retired": true
+  },
+  "やまびこ/とき": {
+   "company": "JR新幹線",
+   "jp": "やまびこ/とき",
+   "series": [
+    "200"
+   ],
+   "current_images": [],
+   "retired_images": [
+    "00_shinkansen/yamabiko-toki-e2-0__e2pi0.png",
+    "00_shinkansen/yamabiko-toki-e2-0__e2pi0k.png",
+    "00_shinkansen/yamabiko-toki-e2-0__e2-pi0.png",
+    "00_shinkansen/yamabiko-200__e200.png",
+    "00_shinkansen/yamabiko-200__e200k.png",
+    "00_shinkansen/yamabiko-200__e200-1.png",
+    "00_shinkansen/yamabiko-200__e200-2.png",
+    "00_shinkansen/yamabiko-200__e200o2.png"
+   ],
+   "all_retired": true
+  },
+  "初代リバイバル塗装": {
+   "company": "JR新幹線",
+   "jp": "初代リバイバル塗装",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "00_shinkansen/e2-yamabiko-toki__e2g.png",
+    "00_shinkansen/e2-yamabiko-toki__e2gk.png",
+    "00_shinkansen/e2-yamabiko-toki__e2-g.png"
+   ],
+   "all_retired": true
+  },
+  "Maxとき/たにがわ": {
+   "company": "JR新幹線",
+   "jp": "Maxとき/たにがわ",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "00_shinkansen/max-toki-e4-e1__e4n.png",
+    "00_shinkansen/max-toki-e4-e1__e4n-1.png",
+    "00_shinkansen/max-toki-e4-e1__e4.png",
+    "00_shinkansen/max-toki-e4-e1__e4-1.png",
+    "00_shinkansen/max-toki-e4-e1__e1n.png",
+    "00_shinkansen/max-toki-e4-e1__e1.png"
+   ],
+   "all_retired": true
+  },
+  "やまびこ/ときRN車": {
+   "company": "JR新幹線",
+   "jp": "やまびこ/ときRN車",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "00_shinkansen/rn__e200ng.png",
+    "00_shinkansen/rn__e200ngk.png",
+    "00_shinkansen/rn__e200-ng.png",
+    "00_shinkansen/rn__e200n.png",
+    "00_shinkansen/rn__e200nk.png",
+    "00_shinkansen/rn__e200-n.png"
+   ],
+   "all_retired": true
+  },
+  "試験車": {
+   "company": "JR新幹線",
+   "jp": "試験車",
+   "series": [
+    "962"
+   ],
+   "current_images": [],
+   "retired_images": [
+    "00_shinkansen/emu-962__j962.png"
+   ],
+   "all_retired": true
+  },
+  "つばさ": {
+   "company": "JR新幹線",
+   "jp": "つばさ",
+   "series": [
+    "400"
+   ],
+   "current_images": [],
+   "retired_images": [
+    "00_shinkansen/tsubasa-e3-1-2__e3t2.png",
+    "00_shinkansen/tsubasa-e3-1-2__e3t.png",
+    "00_shinkansen/tsubasa-e3-1-2__e3t2k.png",
+    "00_shinkansen/tsubasa-e3-1-2__e3tk.png",
+    "00_shinkansen/tsubasa-e3-1-2__e3-t2.png",
+    "00_shinkansen/tsubasa-e3-1-2__e3-t.png",
+    "00_shinkansen/tsubasa-e3-1-2__e3t1n.png",
+    "00_shinkansen/tsubasa-e3-1-2__e3-t1n.png",
+    "00_shinkansen/tsubasa-400__e400n.png",
+    "00_shinkansen/tsubasa-400__e400.png",
+    "00_shinkansen/tsubasa-400__e400nk.png",
+    "00_shinkansen/tsubasa-400__e400k.png",
+    "00_shinkansen/tsubasa-400__e400-n.png",
+    "00_shinkansen/tsubasa-400__e400-1.png"
+   ],
+   "all_retired": true
+  },
+  "現美新幹線": {
+   "company": "JR新幹線",
+   "jp": "現美新幹線",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "00_shinkansen/genbi-e3-7__e3gb.png"
+   ],
+   "all_retired": true
+  },
+  "とれいゆつばさ": {
+   "company": "JR新幹線",
+   "jp": "とれいゆつばさ",
+   "series": [
+    "2026"
+   ],
+   "current_images": [],
+   "retired_images": [
+    "00_shinkansen/toreiyu-e3-7-jr-1-2-2026-7-27-update__e3ty.png"
+   ],
+   "all_retired": true
+  },
+  "ファステック360S": {
+   "company": "JR新幹線",
+   "jp": "ファステック360S",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "00_shinkansen/360s__e954b.png",
+    "00_shinkansen/360s__e954b-1.png",
+    "00_shinkansen/360s__e954a.png",
+    "00_shinkansen/360s__e954yb.png",
+    "00_shinkansen/360s__e954yb-1.png",
+    "00_shinkansen/360s__e954-a.png"
+   ],
+   "all_retired": true
+  },
+  "360Z/Star21": {
+   "company": "JR新幹線",
+   "jp": "360Z/Star21",
+   "series": [
+    "360Z"
+   ],
+   "current_images": [],
+   "retired_images": [
+    "00_shinkansen/360z-star21__e955.png",
+    "00_shinkansen/360z-star21__e955-1.png",
+    "00_shinkansen/360z-star21__e952.png",
+    "00_shinkansen/360z-star21__e955y.png",
+    "00_shinkansen/360z-star21__e955y-1.png",
+    "00_shinkansen/360z-star21__e953.png"
+   ],
+   "all_retired": true
+  },
+  "リニアExp": {
+   "company": "JR新幹線",
+   "jp": "リニアExp",
+   "series": [],
+   "current_images": [
+    "00_shinkansen/exp__mlx001.png",
+    "00_shinkansen/exp__mlx001b.png",
+    "00_shinkansen/exp__mlx01y.png",
+    "00_shinkansen/exp__mlx01.png",
+    "00_shinkansen/exp__mlx01a.png",
+    "00_shinkansen/exp__c-l0.png",
+    "00_shinkansen/exp__c-l0-1.png",
+    "00_shinkansen/exp__c-l0a.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "WIN350/300X/": {
+   "company": "JR新幹線",
+   "jp": "WIN350/300X/",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "00_shinkansen/test-car__w500a.png",
+    "00_shinkansen/test-car__w500b.png",
+    "00_shinkansen/test-car__c955a.png",
+    "00_shinkansen/test-car__c955b.png",
+    "00_shinkansen/test-car__0kwsk-efset.png"
+   ],
+   "all_retired": true
+  },
+  "さくら,つばめ,みずほ": {
+   "company": "JR新幹線",
+   "jp": "さくら,つばめ,みずほ",
+   "series": [
+    "800",
+    "N700"
+   ],
+   "current_images": [
+    "00_shinkansen/sakura-n700-800__k800.png",
+    "00_shinkansen/sakura-n700-800__k800n.png",
+    "00_shinkansen/sakura-n700-800__w700n.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "西九州新幹線かもめ": {
+   "company": "JR新幹線",
+   "jp": "西九州新幹線かもめ",
+   "series": [
+    "N700S"
+   ],
+   "current_images": [
+    "00_shinkansen/kamome-n700s__k700s.png",
+    "00_shinkansen/kamome-n700s__k700s2.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "のぞみ,ひかり,こだま": {
+   "company": "JR新幹線",
+   "jp": "のぞみ,ひかり,こだま",
+   "series": [
+    "700",
+    "N700S"
+   ],
+   "current_images": [
+    "00_shinkansen/n700s-a-700__c700ns.png",
+    "00_shinkansen/n700s-a-700__c700n.png",
+    "00_shinkansen/n700s-a-700__c700.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "山陽こだま": {
+   "company": "JR新幹線",
+   "jp": "山陽こだま",
+   "series": [
+    "500",
+    "N700"
+   ],
+   "current_images": [
+    "00_shinkansen/rail-star-500-n700__w700nm.png",
+    "00_shinkansen/rail-star-500-n700__w700.png",
+    "00_shinkansen/rail-star-500-n700__w500.png",
+    "00_shinkansen/rail-star-500-n700__w500e.png",
+    "00_shinkansen/rail-star-500-n700__w500k.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "京都鉄博500EVA2": {
+   "company": "JR新幹線",
+   "jp": "京都鉄博500EVA2",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "00_shinkansen/kyoto-rail-museum__w500e2.png"
+   ],
+   "all_retired": true
+  },
+  "こだま/グランドひかり": {
+   "company": "JR新幹線",
+   "jp": "こだま/グランドひかり",
+   "series": [
+    "100",
+    "300"
+   ],
+   "current_images": [],
+   "retired_images": [
+    "00_shinkansen/kodama-0-100-300__w0n.png",
+    "00_shinkansen/kodama-0-100-300__w100n.png",
+    "00_shinkansen/kodama-0-100-300__c300.png",
+    "00_shinkansen/kodama-0-100-300__c300p.png",
+    "00_shinkansen/kodama-0-100-300__w0w.png",
+    "00_shinkansen/kodama-0-100-300__c0.png",
+    "00_shinkansen/kodama-0-100-300__c100.png",
+    "00_shinkansen/kodama-0-100-300__w100.png"
+   ],
+   "all_retired": true
+  },
+  "高速試験車": {
+   "company": "JR新幹線",
+   "jp": "高速試験車",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "00_shinkansen/untitled__j961.png",
+    "00_shinkansen/untitled__j961s.png",
+    "00_shinkansen/untitled__e925.png",
+    "00_shinkansen/untitled__j1000a.png",
+    "00_shinkansen/untitled__j1000b.png",
+    "00_shinkansen/untitled__c700n1.png"
+   ],
+   "all_retired": true
+  },
+  "Dr.イエロー923/*922": {
+   "company": "JR新幹線",
+   "jp": "Dr.イエロー923/*922",
+   "series": [
+    "922"
+   ],
+   "current_images": [
+    "00_shinkansen/dr-923-922__c923.png",
+    "00_shinkansen/dr-923-922__c922.png",
+    "00_shinkansen/dr-923-922__c922k.png",
+    "00_shinkansen/dr-923-922__c922y.png",
+    "00_shinkansen/dr-923-922__j922a.png",
+    "00_shinkansen/dr-923-922__j922b.png",
+    "00_shinkansen/dr-923-922__e921.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "お召列車/レール輸送": {
+   "company": "JR新幹線",
+   "jp": "お召列車/レール輸送",
+   "series": [
+    "9200"
+   ],
+   "current_images": [],
+   "retired_images": [
+    "00_shinkansen/royal-dl-lra91-9200__c0sp.png",
+    "00_shinkansen/royal-dl-lra91-9200__c0spw.png",
+    "00_shinkansen/royal-dl-lra91-9200__c9100.png",
+    "00_shinkansen/royal-dl-lra91-9200__c9200.png"
+   ],
+   "all_retired": true
+  },
+  "機関車/検測車": {
+   "company": "JR新幹線",
+   "jp": "機関車/検測車",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "00_shinkansen/measureing-car__j911.png",
+    "00_shinkansen/measureing-car__j921-1.png",
+    "00_shinkansen/measureing-car__j921-2.png"
+   ],
+   "all_retired": true
+  },
+  "935救援車": {
+   "company": "JR新幹線",
+   "jp": "935救援車",
+   "series": [],
+   "current_images": [
+    "00_shinkansen/working-car__j935.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "山陽新幹線ラッピング": {
+   "company": "JR新幹線",
+   "jp": "山陽新幹線ラッピング",
+   "series": [],
+   "current_images": [
+    "00_shinkansen/sanyo-shinkansen__w700b.png",
+    "00_shinkansen/sanyo-shinkansen__w700m.png",
+    "00_shinkansen/sanyo-shinkansen__w700pi.png",
+    "00_shinkansen/sanyo-shinkansen__w700ye.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "N700試験塗装": {
+   "company": "JR新幹線",
+   "jp": "N700試験塗装",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "00_shinkansen/test-color__c700ny.png"
+   ],
+   "all_retired": true
+  },
+  "のぞみラッピング車": {
+   "company": "JR新幹線",
+   "jp": "のぞみラッピング車",
+   "series": [
+    "2026",
+    "N700A"
+   ],
+   "current_images": [
+    "00_shinkansen/n700a-ad-jr-1-2-2026-7-24-update__c700n-d.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  }
+ },
+ "tokkyu": {
+  "ライラック/カムイ": {
+   "company": "JR北海道",
+   "jp": "ライラック/カムイ",
+   "series": [
+    "785",
+    "789"
+   ],
+   "current_images": [
+    "01_hokkaido/lilac-kamui-789-785__h789l.png",
+    "01_hokkaido/lilac-kamui-789-785__h789-1.png",
+    "01_hokkaido/lilac-kamui-789-785__h785.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "道内特急": {
+   "company": "JR北海道",
+   "jp": "道内特急",
+   "series": [],
+   "current_images": [
+    "01_hokkaido/hokkaido-express__h261-5v.png",
+    "01_hokkaido/hokkaido-express__h261-5b.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "道内特急,宗谷": {
+   "company": "JR北海道",
+   "jp": "道内特急,宗谷",
+   "series": [],
+   "current_images": [
+    "01_hokkaido/tokachi-soya__h261w.png",
+    "01_hokkaido/tokachi-soya__h261wl.png",
+    "01_hokkaido/tokachi-soya__h261.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "青い星・赤い星": {
+   "company": "JR北海道",
+   "jp": "青い星・赤い星",
+   "series": [],
+   "current_images": [
+    "01_hokkaido/blue-red-star__h141bs.png",
+    "01_hokkaido/blue-red-star__h141rs.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "はこだてライナー": {
+   "company": "JR北海道",
+   "jp": "はこだてライナー",
+   "series": [],
+   "current_images": [
+    "01_hokkaido/hakodate-area__h733v.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "流氷物語": {
+   "company": "JR北海道",
+   "jp": "流氷物語",
+   "series": [],
+   "current_images": [
+    "01_hokkaido/semmo-line__h54rmm.png",
+    "01_hokkaido/semmo-line__h54rmw.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "富良野美瑛ノロッコ": {
+   "company": "JR北海道",
+   "jp": "富良野美瑛ノロッコ",
+   "series": [],
+   "current_images": [
+    "01_hokkaido/norokko__de15jfu2.png",
+    "01_hokkaido/norokko__de15jfu.png",
+    "01_hokkaido/norokko__de15jms.png",
+    "01_hokkaido/norokko__h510fu.png",
+    "01_hokkaido/norokko__h510fuk.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "釧路湿原ノロッコ": {
+   "company": "JR北海道",
+   "jp": "釧路湿原ノロッコ",
+   "series": [],
+   "current_images": [
+    "01_hokkaido/norokko__de15h2510.png",
+    "01_hokkaido/norokko__de10jku.png",
+    "01_hokkaido/norokko__h510ku.png",
+    "01_hokkaido/norokko__h510kuk.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "SWA/ライラック": {
+   "company": "JR北海道",
+   "jp": "SWA/ライラック",
+   "series": [
+    "285"
+   ],
+   "current_images": [],
+   "retired_images": [
+    "01_hokkaido/white-arrow-285__h785o1.png",
+    "01_hokkaido/white-arrow-285__h785o.png",
+    "01_hokkaido/white-arrow-285__h285.png"
+   ],
+   "all_retired": true
+  },
+  "ラッピング前H100": {
+   "company": "JR北海道",
+   "jp": "ラッピング前H100",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "01_hokkaido/decmo__h100y.png"
+   ],
+   "all_retired": true
+  },
+  "Sおおぞら/とかち": {
+   "company": "JR北海道",
+   "jp": "Sおおぞら/とかち",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "01_hokkaido/ozora-tokachi__h283h.png",
+    "01_hokkaido/ozora-tokachi__h283p.png",
+    "01_hokkaido/ozora-tokachi__h261t.png",
+    "01_hokkaido/ozora-tokachi__h283.png"
+   ],
+   "all_retired": true
+  },
+  "ノースレインボー": {
+   "company": "JR北海道",
+   "jp": "ノースレインボー",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "01_hokkaido/exp__h183j52.png",
+    "01_hokkaido/exp__h183j50.png",
+    "01_hokkaido/exp__h183j51.png"
+   ],
+   "all_retired": true
+  },
+  "S北斗/白鳥": {
+   "company": "JR北海道",
+   "jp": "S北斗/白鳥",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "01_hokkaido/hokuto__h281b.png",
+    "01_hokkaido/hokuto__h281kh.png",
+    "01_hokkaido/hokuto__h281pb.png",
+    "01_hokkaido/hokuto__h281pn.png",
+    "01_hokkaido/hokuto__h281ps.png",
+    "01_hokkaido/hokuto__h281p.png",
+    "01_hokkaido/hokuto__h281.png",
+    "01_hokkaido/hokuto__h281h.png"
+   ],
+   "all_retired": true
+  },
+  "ラッピング特急": {
+   "company": "JR北海道",
+   "jp": "ラッピング特急",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "01_hokkaido/hokuto-kamui__h281psnsn.png",
+    "01_hokkaido/hokuto-kamui__h789g1.png"
+   ],
+   "all_retired": true
+  },
+  "スーパー白鳥": {
+   "company": "JR北海道",
+   "jp": "スーパー白鳥",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "01_hokkaido/hakucho__h785g.png",
+    "01_hokkaido/hakucho__h789.png"
+   ],
+   "all_retired": true
+  },
+  "ライラック781": {
+   "company": "JR北海道",
+   "jp": "ライラック781",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "01_hokkaido/lilac__h781.png"
+   ],
+   "all_retired": true
+  },
+  "北海道内特急": {
+   "company": "JR北海道",
+   "jp": "北海道内特急",
+   "series": [
+    "183"
+   ],
+   "current_images": [],
+   "retired_images": [
+    "01_hokkaido/het-183__h183het.png",
+    "01_hokkaido/het-183__h183het2.png",
+    "01_hokkaido/het-183__h183khet.png",
+    "01_hokkaido/het-183__h183ok.png",
+    "01_hokkaido/het-183__h183to.png",
+    "01_hokkaido/het-183__h183k4.png",
+    "01_hokkaido/het-183__h183kto.png",
+    "01_hokkaido/het-183__h183to1.png"
+   ],
+   "all_retired": true
+  },
+  "道内快速/特快/礼文": {
+   "company": "JR北海道",
+   "jp": "道内快速/特快/礼文",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "01_hokkaido/hokkaido-area__h54-ktm.png",
+    "01_hokkaido/hokkaido-area__h40o-abs.png",
+    "01_hokkaido/hokkaido-area__h40o-rmi.png",
+    "01_hokkaido/hokkaido-area__h54rb.png",
+    "01_hokkaido/hokkaido-area__h54rb2.png"
+   ],
+   "all_retired": true
+  },
+  "アルコン,トマム,フラノ": {
+   "company": "JR北海道",
+   "jp": "アルコン,トマム,フラノ",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "01_hokkaido/alphace-tomamu__h59jal2.png",
+    "01_hokkaido/alphace-tomamu__h59jal.png",
+    "01_hokkaido/alphace-tomamu__h56jal.png",
+    "01_hokkaido/alphace-tomamu__h84jtse0.png",
+    "01_hokkaido/alphace-tomamu__h84jtse.png",
+    "01_hokkaido/alphace-tomamu__h84jmlo.png",
+    "01_hokkaido/alphace-tomamu__h84jfe.png"
+   ],
+   "all_retired": true
+  },
+  "道内夜行/北斗星など": {
+   "company": "JR北海道",
+   "jp": "道内夜行/北斗星など",
+   "series": [],
+   "current_images": [
+    "01_hokkaido/hokutosei-rishiri__h400.png",
+    "01_hokkaido/hokutosei-rishiri__h400b.png",
+    "01_hokkaido/hokutosei-rishiri__h14rs.png",
+    "01_hokkaido/hokutosei-rishiri__h14ok.png",
+    "01_hokkaido/hokutosei-rishiri__ed76-5.png",
+    "01_hokkaido/hokutosei-rishiri__ed76-5b.png",
+    "01_hokkaido/hokutosei-rishiri__dd51bl.png",
+    "01_hokkaido/hokutosei-rishiri__dd51bl2.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "海峡/ミッドナイト": {
+   "company": "JR北海道",
+   "jp": "海峡/ミッドナイト",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "01_hokkaido/kaikyo-midnight__ed79.png",
+    "01_hokkaido/kaikyo-midnight__h50bl.png",
+    "01_hokkaido/kaikyo-midnight__h27md.png",
+    "01_hokkaido/kaikyo-midnight__h27md1.png"
+   ],
+   "all_retired": true
+  },
+  "ノロッコ/ST/BBQ車": {
+   "company": "JR北海道",
+   "jp": "ノロッコ/ST/BBQ車",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "01_hokkaido/norokko-bbq-car__de15jnrk.png",
+    "01_hokkaido/norokko-bbq-car__h51nrk.png",
+    "01_hokkaido/norokko-bbq-car__h8000stt.png",
+    "01_hokkaido/norokko-bbq-car__h42nrk.png",
+    "01_hokkaido/norokko-bbq-car__h4350nrk.png",
+    "01_hokkaido/norokko-bbq-car__h29000bbq.png",
+    "01_hokkaido/norokko-bbq-car__h40bbq.png",
+    "01_hokkaido/norokko-bbq-car__h141bbq.png"
+   ],
+   "all_retired": true
+  },
+  "座敷車": {
+   "company": "JR北海道",
+   "jp": "座敷車",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "01_hokkaido/tatami-dmu__h183za.png",
+    "01_hokkaido/tatami-dmu__h400za.png",
+    "01_hokkaido/tatami-dmu__h56za.png",
+    "01_hokkaido/tatami-dmu__h27za0.png",
+    "01_hokkaido/tatami-dmu__h27za1.png",
+    "01_hokkaido/tatami-dmu__h27zas1.png",
+    "01_hokkaido/tatami-dmu__h27zas.png",
+    "01_hokkaido/tatami-dmu__h27za.png"
+   ],
+   "all_retired": true
+  },
+  "くるくる駒ケ岳": {
+   "company": "JR北海道",
+   "jp": "くるくる駒ケ岳",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "01_hokkaido/untitled__h70000krkm.png",
+    "01_hokkaido/untitled__h4350.png",
+    "01_hokkaido/untitled__h70000to1.png",
+    "01_hokkaido/untitled__h70000to.png"
+   ],
+   "all_retired": true
+  },
+  "利尻 ED76-5": {
+   "company": "JR北海道",
+   "jp": "利尻 ED76-5",
+   "series": [
+    "2026"
+   ],
+   "current_images": [],
+   "retired_images": [
+    "01_hokkaido/rishiri-jr-1-2-page-2026-8-21-update__ed76r5-rsr.png"
+   ],
+   "all_retired": true
+  },
+  "ルナ・アズール": {
+   "company": "JR東日本",
+   "jp": "ルナ・アズール",
+   "series": [],
+   "current_images": [
+    "02_east/luna-azul__e657bb.png",
+    "02_east/luna-azul__e657bl.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "あずさ/かいじ": {
+   "company": "JR東日本",
+   "jp": "あずさ/かいじ",
+   "series": [],
+   "current_images": [
+    "02_east/azusa-kaiji__e353.png",
+    "02_east/azusa-kaiji__e353k.png"
+   ],
+   "retired_images": [
+    "02_east/azusa-kaiji__e257s.png",
+    "02_east/azusa-kaiji__e257sk.png",
+    "02_east/azusa-kaiji__e257.png",
+    "02_east/azusa-kaiji__e257k.png",
+    "02_east/azusa-kaiji__e257kk.png",
+    "02_east/azusa-kaiji__e257-2.png",
+    "02_east/azusa-kaiji__e257k2.png",
+    "02_east/azusa-kaiji__e183az1.png",
+    "02_east/azusa-kaiji__e183az.png",
+    "02_east/azusa-kaiji__e183ka.png"
+   ],
+   "all_retired": false
+  },
+  "ひたち/ときわ": {
+   "company": "JR東日本",
+   "jp": "ひたち/ときわ",
+   "series": [],
+   "current_images": [
+    "02_east/hitachi-tokiwa__e657.png",
+    "02_east/hitachi-tokiwa__e657w.png"
+   ],
+   "retired_images": [
+    "02_east/hitachi-tokiwa__e657b.png",
+    "02_east/hitachi-tokiwa__e657g.png",
+    "02_east/hitachi-tokiwa__e657y.png",
+    "02_east/hitachi-tokiwa__e657o.png",
+    "02_east/hitachi-tokiwa__e657r.png"
+   ],
+   "all_retired": false
+  },
+  "成田Exp/房総特急": {
+   "company": "JR東日本",
+   "jp": "成田Exp/房総特急",
+   "series": [],
+   "current_images": [
+    "02_east/n-ex-boso-exp__e259n.png",
+    "02_east/n-ex-boso-exp__e259nk.png",
+    "02_east/n-ex-boso-exp__e257s5.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "サフィール,踊り子": {
+   "company": "JR東日本",
+   "jp": "サフィール,踊り子",
+   "series": [],
+   "current_images": [
+    "02_east/odoriko__e261.png",
+    "02_east/odoriko__e257od25.png",
+    "02_east/odoriko__e257odk.png",
+    "02_east/odoriko__e257od.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "草津四万": {
+   "company": "JR東日本",
+   "jp": "草津四万",
+   "series": [],
+   "current_images": [
+    "02_east/kusatsu-shima__e257-55.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "日光/きぬがわ": {
+   "company": "JR東日本",
+   "jp": "日光/きぬがわ",
+   "series": [],
+   "current_images": [
+    "02_east/untitled__e253nk.png",
+    "02_east/untitled__e253nkb.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "いなほE653": {
+   "company": "JR東日本",
+   "jp": "いなほE653",
+   "series": [],
+   "current_images": [
+    "02_east/inaho__e653ihp.png",
+    "02_east/inaho__e653ihb.png",
+    "02_east/inaho__e653or1.png",
+    "02_east/inaho__e653jb.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "しらゆきE653": {
+   "company": "JR東日本",
+   "jp": "しらゆきE653",
+   "series": [],
+   "current_images": [
+    "02_east/inaho-shirayuki__e653ni.png",
+    "02_east/inaho-shirayuki__e653nu1.png",
+    "02_east/inaho-shirayuki__e653nu2.png",
+    "02_east/inaho-shirayuki__e653nu.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "つがる": {
+   "company": "JR東日本",
+   "jp": "つがる",
+   "series": [],
+   "current_images": [
+    "02_east/tsugaru__e751t.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "臨時列車": {
+   "company": "JR東日本",
+   "jp": "臨時列車",
+   "series": [],
+   "current_images": [
+    "02_east/express__e257g5.png",
+    "02_east/express__e257g5k.png",
+    "02_east/express__e653j.png",
+    "02_east/express__e653m.png",
+    "02_east/express__e255s.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "さきがけ": {
+   "company": "JR東日本",
+   "jp": "さきがけ",
+   "series": [],
+   "current_images": [
+    "02_east/sakigake-jr__e501skgk.png",
+    "02_east/sakigake-jr__e501skgkk.png",
+    "02_east/sakigake-jr__e501skgk0.png",
+    "02_east/sakigake-jr__e501skgkk0.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "スーパーはつかり": {
+   "company": "JR東日本",
+   "jp": "スーパーはつかり",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/hatsukari__e751.png"
+   ],
+   "all_retired": true
+  },
+  "SV踊り子251": {
+   "company": "JR東日本",
+   "jp": "SV踊り子251",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/odoriko__e259od.png",
+    "02_east/odoriko__e251.png",
+    "02_east/odoriko__e251n.png"
+   ],
+   "all_retired": true
+  },
+  "ひたち": {
+   "company": "JR東日本",
+   "jp": "ひたち",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/hitachi__e653bl.png",
+    "02_east/hitachi__e653gr.png",
+    "02_east/hitachi__e653ye.png",
+    "02_east/hitachi__e653or.png",
+    "02_east/hitachi__e653re.png",
+    "02_east/hitachi__e651b.png"
+   ],
+   "all_retired": true
+  },
+  "スーパーあずさ": {
+   "company": "JR東日本",
+   "jp": "スーパーあずさ",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/super-azusa__e351s.png",
+    "02_east/super-azusa__e351ks.png",
+    "02_east/super-azusa__e351ks-1.png",
+    "02_east/super-azusa__e351.png",
+    "02_east/super-azusa__e351k.png",
+    "02_east/super-azusa__e351k-1.png"
+   ],
+   "all_retired": true
+  },
+  "成田EXP/房総特急": {
+   "company": "JR東日本",
+   "jp": "成田EXP/房総特急",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/n-ex-boso-exp__e259.png",
+    "02_east/n-ex-boso-exp__e259-1.png",
+    "02_east/n-ex-boso-exp__e253.png",
+    "02_east/n-ex-boso-exp__e253-1.png",
+    "02_east/n-ex-boso-exp__e257-5.png",
+    "02_east/n-ex-boso-exp__e255.png"
+   ],
+   "all_retired": true
+  },
+  "草津/あかぎ": {
+   "company": "JR東日本",
+   "jp": "草津/あかぎ",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/kusatsu-akagi__e651.png",
+    "02_east/kusatsu-akagi__e651f.png"
+   ],
+   "all_retired": true
+  },
+  "伊豆クレイル": {
+   "company": "JR東日本",
+   "jp": "伊豆クレイル",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/izu-kurail__e651izu.png"
+   ],
+   "all_retired": true
+  },
+  "カシオペアE26": {
+   "company": "JR東日本",
+   "jp": "カシオペアE26",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/cassiopeia__e26.png",
+    "02_east/cassiopeia__e26f.png",
+    "02_east/cassiopeia__e26p.png"
+   ],
+   "all_retired": true
+  },
+  "北斗星": {
+   "company": "JR東日本",
+   "jp": "北斗星",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/cassiopeia__ef510e5c.png",
+    "02_east/cassiopeia__ef510e5hc.png",
+    "02_east/cassiopeia__ef510e5h.png"
+   ],
+   "all_retired": true
+  },
+  "夢空間": {
+   "company": "JR東日本",
+   "jp": "夢空間",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/yumekukan__e25yume.png"
+   ],
+   "all_retired": true
+  },
+  "臨時富士回遊": {
+   "company": "JR東日本",
+   "jp": "臨時富士回遊",
+   "series": [],
+   "current_images": [
+    "02_east/fuji-excursion__e257s5r.png",
+    "02_east/fuji-excursion__e257s5g.png",
+    "02_east/fuji-excursion__e257s5s.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "白鳥,かもしか": {
+   "company": "JR東日本",
+   "jp": "白鳥,かもしか",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/tsugaru__e485ha.png",
+    "02_east/tsugaru__e485ka.png"
+   ],
+   "all_retired": true
+  },
+  "ひたち485": {
+   "company": "JR東日本",
+   "jp": "ひたち485",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/hitachi__e485hi.png",
+    "02_east/hitachi__e485hi-b.png",
+    "02_east/hitachi__e485hi-b2.png",
+    "02_east/hitachi__e485hi-b3.png"
+   ],
+   "all_retired": true
+  },
+  "房総特急183": {
+   "company": "JR東日本",
+   "jp": "房総特急183",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/boso-exp__e183k.png"
+   ],
+   "all_retired": true
+  },
+  "踊り子185": {
+   "company": "JR東日本",
+   "jp": "踊り子185",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/odoriko__e185od.png",
+    "02_east/odoriko__e185od2.png",
+    "02_east/odoriko__e185odj.png"
+   ],
+   "all_retired": true
+  },
+  "あさま189/489": {
+   "company": "JR東日本",
+   "jp": "あさま189/489",
+   "series": [
+    "489"
+   ],
+   "current_images": [],
+   "retired_images": [
+    "02_east/asama__e489kas.png",
+    "02_east/asama__e189as.png"
+   ],
+   "all_retired": true
+  },
+  "いなほ/日本海縦貫特急": {
+   "company": "JR東日本",
+   "jp": "いなほ/日本海縦貫特急",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/inaho-express__e485ra.png",
+    "02_east/inaho-express__e485ih.png",
+    "02_east/inaho-express__e485mi.png",
+    "02_east/inaho-express__e485mi-b2.png",
+    "02_east/inaho-express__e485mi-b.png",
+    "02_east/inaho-express__e485mi2.png",
+    "02_east/inaho-express__e485ihk.png"
+   ],
+   "all_retired": true
+  },
+  "草津/水上/あかぎ": {
+   "company": "JR東日本",
+   "jp": "草津/水上/あかぎ",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/kusatsu-akagi__e185sh.png",
+    "02_east/kusatsu-akagi__e185shh.png",
+    "02_east/kusatsu-akagi__e185j.png",
+    "02_east/kusatsu-akagi__e185ex.png",
+    "02_east/kusatsu-akagi__e185ex2.png",
+    "02_east/kusatsu-akagi__e185fl.png",
+    "02_east/kusatsu-akagi__e183nm.png"
+   ],
+   "all_retired": true
+  },
+  "日光/あいづ": {
+   "company": "JR東日本",
+   "jp": "日光/あいづ",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/nikko-aizu__e485nk1.png",
+    "02_east/nikko-aizu__e485nk.png",
+    "02_east/nikko-aizu__e485ai.png",
+    "02_east/nikko-aizu__e485ai2.png"
+   ],
+   "all_retired": true
+  },
+  "カシオペア": {
+   "company": "JR東日本",
+   "jp": "カシオペア",
+   "series": [
+    "2026"
+   ],
+   "current_images": [
+    "02_east/cassiopeia-jr-jr-1-2-3-4-5-6-7-8-2026-5-1-update__e27dnkas.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "おもしろ電車": {
+   "company": "JR東日本",
+   "jp": "おもしろ電車",
+   "series": [
+    "2025"
+   ],
+   "current_images": [],
+   "retired_images": [
+    "02_east/yamanote-line-jr-jr-1-2-3-4-5-6-7-8-2025-10-10-update__e103omb.png",
+    "02_east/yamanote-line-jr-jr-1-2-3-4-5-6-7-8-2025-10-10-update__e103omg.png"
+   ],
+   "all_retired": true
+  },
+  "B.B.BASE": {
+   "company": "JR東日本",
+   "jp": "B.B.BASE",
+   "series": [],
+   "current_images": [
+    "02_east/boso-bicicle-base__e209bbb.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "中央快速10両": {
+   "company": "JR東日本",
+   "jp": "中央快速10両",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/chuo-ome-line__e233or10.png",
+    "02_east/chuo-ome-line__e233or10a.png",
+    "02_east/chuo-ome-line__e209or1.png"
+   ],
+   "all_retired": true
+  },
+  "ビューやまなし": {
+   "company": "JR東日本",
+   "jp": "ビューやまなし",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/chuo-line__e215.png",
+    "02_east/chuo-line__e215o.png"
+   ],
+   "all_retired": true
+  },
+  "スマート電池": {
+   "company": "JR東日本",
+   "jp": "スマート電池",
+   "series": [],
+   "current_images": [
+    "02_east/ne-train__e993ner.png",
+    "02_east/ne-train__e993neg.png",
+    "02_east/ne-train__e995neg.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "やすらぎ,レインボー": {
+   "company": "JR東日本",
+   "jp": "やすらぎ,レインボー",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/untitled__e12jysrg.png",
+    "02_east/untitled__e12jysrg1.png",
+    "02_east/untitled__ef60jysrg.png",
+    "02_east/untitled__e14jser.png",
+    "02_east/untitled__ef81jser.png",
+    "02_east/untitled__ef65jser.png",
+    "02_east/untitled__ef81jser2.png"
+   ],
+   "all_retired": true
+  },
+  "ドルフィン,彩野": {
+   "company": "JR東日本",
+   "jp": "ドルフィン,彩野",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/dolphin-ayano__e485mt.png",
+    "02_east/dolphin-ayano__e485mt0.png",
+    "02_east/dolphin-ayano__e189jayn.png",
+    "02_east/dolphin-ayano__e189jayn2.png"
+   ],
+   "all_retired": true
+  },
+  "やまどり/華": {
+   "company": "JR東日本",
+   "jp": "やまどり/華",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/yamadori-hana__e485jta.png",
+    "02_east/yamadori-hana__e485jhana.png"
+   ],
+   "all_retired": true
+  },
+  "宴,せせらぎ,やまなみ": {
+   "company": "JR東日本",
+   "jp": "宴,せせらぎ,やまなみ",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/tatami-car__e485jutge.png",
+    "02_east/tatami-car__e485jsese.png",
+    "02_east/tatami-car__e485jyama.png"
+   ],
+   "all_retired": true
+  },
+  "江戸/ゆとり": {
+   "company": "JR東日本",
+   "jp": "江戸/ゆとり",
+   "series": [
+    "2024"
+   ],
+   "current_images": [],
+   "retired_images": [
+    "02_east/edo-yutori-jr-jr-1-2-3-4-5-6-7-8-2024-5-10-update__e12jedo.png",
+    "02_east/edo-yutori-jr-jr-1-2-3-4-5-6-7-8-2024-5-10-update__e14jyutr.png",
+    "02_east/edo-yutori-jr-jr-1-2-3-4-5-6-7-8-2024-5-10-update__e14jyutr1.png"
+   ],
+   "all_retired": true
+  },
+  "海里/RVふるさと": {
+   "company": "JR東日本",
+   "jp": "海里/RVふるさと",
+   "series": [],
+   "current_images": [
+    "02_east/kairi-furusato__e300kri.png",
+    "02_east/kairi-furusato__e300frst.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "ばんえつ物語/シュクラ": {
+   "company": "JR東日本",
+   "jp": "ばんえつ物語/シュクラ",
+   "series": [],
+   "current_images": [
+    "02_east/banetsu-shukura__c57ba.png",
+    "02_east/banetsu-shukura__e12bap.png",
+    "02_east/banetsu-shukura__e12bap2.png",
+    "02_east/banetsu-shukura__e40jksn.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "おいこっと/ハイレール": {
+   "company": "JR東日本",
+   "jp": "おいこっと/ハイレール",
+   "series": [],
+   "current_images": [
+    "02_east/oykot-highrail-jr__e110jiy1.png",
+    "02_east/oykot-highrail-jr__e110jiy2.png",
+    "02_east/oykot-highrail-jr__e110hr0.png",
+    "02_east/oykot-highrail-jr__e110hr.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "ムーンライト": {
+   "company": "JR東日本",
+   "jp": "ムーンライト",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/moonlight-echigo__e165m.png",
+    "02_east/moonlight-echigo__e165.png",
+    "02_east/moonlight-echigo__e165m1e.png",
+    "02_east/moonlight-echigo__e165he.png",
+    "02_east/moonlight-echigo__e165m1h.png",
+    "02_east/moonlight-echigo__e165h1.png",
+    "02_east/moonlight-echigo__e165m1.png",
+    "02_east/moonlight-echigo__e165m2.png",
+    "02_east/moonlight-echigo__e165m3.png",
+    "02_east/moonlight-echigo__e165m3h.png",
+    "02_east/moonlight-echigo__e165m0h.png",
+    "02_east/moonlight-echigo__e165m0.png"
+   ],
+   "all_retired": true
+  },
+  "シルフィード": {
+   "company": "JR東日本",
+   "jp": "シルフィード",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/sirfied__de10jslfd2.png",
+    "02_east/sirfied__de10jslfd.png",
+    "02_east/sirfied__e485jslfd.png"
+   ],
+   "all_retired": true
+  },
+  "カーペット/サロン佐渡": {
+   "company": "JR東日本",
+   "jp": "カーペット/サロン佐渡",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/salon-sado__e58jkpt.png",
+    "02_east/salon-sado__e58jkpt1.png",
+    "02_east/salon-sado__e12jsado.png"
+   ],
+   "all_retired": true
+  },
+  "ばんえつ物語/*赤倉": {
+   "company": "JR東日本",
+   "jp": "ばんえつ物語/*赤倉",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/banetsu-akakura__e12ba.png",
+    "02_east/banetsu-akakura__e12ba2.png",
+    "02_east/banetsu-akakura__e165ak.png"
+   ],
+   "all_retired": true
+  },
+  "彩/Kうえつ/NoDoKa": {
+   "company": "JR東日本",
+   "jp": "彩/Kうえつ/NoDoKa",
+   "series": [
+    "2026"
+   ],
+   "current_images": [],
+   "retired_images": [
+    "02_east/irodori-uetsu-jr-jr-1-2-3-4-5-6-7-8-2026-4-3-update__e485jngv.png",
+    "02_east/irodori-uetsu-jr-jr-1-2-3-4-5-6-7-8-2026-4-3-update__e485jngr.png",
+    "02_east/irodori-uetsu-jr-jr-1-2-3-4-5-6-7-8-2026-4-3-update__e485jkrue.png",
+    "02_east/irodori-uetsu-jr-jr-1-2-3-4-5-6-7-8-2026-4-3-update__e485jnodk.png"
+   ],
+   "all_retired": true
+  },
+  "さとの/ひなび": {
+   "company": "JR東日本",
+   "jp": "さとの/ひなび",
+   "series": [],
+   "current_images": [
+    "02_east/satono-hinabi__e300stg.png",
+    "02_east/satono-hinabi__e300stm.png",
+    "02_east/satono-hinabi__e300hnb.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "陸羽/左沢/おもいで": {
+   "company": "JR東日本",
+   "jp": "陸羽/左沢/おもいで",
+   "series": [],
+   "current_images": [
+    "02_east/rikuu-aterazawa__e110oc.png",
+    "02_east/rikuu-aterazawa__e110at.png",
+    "02_east/rikuu-aterazawa__e110om.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "風っこ": {
+   "company": "JR東日本",
+   "jp": "風っこ",
+   "series": [],
+   "current_images": [
+    "02_east/kazekko__e40jkaze.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "フルーティア": {
+   "company": "JR東日本",
+   "jp": "フルーティア",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/fruitea__e719ft.png"
+   ],
+   "all_retired": true
+  },
+  "リゾートみのり": {
+   "company": "JR東日本",
+   "jp": "リゾートみのり",
+   "series": [],
+   "current_images": [
+    "02_east/minori__e40jmn.png",
+    "02_east/minori__e40jmnk.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "カシオペア/北斗星": {
+   "company": "JR東日本",
+   "jp": "カシオペア/北斗星",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/hokutosei__ef81kas2.png",
+    "02_east/hokutosei__ef81kas.png",
+    "02_east/hokutosei__e24.png",
+    "02_east/hokutosei__j24dng.png",
+    "02_east/hokutosei__j24hg.png",
+    "02_east/hokutosei__j24dng0.png",
+    "02_east/hokutosei__j24m50g.png"
+   ],
+   "all_retired": true
+  },
+  "ふるさと": {
+   "company": "JR東日本",
+   "jp": "ふるさと",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/furusato__e40jfg.png",
+    "02_east/furusato__e40jfr.png",
+    "02_east/furusato__e40jfv.png"
+   ],
+   "all_retired": true
+  },
+  "/オプティカル電車": {
+   "company": "JR東日本",
+   "jp": "/オプティカル電車",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/senzan-line__e455se.png",
+    "02_east/senzan-line__e455opg.png",
+    "02_east/senzan-line__e455opb.png",
+    "02_east/senzan-line__e455pwr.png",
+    "02_east/senzan-line__e455pwy.png"
+   ],
+   "all_retired": true
+  },
+  "こがね/*グラシア": {
+   "company": "JR東日本",
+   "jp": "こがね/*グラシア",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/kogane-gracia__e58jkgn.png",
+    "02_east/kogane-gracia__e58jgrsa.png",
+    "02_east/kogane-gracia__e58jgrsa2.png"
+   ],
+   "all_retired": true
+  },
+  "オリエントサルーン": {
+   "company": "JR東日本",
+   "jp": "オリエントサルーン",
+   "series": [
+    "2026"
+   ],
+   "current_images": [],
+   "retired_images": [
+    "02_east/orient-saloon-jr-jr-1-2-3-4-5-6-7-8-2026-1-23-update__ed75jores.png",
+    "02_east/orient-saloon-jr-jr-1-2-3-4-5-6-7-8-2026-1-23-update__e12jores.png"
+   ],
+   "all_retired": true
+  },
+  "東北エモーション": {
+   "company": "JR東日本",
+   "jp": "東北エモーション",
+   "series": [],
+   "current_images": [
+    "02_east/tohoku-emotion__e110emo.png",
+    "02_east/tohoku-emotion__e110emo1.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "リゾートしらかみ": {
+   "company": "JR東日本",
+   "jp": "リゾートしらかみ",
+   "series": [],
+   "current_images": [
+    "02_east/shirakami__e300sr1.png",
+    "02_east/shirakami__e300sr2.png",
+    "02_east/shirakami__e40jrs3.png",
+    "02_east/shirakami__e40kjrs3.png"
+   ],
+   "retired_images": [
+    "02_east/shirakami__e40rs.png",
+    "02_east/shirakami__e40jrs.png",
+    "02_east/shirakami__e40kjrs.png",
+    "02_east/shirakami__e40jrs2.png",
+    "02_east/shirakami__e40kjrs2.png"
+   ],
+   "all_retired": false
+  },
+  "ポケモントレイン": {
+   "company": "JR東日本",
+   "jp": "ポケモントレイン",
+   "series": [],
+   "current_images": [
+    "02_east/ofunato-line-jr__e110pm1n.png",
+    "02_east/ofunato-line-jr__e110pm2n.png",
+    "02_east/ofunato-line-jr__e110pm1.png",
+    "02_east/ofunato-line-jr__e110pm2.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "秋田リレー": {
+   "company": "JR東日本",
+   "jp": "秋田リレー",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/akita-relay__e110ak.png"
+   ],
+   "all_retired": true
+  },
+  "リゾートあすなろ": {
+   "company": "JR東日本",
+   "jp": "リゾートあすなろ",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/asunaro__e300as.png"
+   ],
+   "all_retired": true
+  },
+  "クルージングトレイン": {
+   "company": "JR東日本",
+   "jp": "クルージングトレイン",
+   "series": [],
+   "current_images": [
+    "02_east/cruising-train__e40jct.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "あきたクルーズトレイン": {
+   "company": "JR東日本",
+   "jp": "あきたクルーズトレイン",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/akita-cruise-train__e40akc.png",
+    "02_east/akita-cruise-train__e40akck.png"
+   ],
+   "all_retired": true
+  },
+  "みちのく/うみねこ/*": {
+   "company": "JR東日本",
+   "jp": "みちのく/うみねこ/*",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/michinoku-umineko__e40jkrmt.png",
+    "02_east/michinoku-umineko__e40kjkrmt.png",
+    "02_east/michinoku-umineko__e40umnk.png",
+    "02_east/michinoku-umineko__e22utou.png",
+    "02_east/michinoku-umineko__e58um.png",
+    "02_east/michinoku-umineko__e58um15.png",
+    "02_east/michinoku-umineko__e52mo0.png",
+    "02_east/michinoku-umineko__e40mo0.png",
+    "02_east/michinoku-umineko__e23mo0.png"
+   ],
+   "all_retired": true
+  },
+  "よねしろ": {
+   "company": "JR東日本",
+   "jp": "よねしろ",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/yoneshiro__e58ynsr.png",
+    "02_east/yoneshiro__e58ynsr2.png"
+   ],
+   "all_retired": true
+  },
+  "エーデルワイス": {
+   "company": "JR東日本",
+   "jp": "エーデルワイス",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/untitled__e58jedw1.png",
+    "02_east/untitled__e58jedw2.png",
+    "02_east/untitled__e12jmtnk.png",
+    "02_east/untitled__e12jmtnk1.png"
+   ],
+   "all_retired": true
+  },
+  "ノスビュー": {
+   "company": "JR東日本",
+   "jp": "ノスビュー",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/nostalgic-view__de10jnosv.png",
+    "02_east/nostalgic-view__e50jnosv.png",
+    "02_east/nostalgic-view__e50kjnosv.png"
+   ],
+   "all_retired": true
+  },
+  "さんりくトレイン": {
+   "company": "JR東日本",
+   "jp": "さんりくトレイン",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/untitled__e58jknj3.png",
+    "02_east/untitled__e58jkenji3.png",
+    "02_east/untitled__e58jkenj.png",
+    "02_east/untitled__e58jknj3k.png",
+    "02_east/untitled__e58jkenjig.png",
+    "02_east/untitled__e58jkenjik.png"
+   ],
+   "all_retired": true
+  },
+  "ジパング": {
+   "company": "JR東日本",
+   "jp": "ジパング",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/zipang__e485jmo.png"
+   ],
+   "all_retired": true
+  },
+  "SL銀河": {
+   "company": "JR東日本",
+   "jp": "SL銀河",
+   "series": [
+    "2026"
+   ],
+   "current_images": [],
+   "retired_images": [
+    "02_east/ginga-jr-jr-1-2-3-4-5-6-7-8-2026-7-24-update__c58gng.png",
+    "02_east/ginga-jr-jr-1-2-3-4-5-6-7-8-2026-7-24-update__e141gi2.png",
+    "02_east/ginga-jr-jr-1-2-3-4-5-6-7-8-2026-7-24-update__e141gi1.png"
+   ],
+   "all_retired": true
+  },
+  "Pアルプス/メルヘン": {
+   "company": "JR東日本",
+   "jp": "Pアルプス/メルヘン",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/alps__e165jalps.png",
+    "02_east/alps__e165jalpsk.png",
+    "02_east/alps__e167jmlhn2.png",
+    "02_east/alps__e167jmlhn1.png"
+   ],
+   "all_retired": true
+  },
+  "なのはな": {
+   "company": "JR東日本",
+   "jp": "なのはな",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/nanohana__e165jnand.png",
+    "02_east/nanohana__e165jnano.png",
+    "02_east/nanohana__e165-jnano.png"
+   ],
+   "all_retired": true
+  },
+  "シャトルマイハマ/α": {
+   "company": "JR東日本",
+   "jp": "シャトルマイハマ/α",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/shuttle-maihama__e165jmh.png",
+    "02_east/shuttle-maihama__e165jalfa.png"
+   ],
+   "all_retired": true
+  },
+  "ゆう": {
+   "company": "JR東日本",
+   "jp": "ゆう",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/yu__e485jyu.png",
+    "02_east/yu__e50jyu.png"
+   ],
+   "all_retired": true
+  },
+  "なごやか/くつろぎ": {
+   "company": "JR東日本",
+   "jp": "なごやか/くつろぎ",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/kutsurogi__e12jngyk2.png",
+    "02_east/kutsurogi__e12jktrg0.png",
+    "02_east/kutsurogi__e12jktrg.png"
+   ],
+   "all_retired": true
+  },
+  "アルカディア/おもいで": {
+   "company": "JR東日本",
+   "jp": "アルカディア/おもいで",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/arcadia-omoide__e58jalkd.png",
+    "02_east/arcadia-omoide__e58jalkdk.png",
+    "02_east/arcadia-omoide__e58omid.png"
+   ],
+   "all_retired": true
+  },
+  "白樺": {
+   "company": "JR東日本",
+   "jp": "白樺",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/shirakaba__e12jsrkb0.png",
+    "02_east/shirakaba__e12jsrkb1.png",
+    "02_east/shirakaba__e12jsrkb2.png"
+   ],
+   "all_retired": true
+  },
+  "夢空間/浪漫": {
+   "company": "JR東日本",
+   "jp": "夢空間/浪漫",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/ymekukan-roman__e14jrmn1.png",
+    "02_east/ymekukan-roman__e14jrmn2.png"
+   ],
+   "all_retired": true
+  },
+  "ロマンティック秋風": {
+   "company": "JR東日本",
+   "jp": "ロマンティック秋風",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/oito-line__e52akkz.png"
+   ],
+   "all_retired": true
+  },
+  "四季彩": {
+   "company": "JR東日本",
+   "jp": "四季彩",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/shikisai__e201jpi.png",
+    "02_east/shikisai__e201jmi.png",
+    "02_east/shikisai__e201jmr.png"
+   ],
+   "all_retired": true
+  },
+  "小海/マザーグース": {
+   "company": "JR東日本",
+   "jp": "小海/マザーグース",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/koumi-line__e52kum1.png",
+    "02_east/koumi-line__e52kum2.png",
+    "02_east/koumi-line__e52kum3.png",
+    "02_east/koumi-line__e52kum.png",
+    "02_east/koumi-line__e50jmg.png",
+    "02_east/koumi-line__e12jmg.png"
+   ],
+   "all_retired": true
+  },
+  "アメリカンﾄﾚｲﾝ": {
+   "company": "JR東日本",
+   "jp": "アメリカンﾄﾚｲﾝ",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/american-train__ef60amtr.png",
+    "02_east/american-train__j50am.png"
+   ],
+   "all_retired": true
+  },
+  "高崎トロッコ": {
+   "company": "JR東日本",
+   "jp": "高崎トロッコ",
+   "series": [
+    "2025"
+   ],
+   "current_images": [],
+   "retired_images": [
+    "02_east/takasaki-trokko-jr-jr-1-2-3-4-5-6-7-8-2025-1-10-update__e90000tb.png",
+    "02_east/takasaki-trokko-jr-jr-1-2-3-4-5-6-7-8-2025-1-10-update__e90000tg.png",
+    "02_east/takasaki-trokko-jr-jr-1-2-3-4-5-6-7-8-2025-1-10-update__e90000tr.png",
+    "02_east/takasaki-trokko-jr-jr-1-2-3-4-5-6-7-8-2025-1-10-update__e90000tw.png"
+   ],
+   "all_retired": true
+  },
+  "ひだ南紀/★みえ": {
+   "company": "JR東海",
+   "jp": "ひだ南紀/★みえ",
+   "series": [],
+   "current_images": [
+    "03_tokai/hida-mie-hc85-35__c85h.png",
+    "03_tokai/hida-mie-hc85-35__c35.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "385/383しなの": {
+   "company": "JR東海",
+   "jp": "385/383しなの",
+   "series": [
+    "385"
+   ],
+   "current_images": [
+    "03_tokai/shinano__c385.png",
+    "03_tokai/shinano__c383.png",
+    "03_tokai/shinano__c383k.png",
+    "03_tokai/shinano__c383k-1.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "ふじかわ373": {
+   "company": "JR東海",
+   "jp": "ふじかわ373",
+   "series": [],
+   "current_images": [
+    "03_tokai/shinano-fujikawa__c373.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "あさぎり371": {
+   "company": "JR東海",
+   "jp": "あさぎり371",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "03_tokai/asagiri__c371.png"
+   ],
+   "all_retired": true
+  },
+  "ひだ/ 南紀85": {
+   "company": "JR東海",
+   "jp": "ひだ/ 南紀85",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "03_tokai/hida-nanki__c85.png",
+    "03_tokai/hida-nanki__c85s.png",
+    "03_tokai/hida-nanki__c85na.png"
+   ],
+   "all_retired": true
+  },
+  "東海各線311": {
+   "company": "JR東海",
+   "jp": "東海各線311",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "03_tokai/311__c311sn.png",
+    "03_tokai/311__c311n.png",
+    "03_tokai/311__c311.png",
+    "03_tokai/311__c311s.png"
+   ],
+   "all_retired": true
+  },
+  "知多酢トーリー": {
+   "company": "JR東海",
+   "jp": "知多酢トーリー",
+   "series": [],
+   "current_images": [
+    "03_tokai/taketoyo-line__c313bb.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "しなの381": {
+   "company": "JR東海",
+   "jp": "しなの381",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "03_tokai/shinano__c381n.png"
+   ],
+   "all_retired": true
+  },
+  "ユーロL/ナコ座": {
+   "company": "JR東海",
+   "jp": "ユーロL/ナコ座",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "03_tokai/euro-liner__ef65jeuro.png",
+    "03_tokai/euro-liner__ef64jeuro.png",
+    "03_tokai/euro-liner__dd51jeuro.png",
+    "03_tokai/euro-liner__c14jeuro.png",
+    "03_tokai/euro-liner__c12jeuro.png",
+    "03_tokai/euro-liner__c12jnakz.png"
+   ],
+   "all_retired": true
+  },
+  "ゆうゆう東海": {
+   "company": "JR東海",
+   "jp": "ゆうゆう東海",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "03_tokai/untitled__c165jyuyu.png",
+    "03_tokai/untitled__c17tb.png",
+    "03_tokai/untitled__c17tr.png",
+    "03_tokai/untitled__c17ktb.png"
+   ],
+   "all_retired": true
+  },
+  "浜松工場": {
+   "company": "JR東海",
+   "jp": "浜松工場",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "03_tokai/ed62-hamamatsu__ed62hmmt.png"
+   ],
+   "all_retired": true
+  },
+  "くろしお復刻": {
+   "company": "JR西日本",
+   "jp": "くろしお復刻",
+   "series": [
+    "287"
+   ],
+   "current_images": [
+    "04_west/kuroshio-287__w287skr.png",
+    "04_west/kuroshio-287__w287krm.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "いにしへ289": {
+   "company": "JR西日本",
+   "jp": "いにしへ289",
+   "series": [],
+   "current_images": [
+    "04_west/inishie__w289k-ins.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "まほろば683": {
+   "company": "JR西日本",
+   "jp": "まほろば683",
+   "series": [],
+   "current_images": [
+    "04_west/mahoroba__w289mhr.png",
+    "04_west/mahoroba__w289mhs.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "やくも": {
+   "company": "JR西日本",
+   "jp": "やくも",
+   "series": [
+    "273"
+   ],
+   "current_images": [
+    "04_west/yakumo-273__w273.png"
+   ],
+   "retired_images": [
+    "04_west/yakumo__w381yk5j.png",
+    "04_west/yakumo__w381yk5.png",
+    "04_west/yakumo__w381pyk.png",
+    "04_west/yakumo__w381ykk.png",
+    "04_west/yakumo__w381yk.png",
+    "04_west/untitled__w381psy.png",
+    "04_west/untitled__w381ksy.png",
+    "04_west/untitled__w381sy.png",
+    "04_west/untitled__w381sy0.png",
+    "04_west/untitled__w381kya.png",
+    "04_west/untitled__w381ya.png"
+   ],
+   "all_retired": false
+  },
+  "はなあかり189": {
+   "company": "JR西日本",
+   "jp": "はなあかり189",
+   "series": [],
+   "current_images": [
+    "04_west/hana-akari__w189hnak.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "サンダーバード": {
+   "company": "JR西日本",
+   "jp": "サンダーバード",
+   "series": [],
+   "current_images": [
+    "04_west/thunderbird__w683n.png",
+    "04_west/thunderbird__w681n.png",
+    "04_west/thunderbird__w683k4.png",
+    "04_west/thunderbird__w683.png",
+    "04_west/thunderbird__w681p.png",
+    "04_west/thunderbird__w681.png",
+    "04_west/thunderbird__w683k.png",
+    "04_west/thunderbird__w681k.png",
+    "04_west/thunderbird__w683k-1.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "しらさぎRN": {
+   "company": "JR西日本",
+   "jp": "しらさぎRN",
+   "series": [],
+   "current_images": [
+    "04_west/shirasagi__w683ksrn.png",
+    "04_west/shirasagi__w683ksrn-1.png",
+    "04_west/shirasagi__w683srn.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "しらさぎ(Hid灯)": {
+   "company": "JR西日本",
+   "jp": "しらさぎ(Hid灯)",
+   "series": [
+    "683"
+   ],
+   "current_images": [
+    "04_west/shirasagi-683__w683-8.png",
+    "04_west/shirasagi-683__w683k8.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "サンガトレイン": {
+   "company": "JR西日本",
+   "jp": "サンガトレイン",
+   "series": [
+    "287"
+   ],
+   "current_images": [
+    "04_west/kinosaki-287__w287v1.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "こうのとり/くろしお": {
+   "company": "JR西日本",
+   "jp": "こうのとり/くろしお",
+   "series": [],
+   "current_images": [
+    "04_west/konotori__w287k.png",
+    "04_west/konotori__w287pd2.png",
+    "04_west/konotori__w287.png",
+    "04_west/konotori__w287-1.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "くろしお": {
+   "company": "JR西日本",
+   "jp": "くろしお",
+   "series": [],
+   "current_images": [
+    "04_west/kuroshio__w283.png",
+    "04_west/kuroshio__w283k.png",
+    "04_west/kuroshio__w283k-1.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "はるか": {
+   "company": "JR西日本",
+   "jp": "はるか",
+   "series": [],
+   "current_images": [
+    "04_west/haruka__w281.png",
+    "04_west/haruka__w281kt.png",
+    "04_west/haruka__w271.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "こうのとり": {
+   "company": "JR西日本",
+   "jp": "こうのとり",
+   "series": [
+    "289"
+   ],
+   "current_images": [
+    "04_west/kounotori-289__w289kani.png",
+    "04_west/kounotori-289__w289kkani.png",
+    "04_west/kounotori-289__w289g.png",
+    "04_west/kounotori-289__w289kg.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "山陰特急/はまかぜ": {
+   "company": "JR西日本",
+   "jp": "山陰特急/はまかぜ",
+   "series": [],
+   "current_images": [
+    "04_west/sanin-area__w187.png",
+    "04_west/sanin-area__w189.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "サンライズ/TW瑞風": {
+   "company": "JR西日本",
+   "jp": "サンライズ/TW瑞風",
+   "series": [],
+   "current_images": [
+    "04_west/sunrise-exp-mizukaze__w285.png",
+    "04_west/sunrise-exp-mizukaze__w285-1.png",
+    "04_west/sunrise-exp-mizukaze__w87.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "ウエストエクスプレス銀河": {
+   "company": "JR西日本",
+   "jp": "ウエストエクスプレス銀河",
+   "series": [],
+   "current_images": [
+    "04_west/west-exp-ginga__w117wex.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "瀬戸内MV/みすゞ潮彩": {
+   "company": "JR西日本",
+   "jp": "瀬戸内MV/みすゞ潮彩",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "04_west/marine-view-misuzu__w40jsmv.png",
+    "04_west/marine-view-misuzu__w40msz.png"
+   ],
+   "all_retired": true
+  },
+  "あすか/*SCなにわ": {
+   "company": "JR西日本",
+   "jp": "あすか/*SCなにわ",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "04_west/asuka-naniwa__w12jask.png",
+    "04_west/asuka-naniwa__w14jnanw0.png",
+    "04_west/asuka-naniwa__w14jnanw.png"
+   ],
+   "all_retired": true
+  },
+  "slやまぐち北びわこ": {
+   "company": "JR西日本",
+   "jp": "slやまぐち北びわこ",
+   "series": [],
+   "current_images": [
+    "04_west/sl__w12jygp.png",
+    "04_west/sl__w12jyg.png",
+    "04_west/sl__w12jyg2.png",
+    "04_west/sl__c57ym.png",
+    "04_west/sl__w35.png",
+    "04_west/sl__w35k.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "あかつき/日本海": {
+   "company": "JR西日本",
+   "jp": "あかつき/日本海",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "04_west/akatsuki-nihonkai__w14rgt.png",
+    "04_west/akatsuki-nihonkai__w24dngs.png"
+   ],
+   "all_retired": true
+  },
+  "トワイライト": {
+   "company": "JR西日本",
+   "jp": "トワイライト",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "04_west/twilight-exp__ef65k-twe.png",
+    "04_west/twilight-exp__w24tw.png",
+    "04_west/twilight-exp__w24dntw.png",
+    "04_west/twilight-exp__w24twk.png",
+    "04_west/twilight-exp__ef65twe.png",
+    "04_west/twilight-exp__ef81twe2.png",
+    "04_west/twilight-exp__ef65twe1.png",
+    "04_west/twilight-exp__ef81twe.png"
+   ],
+   "all_retired": true
+  },
+  "きたぐに/波動用": {
+   "company": "JR西日本",
+   "jp": "きたぐに/波動用",
+   "series": [
+    "2026"
+   ],
+   "current_images": [],
+   "retired_images": [
+    "04_west/kitaguni-jr-jr-1-2-3-4-5-6-7-8-2026-2-13-update__w583.png",
+    "04_west/kitaguni-jr-jr-1-2-3-4-5-6-7-8-2026-2-13-update__w583-1.png",
+    "04_west/kitaguni-jr-jr-1-2-3-4-5-6-7-8-2026-2-13-update__w583bl.png",
+    "04_west/kitaguni-jr-jr-1-2-3-4-5-6-7-8-2026-2-13-update__w583bl-1.png"
+   ],
+   "all_retired": true
+  },
+  "東西東海道福知山": {
+   "company": "JR西日本",
+   "jp": "東西東海道福知山",
+   "series": [],
+   "current_images": [
+    "04_west/jr-tozai-line__w321.png",
+    "04_west/jr-tozai-line__w321p.png",
+    "04_west/jr-tozai-line__w207nk.png",
+    "04_west/jr-tozai-line__w207np.png",
+    "04_west/jr-tozai-line__w207y2p.png",
+    "04_west/jr-tozai-line__w207y2k.png",
+    "04_west/jr-tozai-line__w207y2.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "Saku美Saku楽": {
+   "company": "JR西日本",
+   "jp": "Saku美Saku楽",
+   "series": [],
+   "current_images": [
+    "04_west/sakubisakura__w47sak.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "ラマルドボア": {
+   "company": "JR西日本",
+   "jp": "ラマルドボア",
+   "series": [],
+   "current_images": [
+    "04_west/la-malle-de-bois__w213w.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "マリンライナー": {
+   "company": "JR西日本",
+   "jp": "マリンライナー",
+   "series": [],
+   "current_images": [
+    "04_west/okayama-area__w223-5m.png",
+    "04_west/okayama-area__w223-5m2.png"
+   ],
+   "retired_images": [
+    "04_west/marine-liner__w211jyu.png",
+    "04_west/marine-liner__w213pgr.png",
+    "04_west/marine-liner__w213pye.png",
+    "04_west/marine-liner__w213por.png",
+    "04_west/marine-liner__w213ppi.png",
+    "04_west/marine-liner__w213pbl.png",
+    "04_west/marine-liner__w213pbmo.png",
+    "04_west/marine-liner__w213ppmo.png"
+   ],
+   "all_retired": false
+  },
+  "Setouchi train": {
+   "company": "JR西日本",
+   "jp": "Setouchi train",
+   "series": [],
+   "current_images": [
+    "04_west/sanyo-line__w115sett.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "奥出雲おろち号": {
+   "company": "JR西日本",
+   "jp": "奥出雲おろち号",
+   "series": [],
+   "current_images": [
+    "04_west/okuizumo-orochi__w13jort.png",
+    "04_west/okuizumo-orochi__de10jort.png",
+    "04_west/okuizumo-orochi__de10jort1.png",
+    "04_west/okuizumo-orochi__de10jort2.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "砂丘つやま/吉備": {
+   "company": "JR西日本",
+   "jp": "砂丘つやま/吉備",
+   "series": [
+    "2026"
+   ],
+   "current_images": [],
+   "retired_images": [
+    "04_west/sakyu-tsuyama-jr-jr-1-2-3-4-5-6-7-8-2026-1-15-update__w58tu2.png",
+    "04_west/sakyu-tsuyama-jr-jr-1-2-3-4-5-6-7-8-2026-1-15-update__w65tu2.png",
+    "04_west/sakyu-tsuyama-jr-jr-1-2-3-4-5-6-7-8-2026-1-15-update__w58tu.png",
+    "04_west/sakyu-tsuyama-jr-jr-1-2-3-4-5-6-7-8-2026-1-15-update__w65tu.png",
+    "04_west/sakyu-tsuyama-jr-jr-1-2-3-4-5-6-7-8-2026-1-15-update__w40kb.png",
+    "04_west/sakyu-tsuyama-jr-jr-1-2-3-4-5-6-7-8-2026-1-15-update__w53kb.png"
+   ],
+   "all_retired": true
+  },
+  "うみやまむすび": {
+   "company": "JR西日本",
+   "jp": "うみやまむすび",
+   "series": [],
+   "current_images": [
+    "04_west/umiyama-musubi__w40uym.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "加古川線": {
+   "company": "JR西日本",
+   "jp": "加古川線",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "04_west/untitled__w103kap.png",
+    "04_west/untitled__w103kap2.png",
+    "04_west/untitled__w103kap3.png",
+    "04_west/untitled__w23ka.png",
+    "04_west/untitled__w37ka0.png",
+    "04_west/untitled__w37ka.png"
+   ],
+   "all_retired": true
+  },
+  "姫新線/はばタン": {
+   "company": "JR西日本",
+   "jp": "姫新線/はばタン",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "04_west/untitled__w40hj1.png",
+    "04_west/untitled__w40hj.png",
+    "04_west/untitled__w58hj.png",
+    "04_west/untitled__w58hj2.png",
+    "04_west/untitled__w40hbtn.png"
+   ],
+   "all_retired": true
+  },
+  "北陸タウントレイン": {
+   "company": "JR西日本",
+   "jp": "北陸タウントレイン",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "04_west/hokuriku-rail__w419l2.png",
+    "04_west/hokuriku-rail__w455bt1.png",
+    "04_west/hokuriku-rail__w455t1.png",
+    "04_west/hokuriku-rail__w455bt2.png",
+    "04_west/hokuriku-rail__w455t2.png",
+    "04_west/hokuriku-rail__w419h.png",
+    "04_west/hokuriku-rail__w419l.png"
+   ],
+   "all_retired": true
+  },
+  "大糸線/越美北": {
+   "company": "JR西日本",
+   "jp": "大糸線/越美北",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "04_west/untitled__w23oi1.png",
+    "04_west/untitled__w23oi.png",
+    "04_west/untitled__w52oi.png",
+    "04_west/untitled__w52oio2.png",
+    "04_west/untitled__w52oio1.png",
+    "04_west/untitled__w52oir.png",
+    "04_west/untitled__w52oib.png"
+   ],
+   "all_retired": true
+  },
+  "たかやま": {
+   "company": "JR西日本",
+   "jp": "たかやま",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "04_west/takayama__w58ta.png",
+    "04_west/takayama__w58ta3.png",
+    "04_west/takayama__w58ta2.png",
+    "04_west/takayama__w58ta4.png"
+   ],
+   "all_retired": true
+  },
+  "氷見城端線": {
+   "company": "JR西日本",
+   "jp": "氷見城端線",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "04_west/untitled__w40tk.png",
+    "04_west/untitled__w58tk.png",
+    "04_west/untitled__w58stk.png",
+    "04_west/untitled__w58tk0.png",
+    "04_west/untitled__w35tk0.png",
+    "04_west/untitled__w45tk0.png"
+   ],
+   "all_retired": true
+  },
+  "くろしお/*かがやき": {
+   "company": "JR西日本",
+   "jp": "くろしお/*かがやき",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "04_west/kuroshio-kagayaki__w381pkr2.png",
+    "04_west/kuroshio-kagayaki__w381kr2.png",
+    "04_west/kuroshio-kagayaki__w381pkr1.png",
+    "04_west/kuroshio-kagayaki__w381kr1.png",
+    "04_west/kuroshio-kagayaki__w485kg.png",
+    "04_west/kuroshio-kagayaki__w485kkg.png"
+   ],
+   "all_retired": true
+  },
+  "北近畿特急": {
+   "company": "JR西日本",
+   "jp": "北近畿特急",
+   "series": [],
+   "current_images": [
+    "04_west/kitakinki-area__w183ha.png",
+    "04_west/kitakinki-area__w183kha1.png",
+    "04_west/kitakinki-area__w183kha.png",
+    "04_west/kitakinki-area__w183kha2.png",
+    "04_west/kitakinki-area__w183kha1-1.png",
+    "04_west/kitakinki-area__w183kha-1.png",
+    "04_west/kitakinki-area__w485kmz.png",
+    "04_west/kitakinki-area__w181n.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "北陸特急": {
+   "company": "JR西日本",
+   "jp": "北陸特急",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "04_west/hokuriku-area__w489hk1b.png",
+    "04_west/hokuriku-area__w489hk-b.png",
+    "04_west/hokuriku-area__w489hk-b1.png",
+    "04_west/hokuriku-area__w485ha.png",
+    "04_west/hokuriku-area__w485hk.png",
+    "04_west/hokuriku-area__w485kn-b.png",
+    "04_west/hokuriku-area__w489kn.png",
+    "04_west/hokuriku-area__w485crm.png"
+   ],
+   "all_retired": true
+  },
+  "S雷鳥": {
+   "company": "JR西日本",
+   "jp": "S雷鳥",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "04_west/raicho__w485pra.png",
+    "04_west/raicho__w485pra1.png",
+    "04_west/raicho__w485ra2.png",
+    "04_west/raicho__w485ra.png",
+    "04_west/raicho__w485kkra.png",
+    "04_west/raicho__w485ra2-1.png",
+    "04_west/raicho__w485kra.png",
+    "04_west/raicho__w485k.png"
+   ],
+   "all_retired": true
+  },
+  "しらさぎ": {
+   "company": "JR西日本",
+   "jp": "しらさぎ",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "04_west/shirasagi__w485kbl.png",
+    "04_west/shirasagi__w485si.png",
+    "04_west/shirasagi__w485bl.png",
+    "04_west/shirasagi__w485bl2.png",
+    "04_west/shirasagi__w485p.png",
+    "04_west/shirasagi__w485bl3.png",
+    "04_west/shirasagi__w485bl4.png",
+    "04_west/shirasagi__w485bl4-1.png"
+   ],
+   "all_retired": true
+  },
+  "エーデル": {
+   "company": "JR西日本",
+   "jp": "エーデル",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "04_west/untitled__w56pe.png",
+    "04_west/untitled__w56per.png",
+    "04_west/untitled__w56peb.png",
+    "04_west/untitled__w65egk.png",
+    "04_west/untitled__w65eyk.png",
+    "04_west/untitled__w65disn.png",
+    "04_west/untitled__w65disnb.png"
+   ],
+   "all_retired": true
+  },
+  "ゆうゆうサロン": {
+   "company": "JR西日本",
+   "jp": "ゆうゆうサロン",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "04_west/untitled__w12jokym2.png",
+    "04_west/untitled__ef65jokym2.png",
+    "04_west/untitled__ef65jokym4.png",
+    "04_west/untitled__w12jokym1.png",
+    "04_west/untitled__ef65jokym1.png",
+    "04_west/untitled__ef65jokym3.png"
+   ],
+   "all_retired": true
+  },
+  "フェスタ/旅路": {
+   "company": "JR西日本",
+   "jp": "フェスタ/旅路",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "04_west/festa-tabiji__w58jfest.png",
+    "04_west/festa-tabiji__w58jfest1.png",
+    "04_west/festa-tabiji__w12jtbj.png",
+    "04_west/festa-tabiji__w14jtbj0.png"
+   ],
+   "all_retired": true
+  },
+  "ムーンライト九州": {
+   "company": "JR西日本",
+   "jp": "ムーンライト九州",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "04_west/moonlight-kyushu__w14r.png",
+    "04_west/moonlight-kyushu__w14rp.png"
+   ],
+   "all_retired": true
+  },
+  "セイシェル": {
+   "company": "JR西日本",
+   "jp": "セイシェル",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "04_west/seychelles__w58jsesl.png"
+   ],
+   "all_retired": true
+  },
+  "きのくに/シーサイド": {
+   "company": "JR西日本",
+   "jp": "きのくに/シーサイド",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "04_west/kinokuni-seaside__w12jknkn.png",
+    "04_west/kinokuni-seaside__w12jks.png",
+    "04_west/kinokuni-seaside__w13jks.png",
+    "04_west/kinokuni-seaside__de10jks.png"
+   ],
+   "all_retired": true
+  },
+  "ホリデーパル": {
+   "company": "JR西日本",
+   "jp": "ホリデーパル",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "04_west/holiday-pal__w20jhpal.png",
+    "04_west/holiday-pal__w20jhpalk.png",
+    "04_west/holiday-pal__w20jhpal2.png"
+   ],
+   "all_retired": true
+  },
+  "ふれあいパル": {
+   "company": "JR西日本",
+   "jp": "ふれあいパル",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "04_west/fureai-pal__w58jfpal.png"
+   ],
+   "all_retired": true
+  },
+  "アビ丸/ポッポクック": {
+   "company": "JR西日本",
+   "jp": "アビ丸/ポッポクック",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "04_west/sanyo-line__w113abml.png",
+    "04_west/sanyo-line__w115ppqq.png"
+   ],
+   "all_retired": true
+  },
+  "夢フェスタ": {
+   "company": "JR西日本",
+   "jp": "夢フェスタ",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "04_west/san-in-line__w58pymto.png"
+   ],
+   "all_retired": true
+  },
+  "ゆぅトピア/アストル": {
+   "company": "JR西日本",
+   "jp": "ゆぅトピア/アストル",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "04_west/utopia-astol__w65jyutp.png",
+    "04_west/utopia-astol__w58jastlk.png",
+    "04_west/utopia-astol__w58jastl1.png",
+    "04_west/utopia-astol__w58jastl2.png"
+   ],
+   "all_retired": true
+  },
+  "団らん/サワ座": {
+   "company": "JR西日本",
+   "jp": "団らん/サワ座",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "04_west/danran-sawa-za__w12jswz.png",
+    "04_west/danran-sawa-za__w12jswz2.png",
+    "04_west/danran-sawa-za__w12jswz1.png"
+   ],
+   "all_retired": true
+  },
+  "ふれあいSUN-IN": {
+   "company": "JR西日本",
+   "jp": "ふれあいSUN-IN",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "04_west/sun-in__w58jfrsn.png",
+    "04_west/sun-in__w58jfrsn1.png",
+    "04_west/sun-in__w58jhnsn1.png"
+   ],
+   "all_retired": true
+  },
+  "ビバウエスト,みやび": {
+   "company": "JR西日本",
+   "jp": "ビバウエスト,みやび",
+   "series": [
+    "2022"
+   ],
+   "current_images": [],
+   "retired_images": [
+    "04_west/viva-west-2022-12-9-update__w58jhnsn.png",
+    "04_west/viva-west-2022-12-9-update__w58jvivw.png",
+    "04_west/viva-west-2022-12-9-update__w58jvivw1.png",
+    "04_west/viva-west-2022-12-9-update__w14jmyb.png"
+   ],
+   "all_retired": true
+  },
+  "四国特急/マリンライナー": {
+   "company": "JR四国",
+   "jp": "四国特急/マリンライナー",
+   "series": [],
+   "current_images": [
+    "05_shikoku/express-marine-liner__s2700.png",
+    "05_shikoku/express-marine-liner__s5001.png",
+    "05_shikoku/express-marine-liner__s5000kf.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "しおかぜ/いしづち": {
+   "company": "JR四国",
+   "jp": "しおかぜ/いしづち",
+   "series": [],
+   "current_images": [
+    "05_shikoku/shiokaze-isizuci__s8600.png",
+    "05_shikoku/shiokaze-isizuci__s8000nn.png",
+    "05_shikoku/shiokaze-isizuci__s8000knn.png",
+    "05_shikoku/shiokaze-isizuci__s8000lo.png",
+    "05_shikoku/shiokaze-isizuci__s8000lr.png",
+    "05_shikoku/shiokaze-isizuci__s8000lk.png",
+    "05_shikoku/shiokaze-isizuci__s8000nk.png"
+   ],
+   "retired_images": [
+    "05_shikoku/shiokaze-ishizuchi__s8000no.png",
+    "05_shikoku/shiokaze-ishizuchi__s8000nr.png",
+    "05_shikoku/shiokaze-ishizuchi__s8000.png",
+    "05_shikoku/shiokaze-ishizuchi__s8000k.png"
+   ],
+   "all_retired": false
+  },
+  "四国内特急": {
+   "company": "JR四国",
+   "jp": "四国内特急",
+   "series": [],
+   "current_images": [
+    "05_shikoku/shikoku-express__s2000.png",
+    "05_shikoku/shikoku-express__s2000l.png",
+    "05_shikoku/shikoku-express__s2000nl.png",
+    "05_shikoku/shikoku-express__s2003l.png"
+   ],
+   "retired_images": [
+    "05_shikoku/shikoku-express__s2000g.png",
+    "05_shikoku/shikoku-express__s2000n.png",
+    "05_shikoku/shikoku-express__s2000-3.png",
+    "05_shikoku/shikoku-express__s2000ganp1.png",
+    "05_shikoku/shikoku-express__s2000ganp2.png",
+    "05_shikoku/shikoku-express__s2000ganp3.png",
+    "05_shikoku/shikoku-express__s2000ganp-mb.png",
+    "05_shikoku/shikoku-express__s2000ganp-mp.png",
+    "05_shikoku/shikoku-express__s2000anp5.png",
+    "05_shikoku/shikoku-express__s2002a.png",
+    "05_shikoku/shikoku-express__s2000-2.png"
+   ],
+   "all_retired": false
+  },
+  "剣山/むろと/予讃": {
+   "company": "JR四国",
+   "jp": "剣山/むろと/予讃",
+   "series": [],
+   "current_images": [
+    "05_shikoku/tsurugisan-muroto__s185.png",
+    "05_shikoku/tsurugisan-muroto__s185tu.png",
+    "05_shikoku/tsurugisan-muroto__s185cm.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "四国各線": {
+   "company": "JR四国",
+   "jp": "四国各線",
+   "series": [],
+   "current_images": [
+    "05_shikoku/untitled__s1000.png",
+    "05_shikoku/untitled__s54.png",
+    "05_shikoku/untitled__s54s.png",
+    "05_shikoku/untitled__s40.png",
+    "05_shikoku/untitled__s32s.png",
+    "05_shikoku/untitled__s32ns.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "アンパンマン列車": {
+   "company": "JR四国",
+   "jp": "アンパンマン列車",
+   "series": [],
+   "current_images": [
+    "05_shikoku/shikoku-express__s2600ap.png",
+    "05_shikoku/shikoku-express__s2600apb.png",
+    "05_shikoku/shikoku-express__s2700apr.png",
+    "05_shikoku/shikoku-express__s2700apr1.png",
+    "05_shikoku/shikoku-express__s2700apy.png",
+    "05_shikoku/shikoku-express__s2700apy1.png",
+    "05_shikoku/shikoku-express__s8000ap.png",
+    "05_shikoku/shikoku-express__s8000lapk.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "トロッコ車": {
+   "company": "JR四国",
+   "jp": "トロッコ車",
+   "series": [],
+   "current_images": [
+    "05_shikoku/open-car__s185g.png",
+    "05_shikoku/open-car__s185g2.png",
+    "05_shikoku/open-car__s32to.png",
+    "05_shikoku/open-car__s150000to.png",
+    "05_shikoku/open-car__s185ap1.png",
+    "05_shikoku/open-car__s32to2.png",
+    "05_shikoku/open-car__s32tog.png",
+    "05_shikoku/open-car__s32to4.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "藍よしのがわトロッコ": {
+   "company": "JR四国",
+   "jp": "藍よしのがわトロッコ",
+   "series": [],
+   "current_images": [
+    "05_shikoku/tokushima-line__s185to-ai.png",
+    "05_shikoku/tokushima-line__s32to-ai.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "しまんトロッコ": {
+   "company": "JR四国",
+   "jp": "しまんトロッコ",
+   "series": [],
+   "current_images": [
+    "05_shikoku/yodo-line__s150001to.png",
+    "05_shikoku/yodo-line__s54to0y.png",
+    "05_shikoku/yodo-line__s54to0ys.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "鉄道ホビートレイン": {
+   "company": "JR四国",
+   "jp": "鉄道ホビートレイン",
+   "series": [],
+   "current_images": [
+    "05_shikoku/yodo-line__s32tht.png",
+    "05_shikoku/yodo-line__s32thtk.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "伊予灘ものがたり": {
+   "company": "JR四国",
+   "jp": "伊予灘ものがたり",
+   "series": [],
+   "current_images": [
+    "05_shikoku/iyonada-monogartari__s185iyoy.png",
+    "05_shikoku/iyonada-monogartari__s185iyor.png"
+   ],
+   "retired_images": [
+    "05_shikoku/iyonada-monogartari__s40iyor.png",
+    "05_shikoku/iyonada-monogartari__s40iyoy.png"
+   ],
+   "all_retired": false
+  },
+  "千年ものがたり": {
+   "company": "JR四国",
+   "jp": "千年ものがたり",
+   "series": [],
+   "current_images": [
+    "05_shikoku/sennen-monogartari__s185mm1.png",
+    "05_shikoku/sennen-monogartari__s185mm2.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "時代の夜明けの物語": {
+   "company": "JR四国",
+   "jp": "時代の夜明けの物語",
+   "series": [],
+   "current_images": [
+    "05_shikoku/yoakeno-monogatari__s185ym1.png",
+    "05_shikoku/yoakeno-monogatari__s185ym2.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "えきちゃん号": {
+   "company": "JR四国",
+   "jp": "えきちゃん号",
+   "series": [],
+   "current_images": [
+    "05_shikoku/untitled__s32smek1.png",
+    "05_shikoku/untitled__s54nany1.png",
+    "05_shikoku/untitled__s54nany2.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "試作車/*": {
+   "company": "JR四国",
+   "jp": "試作車/*",
+   "series": [
+    "8000"
+   ],
+   "current_images": [
+    "05_shikoku/shiokaze-8000__s8001nr.png",
+    "05_shikoku/shiokaze-8000__s8000p.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "特急ラッピング前": {
+   "company": "JR四国",
+   "jp": "特急ラッピング前",
+   "series": [
+    "2600",
+    "2700"
+   ],
+   "current_images": [
+    "05_shikoku/express-2600-2700__s2600.png",
+    "05_shikoku/express-2600-2700__s2700r.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "マリンライナー5000": {
+   "company": "JR四国",
+   "jp": "マリンライナー5000",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "05_shikoku/marine-liner__s5000.png"
+   ],
+   "all_retired": true
+  },
+  "試作車TSE": {
+   "company": "JR四国",
+   "jp": "試作車TSE",
+   "series": [
+    "2026"
+   ],
+   "current_images": [],
+   "retired_images": [
+    "05_shikoku/shikoku-express-jr-jr-1-2-2026-3-27-update__s2000gp1.png",
+    "05_shikoku/shikoku-express-jr-jr-1-2-2026-3-27-update__s2000gp.png",
+    "05_shikoku/shikoku-express-jr-jr-1-2-2026-3-27-update__s2000p1.png",
+    "05_shikoku/shikoku-express-jr-jr-1-2-2026-3-27-update__s2000p.png"
+   ],
+   "all_retired": true
+  },
+  "台鉄ラッピング": {
+   "company": "JR四国",
+   "jp": "台鉄ラッピング",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "05_shikoku/shiokaze-ishizuchi__s8001.png",
+    "05_shikoku/shiokaze-ishizuchi__s8001k.png"
+   ],
+   "all_retired": true
+  },
+  "四国内特急/*": {
+   "company": "JR四国",
+   "jp": "四国内特急/*",
+   "series": [],
+   "current_images": [
+    "05_shikoku/shikoku-express__s2001av.png",
+    "05_shikoku/shikoku-express__s2001ar.png",
+    "05_shikoku/shikoku-express__s2001ay.png",
+    "05_shikoku/shikoku-express__s2001ag.png",
+    "05_shikoku/shikoku-express__s2000anp-mg.png",
+    "05_shikoku/shikoku-express__s2000anp6.png",
+    "05_shikoku/shikoku-express__s2000anp4.png",
+    "05_shikoku/shikoku-express__s2000anp-my.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "志国高知 幕末維新号": {
+   "company": "JR四国",
+   "jp": "志国高知 幕末維新号",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "05_shikoku/bakumatsu-ishin__s185to3.png",
+    "05_shikoku/bakumatsu-ishin__s32to3.png"
+   ],
+   "all_retired": true
+  },
+  "I Loveしまんと,あい": {
+   "company": "JR四国",
+   "jp": "I Loveしまんと,あい",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "05_shikoku/shimanto-ai__s185sm.png",
+    "05_shikoku/shimanto-ai__s185ai.png"
+   ],
+   "all_retired": true
+  },
+  "しまんと181": {
+   "company": "JR四国",
+   "jp": "しまんと181",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "05_shikoku/shikoku-express__s181.png"
+   ],
+   "all_retired": true
+  },
+  "アイランドExp": {
+   "company": "JR四国",
+   "jp": "アイランドExp",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "05_shikoku/island-exp__de10jiskk.png",
+    "05_shikoku/island-exp__s12jiskk.png",
+    "05_shikoku/island-exp__s50jiskkk.png",
+    "05_shikoku/island-exp__s50jiskk.png"
+   ],
+   "all_retired": true
+  },
+  "団体/ML高知": {
+   "company": "JR四国",
+   "jp": "団体/ML高知",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "05_shikoku/moonlight-kochi__s12re.png",
+    "05_shikoku/moonlight-kochi__s12.png",
+    "05_shikoku/moonlight-kochi__s12bl.png"
+   ],
+   "all_retired": true
+  },
+  "団体/旅立ち": {
+   "company": "JR四国",
+   "jp": "団体/旅立ち",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "05_shikoku/charter-train__s58jre.png",
+    "05_shikoku/charter-train__s58jre2.png",
+    "05_shikoku/charter-train__s58jbl.png",
+    "05_shikoku/charter-train__s58jrinb.png",
+    "05_shikoku/charter-train__s58jtbdt.png"
+   ],
+   "all_retired": true
+  },
+  "ななつ星/或る列車": {
+   "company": "JR九州",
+   "jp": "ななつ星/或る列車",
+   "series": [],
+   "current_images": [
+    "06_kyushu/sevenstars-aru-train__df200k7.png",
+    "06_kyushu/sevenstars-aru-train__k77.png",
+    "06_kyushu/sevenstars-aru-train__k40aru.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "かんぱち・いちろく": {
+   "company": "JR九州",
+   "jp": "かんぱち・いちろく",
+   "series": [],
+   "current_images": [
+    "06_kyushu/kanpachi-ichiroku__k40knpc.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "ふたつ星4047/中間": {
+   "company": "JR九州",
+   "jp": "ふたつ星4047/中間",
+   "series": [
+    "4047"
+   ],
+   "current_images": [
+    "06_kyushu/two-stars-4047__k40jft.png",
+    "06_kyushu/two-stars-4047__k40jftk.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "36ぷらす3": {
+   "company": "JR九州",
+   "jp": "36ぷらす3",
+   "series": [],
+   "current_images": [
+    "06_kyushu/around-kyushu-train__k787-36.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "かもめ/ソニック": {
+   "company": "JR九州",
+   "jp": "かもめ/ソニック",
+   "series": [],
+   "current_images": [
+    "06_kyushu/kamome-sonic__k883nm.png",
+    "06_kyushu/kamome-sonic__k883n.png",
+    "06_kyushu/kamome-sonic__k883n6.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "ハウステンボス783": {
+   "company": "JR九州",
+   "jp": "ハウステンボス783",
+   "series": [],
+   "current_images": [
+    "06_kyushu/huis-ten-bosch__k783ha2.png",
+    "06_kyushu/huis-ten-bosch__k783kha2.png",
+    "06_kyushu/huis-ten-bosch__k783has.png",
+    "06_kyushu/huis-ten-bosch__k783kha.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "みどり/あそぼーい！": {
+   "company": "JR九州",
+   "jp": "みどり/あそぼーい！",
+   "series": [],
+   "current_images": [
+    "06_kyushu/midori-asoboi__k783mis.png",
+    "06_kyushu/midori-asoboi__k783kmi.png",
+    "06_kyushu/midori-asoboi__k183asb.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "いさぶろう/しんぺい": {
+   "company": "JR九州",
+   "jp": "いさぶろう/しんぺい",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "06_kyushu/untitled__k147isb.png",
+    "06_kyushu/untitled__k147kws.png",
+    "06_kyushu/untitled__k147yms.png"
+   ],
+   "all_retired": true
+  },
+  "いぶたま,A列,海幸山幸": {
+   "company": "JR九州",
+   "jp": "いぶたま,A列,海幸山幸",
+   "series": [],
+   "current_images": [
+    "06_kyushu/ibuatma-atrain-umisachi__k147ibtm.png",
+    "06_kyushu/ibuatma-atrain-umisachi__k147ibtm2.png",
+    "06_kyushu/ibuatma-atrain-umisachi__k185at.png",
+    "06_kyushu/ibuatma-atrain-umisachi__k125uy.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "ゆふ森/九州横断特急": {
+   "company": "JR九州",
+   "jp": "ゆふ森/九州横断特急",
+   "series": [],
+   "current_images": [
+    "06_kyushu/yufuin-trans-kyushu__k72.png",
+    "06_kyushu/yufuin-trans-kyushu__k185.png",
+    "06_kyushu/yufuin-trans-kyushu__k185n.png",
+    "06_kyushu/yufuin-trans-kyushu__k185yfu.png",
+    "06_kyushu/yufuin-trans-kyushu__k71.png",
+    "06_kyushu/yufuin-trans-kyushu__k185q.png",
+    "06_kyushu/yufuin-trans-kyushu__k185q2.png",
+    "06_kyushu/yufuin-trans-kyushu__k185q3.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "HTBみどりかもめ": {
+   "company": "JR九州",
+   "jp": "HTBみどりかもめ",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "06_kyushu/htb__k783ha.png",
+    "06_kyushu/htb__k783mi.png",
+    "06_kyushu/htb__k783hpb.png",
+    "06_kyushu/htb__k783hpr.png",
+    "06_kyushu/htb__k783kha1.png",
+    "06_kyushu/htb__k783kmi1.png",
+    "06_kyushu/htb__k783hp.png",
+    "06_kyushu/htb__k885.png",
+    "06_kyushu/htb__k485km.png",
+    "06_kyushu/htb__k485md.png",
+    "06_kyushu/htb__k485ha.png"
+   ],
+   "all_retired": true
+  },
+  "つばめ,有明旧排障": {
+   "company": "JR九州",
+   "jp": "つばめ,有明旧排障",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "06_kyushu/relay-tsubame__k787tun.png",
+    "06_kyushu/relay-tsubame__k787arn.png",
+    "06_kyushu/relay-tsubame__k787tu.png",
+    "06_kyushu/relay-tsubame__k787ar.png",
+    "06_kyushu/relay-tsubame__k783km.png",
+    "06_kyushu/relay-tsubame__k783.png",
+    "06_kyushu/relay-tsubame__k485re-b.png",
+    "06_kyushu/relay-tsubame__k485re.png"
+   ],
+   "all_retired": true
+  },
+  "ソニック": {
+   "company": "JR九州",
+   "jp": "ソニック",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "06_kyushu/sonic__k883b.png",
+    "06_kyushu/sonic__k883s.png",
+    "06_kyushu/sonic__k883ob.png",
+    "06_kyushu/sonic__k883os.png",
+    "06_kyushu/sonic__k883r.png",
+    "06_kyushu/sonic__k883-2.png",
+    "06_kyushu/sonic__k883.png",
+    "06_kyushu/sonic__k883y.png",
+    "06_kyushu/sonic__k883or.png",
+    "06_kyushu/sonic__k883o-2.png",
+    "06_kyushu/sonic__k883o.png",
+    "06_kyushu/sonic__k883oy.png"
+   ],
+   "all_retired": true
+  },
+  "きりしま/ひゅうが": {
+   "company": "JR九州",
+   "jp": "きりしま/ひゅうが",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "06_kyushu/kirishima-hyuga__k485j.png",
+    "06_kyushu/kirishima-hyuga__k485ki.png",
+    "06_kyushu/kirishima-hyuga__k485kh.png"
+   ],
+   "all_retired": true
+  },
+  "えびの/由布": {
+   "company": "JR九州",
+   "jp": "えびの/由布",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "06_kyushu/untitled__k58kmhf.png",
+    "06_kyushu/untitled__k58km.png",
+    "06_kyushu/untitled__k65km.png",
+    "06_kyushu/untitled__k65ex1.png",
+    "06_kyushu/untitled__k58ex1.png"
+   ],
+   "all_retired": true
+  },
+  "はやとの風": {
+   "company": "JR九州",
+   "jp": "はやとの風",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "06_kyushu/hayatono-kaze__k147hyt.png"
+   ],
+   "all_retired": true
+  },
+  "ゆふ森II/ゆふDX": {
+   "company": "JR九州",
+   "jp": "ゆふ森II/ゆふDX",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "06_kyushu/yufuinnomori-yufu-dx__k183jym2.png",
+    "06_kyushu/yufuinnomori-yufu-dx__k183jyf.png",
+    "06_kyushu/yufuinnomori-yufu-dx__k183jyfy.png"
+   ],
+   "all_retired": true
+  },
+  "シーボルト/オランダ村特急": {
+   "company": "JR九州",
+   "jp": "シーボルト/オランダ村特急",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "06_kyushu/siebold-express__k183jsb.png",
+    "06_kyushu/siebold-express__k183jord.png"
+   ],
+   "all_retired": true
+  },
+  "アクアエクスプレス": {
+   "company": "JR九州",
+   "jp": "アクアエクスプレス",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "06_kyushu/aqua-express__k58jae.png",
+    "06_kyushu/aqua-express__k58jae2.png"
+   ],
+   "all_retired": true
+  },
+  "なのはなDX": {
+   "company": "JR九州",
+   "jp": "なのはなDX",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "06_kyushu/nanohana-dx__k200yedx.png",
+    "06_kyushu/nanohana-dx__k200yedx2.png"
+   ],
+   "all_retired": true
+  },
+  "あそ1962/トロQ": {
+   "company": "JR九州",
+   "jp": "あそ1962/トロQ",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "06_kyushu/aso1962-toro-q__k58aso.png",
+    "06_kyushu/aso1962-toro-q__k58trq.png",
+    "06_kyushu/aso1962-toro-q__k65trq.png",
+    "06_kyushu/aso1962-toro-q__k70000trq.png"
+   ],
+   "all_retired": true
+  },
+  "JT大分/長崎": {
+   "company": "JR九州",
+   "jp": "JT大分/長崎",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "06_kyushu/jt__k58jtoit.png",
+    "06_kyushu/jt__k58jtngb.png",
+    "06_kyushu/jt__k58jtngr.png",
+    "06_kyushu/jt__k58jkchm.png",
+    "06_kyushu/jt__k58jrkd1.png",
+    "06_kyushu/jt__k58jrkd2.png"
+   ],
+   "all_retired": true
+  },
+  "大村,日南,鹿児": {
+   "company": "JR九州",
+   "jp": "大村,日南,鹿児",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "06_kyushu/untitled__k58ha.png",
+    "06_kyushu/untitled__k40wkb1.png",
+    "06_kyushu/untitled__k40wkb2.png",
+    "06_kyushu/untitled__k811su2.png",
+    "06_kyushu/untitled__k811su1.png",
+    "06_kyushu/untitled__k811mt.png"
+   ],
+   "all_retired": true
+  },
+  "サザンクロス": {
+   "company": "JR九州",
+   "jp": "サザンクロス",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "06_kyushu/southern-cross__k12jszx.png",
+    "06_kyushu/southern-cross__ed76jszx.png",
+    "06_kyushu/southern-cross__ed76jszx1.png"
+   ],
+   "all_retired": true
+  },
+  "ひのくに/キジ馬": {
+   "company": "JR九州",
+   "jp": "ひのくに/キジ馬",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "06_kyushu/kijiuma-hinokuni__k58jsehk.png",
+    "06_kyushu/kijiuma-hinokuni__k58jkjum.png"
+   ],
+   "all_retired": true
+  },
+  "しらぬい/ブンブン": {
+   "company": "JR九州",
+   "jp": "しらぬい/ブンブン",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "06_kyushu/untitled__k58jsrni.png",
+    "06_kyushu/untitled__k58jsrnik.png",
+    "06_kyushu/untitled__k58jbnbn.png",
+    "06_kyushu/untitled__k58jytpa.png"
+   ],
+   "all_retired": true
+  },
+  "ふれあいGO": {
+   "company": "JR九州",
+   "jp": "ふれあいGO",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "06_kyushu/exp__k58jfgo.png",
+    "06_kyushu/exp__k58jsrex.png"
+   ],
+   "all_retired": true
+  },
+  "よかトピア号": {
+   "company": "JR九州",
+   "jp": "よかトピア号",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "06_kyushu/kagoshima-line__k415ykt.png"
+   ],
+   "all_retired": true
+  }
+ },
+ "lines": {
+  "札幌地区739": {
+   "company": "JR北海道",
+   "jp": "札幌地区739",
+   "series": [],
+   "current_images": [
+    "01_hokkaido/sapporo-area__h739.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "函館千歳札沼線": {
+   "company": "JR北海道",
+   "jp": "函館千歳札沼線",
+   "series": [],
+   "current_images": [
+    "01_hokkaido/hakodate-line__h737.png",
+    "01_hokkaido/hakodate-line__h733.png",
+    "01_hokkaido/hakodate-line__h733l.png",
+    "01_hokkaido/hakodate-line__h733ll.png",
+    "01_hokkaido/hakodate-line__h735.png",
+    "01_hokkaido/hakodate-line__h731n.png",
+    "01_hokkaido/hakodate-line__h201n.png",
+    "01_hokkaido/hakodate-line__h721hid.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "道内各線": {
+   "company": "JR北海道",
+   "jp": "道内各線",
+   "series": [],
+   "current_images": [
+    "01_hokkaido/hokkaido-area__h100.png",
+    "01_hokkaido/hokkaido-area__h150fu.png",
+    "01_hokkaido/hokkaido-area__h150.png",
+    "01_hokkaido/hokkaido-area__h150-1.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "宗谷/花咲線": {
+   "company": "JR北海道",
+   "jp": "宗谷/花咲線",
+   "series": [],
+   "current_images": [
+    "01_hokkaido/soya-hanasaki-line__h54n.png",
+    "01_hokkaido/soya-hanasaki-line__h54.png",
+    "01_hokkaido/soya-hanasaki-line__h54ks.png",
+    "01_hokkaido/soya-hanasaki-line__h54ks1.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "富良野/石北線H100": {
+   "company": "JR北海道",
+   "jp": "富良野/石北線H100",
+   "series": [],
+   "current_images": [
+    "01_hokkaido/asahikawa-area__h100frn.png",
+    "01_hokkaido/asahikawa-area__h100frn1.png",
+    "01_hokkaido/asahikawa-area__h100skhk.png",
+    "01_hokkaido/asahikawa-area__h100skhk1.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "花咲線/釧網線": {
+   "company": "JR北海道",
+   "jp": "花咲線/釧網線",
+   "series": [],
+   "current_images": [
+    "01_hokkaido/kushiro-area__h100hnsk.png",
+    "01_hokkaido/kushiro-area__h100hnsk1.png",
+    "01_hokkaido/kushiro-area__h100snmo.png",
+    "01_hokkaido/kushiro-area__h100snmo1.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "根室/宗谷線H100": {
+   "company": "JR北海道",
+   "jp": "根室/宗谷線H100",
+   "series": [],
+   "current_images": [
+    "01_hokkaido/nemuro-soya-line__h100ne.png",
+    "01_hokkaido/nemuro-soya-line__h100sy1.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "日高・室蘭線H100": {
+   "company": "JR北海道",
+   "jp": "日高・室蘭線H100",
+   "series": [],
+   "current_images": [
+    "01_hokkaido/hidaka-muroran__h100hd.png",
+    "01_hokkaido/hidaka-muroran__h100mu1.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "花咲線": {
+   "company": "JR北海道",
+   "jp": "花咲線",
+   "series": [],
+   "current_images": [
+    "01_hokkaido/hanasaki-line__h54wr.png",
+    "01_hokkaido/hanasaki-line__h54rw.png",
+    "01_hokkaido/hanasaki-line__h54hnp.png",
+    "01_hokkaido/hanasaki-line__h54hn.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "函館/千歳線": {
+   "company": "JR北海道",
+   "jp": "函館/千歳線",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "01_hokkaido/hakodate-line__h201.png",
+    "01_hokkaido/hakodate-line__h731.png",
+    "01_hokkaido/hakodate-line__h731ml.png",
+    "01_hokkaido/hakodate-line__h721ap.png",
+    "01_hokkaido/hakodate-line__h721.png",
+    "01_hokkaido/hakodate-line__h721u.png",
+    "01_hokkaido/hakodate-line__h711.png",
+    "01_hokkaido/hakodate-line__h711c.png"
+   ],
+   "all_retired": true
+  },
+  "日高線/Hybrid": {
+   "company": "JR北海道",
+   "jp": "日高線/Hybrid",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "01_hokkaido/hidaka-line__h160-1.png",
+    "01_hokkaido/hidaka-line__h130.png",
+    "01_hokkaido/hidaka-line__h130o.png",
+    "01_hokkaido/hidaka-line__h130pony.png",
+    "01_hokkaido/hidaka-line__h160-2.png",
+    "01_hokkaido/hidaka-line__h160itt.png"
+   ],
+   "all_retired": true
+  },
+  "北海道内各線": {
+   "company": "JR北海道",
+   "jp": "北海道内各線",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "01_hokkaido/hokkaido-area__h56.png",
+    "01_hokkaido/hokkaido-area__h40ks.png",
+    "01_hokkaido/hokkaido-area__h22.png",
+    "01_hokkaido/hokkaido-area__h40o.png",
+    "01_hokkaido/hokkaido-area__h46.png",
+    "01_hokkaido/hokkaido-area__h40kso.png",
+    "01_hokkaido/hokkaido-area__h40.png"
+   ],
+   "all_retired": true
+  },
+  "札沼線": {
+   "company": "JR北海道",
+   "jp": "札沼線",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "01_hokkaido/sassho-line__h141.png",
+    "01_hokkaido/sassho-line__h141o.png",
+    "01_hokkaido/sassho-line__h40ss.png",
+    "01_hokkaido/sassho-line__h40c.png"
+   ],
+   "all_retired": true
+  },
+  "宗谷風/キハ22風色": {
+   "company": "JR北海道",
+   "jp": "宗谷風/キハ22風色",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "01_hokkaido/hokkaido-area__h40sy.png",
+    "01_hokkaido/hokkaido-area__h40j2.png"
+   ],
+   "all_retired": true
+  },
+  "日高線": {
+   "company": "JR北海道",
+   "jp": "日高線",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "01_hokkaido/hidaka-line__h40mkw1.png",
+    "01_hokkaido/hidaka-line__h40mkw2.png",
+    "01_hokkaido/hidaka-line__h40hi.png"
+   ],
+   "all_retired": true
+  },
+  "流氷/道東/道南/道央の恵み": {
+   "company": "JR北海道",
+   "jp": "流氷/道東/道南/道央の恵み",
+   "series": [],
+   "current_images": [
+    "01_hokkaido/hokkaido-area__h40y.png",
+    "01_hokkaido/hokkaido-area__h40y1.png",
+    "01_hokkaido/hokkaido-area__h40g1.png",
+    "01_hokkaido/hokkaido-area__h40g2.png",
+    "01_hokkaido/hokkaido-area__h40m1.png",
+    "01_hokkaido/hokkaido-area__h40m2.png",
+    "01_hokkaido/hokkaido-area__h40r.png",
+    "01_hokkaido/hokkaido-area__h40r1.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "山紫水明号": {
+   "company": "JR北海道",
+   "jp": "山紫水明号",
+   "series": [],
+   "current_images": [
+    "01_hokkaido/hokkaido-area__h40ssg.png",
+    "01_hokkaido/hokkaido-area__h40ssv.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "特別色/ぽっぽや": {
+   "company": "JR北海道",
+   "jp": "特別色/ぽっぽや",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "01_hokkaido/hokkaido-area__h40pktn.png",
+    "01_hokkaido/hokkaido-area__h40pkani.png",
+    "01_hokkaido/hokkaido-area__h40pika.png",
+    "01_hokkaido/hokkaido-area__h40jpo.png",
+    "01_hokkaido/hokkaido-area__h40or.png"
+   ],
+   "all_retired": true
+  },
+  "山手線": {
+   "company": "JR東日本",
+   "jp": "山手線",
+   "series": [],
+   "current_images": [
+    "02_east/yamanote-line__e235ya.png"
+   ],
+   "retired_images": [
+    "02_east/yamanote-line__e231ya3.png",
+    "02_east/yamanote-line__e231ya4.png",
+    "02_east/yamanote-line__e231-5ya.png",
+    "02_east/yamanote-line__e231-5ya2.png",
+    "02_east/yamanote-line__e231ya100.png",
+    "02_east/yamanote-line__e205ya.png",
+    "02_east/yamanote-line__e205yam.png",
+    "02_east/yamanote-line__e205yao.png",
+    "02_east/yamanote-line__e205yao1.png",
+    "02_east/yamanote-line__e205yao2.png",
+    "02_east/yamanote-line__e205yao11.png",
+    "02_east/yamanote-line__e205ya11.png",
+    "02_east/yamanote-line__e205ya-ad.png",
+    "02_east/yamanote-line__e205ya-ad1.png",
+    "02_east/yamanote-line__e205ya-ad2.png",
+    "02_east/yamanote-line__e103ug.png",
+    "02_east/yamanote-line__e103rl.png",
+    "02_east/yamanote-line__e103tech.png"
+   ],
+   "all_retired": false
+  },
+  "京浜東北線": {
+   "company": "JR東日本",
+   "jp": "京浜東北線",
+   "series": [],
+   "current_images": [
+    "02_east/keihintohoku-line__e233kt.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "横浜線": {
+   "company": "JR東日本",
+   "jp": "横浜線",
+   "series": [],
+   "current_images": [
+    "02_east/yokohama-line__e233yo.png"
+   ],
+   "retired_images": [
+    "02_east/yokohama-line__e103ug-sk.png",
+    "02_east/yokohama-line__e103ug-ft.png"
+   ],
+   "all_retired": false
+  },
+  "京葉線": {
+   "company": "JR東日本",
+   "jp": "京葉線",
+   "series": [],
+   "current_images": [
+    "02_east/keiyo-line__e233ky.png",
+    "02_east/keiyo-line__e233kyk.png",
+    "02_east/keiyo-line__e209ky1.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "埼京川越線": {
+   "company": "JR東日本",
+   "jp": "埼京川越線",
+   "series": [],
+   "current_images": [
+    "02_east/saikyo-line__e233sk.png"
+   ],
+   "retired_images": [
+    "02_east/saikyo-line__e205sk6.png",
+    "02_east/saikyo-line__e205sk.png",
+    "02_east/saikyo-line__e205sko.png",
+    "02_east/saikyo-line__e205sko6.png",
+    "02_east/saikyo-line__e205sko1.png",
+    "02_east/saikyo-line__e205skm.png",
+    "02_east/saikyo-line__e205sk-ad1.png"
+   ],
+   "all_retired": false
+  },
+  "常磐線/千代田線": {
+   "company": "JR東日本",
+   "jp": "常磐線/千代田線",
+   "series": [],
+   "current_images": [
+    "02_east/joban-line__e231jyl.png",
+    "02_east/joban-line__e231jylk.png",
+    "02_east/joban-line__e231jy1.png",
+    "02_east/joban-line__e231jyk1.png",
+    "02_east/joban-line__e233g2l.png",
+    "02_east/joban-line__e233g2.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "常磐/水戸線": {
+   "company": "JR東日本",
+   "jp": "常磐/水戸線",
+   "series": [],
+   "current_images": [
+    "02_east/joban-line__e531s.png",
+    "02_east/joban-line__e531ks.png",
+    "02_east/joban-line__e531kr.png",
+    "02_east/joban-line__e531r.png",
+    "02_east/joban-line__e501kgl.png",
+    "02_east/joban-line__e501gl.png",
+    "02_east/joban-line__e501lk.png",
+    "02_east/joban-line__e501l.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "水郡線": {
+   "company": "JR東日本",
+   "jp": "水郡線",
+   "series": [],
+   "current_images": [
+    "02_east/suigun-line-jr__e130.png"
+   ],
+   "retired_images": [
+    "02_east/suigun-line__e130or.png",
+    "02_east/suigun-line__e130sg90.png",
+    "02_east/suigun-line__e40mtg.png",
+    "02_east/suigun-line__e40mto.png",
+    "02_east/suigun-line__e40mtg2.png",
+    "02_east/suigun-line__e40mtgz1.png",
+    "02_east/suigun-line__e40mto1.png",
+    "02_east/suigun-line__e40mto2.png",
+    "02_east/suigun-line__e45mto2.png",
+    "02_east/suigun-line__e45mto.png",
+    "02_east/suigun-line__e45mto3.png",
+    "02_east/suigun-line__e58mi.png",
+    "02_east/suigun-line__e28mi.png"
+   ],
+   "all_retired": false
+  },
+  "山手線ラッピング": {
+   "company": "JR東日本",
+   "jp": "山手線ラッピング",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/yamanote-line__e235yab.png",
+    "02_east/yamanote-line__e235ya103.png",
+    "02_east/yamanote-line__e235ya205.png"
+   ],
+   "all_retired": true
+  },
+  "埼京線40周年": {
+   "company": "JR東日本",
+   "jp": "埼京線40周年",
+   "series": [],
+   "current_images": [
+    "02_east/saikyo-40th__e233sk40.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "京浜東北線209/901": {
+   "company": "JR東日本",
+   "jp": "京浜東北線209/901",
+   "series": [
+    "901"
+   ],
+   "current_images": [],
+   "retired_images": [
+    "02_east/keihintohoku-line__e209-kt.png",
+    "02_east/keihintohoku-line__e209-kt2.png",
+    "02_east/keihintohoku-line__e209kt0.png",
+    "02_east/keihintohoku-line__e209kt2.png",
+    "02_east/keihintohoku-line__e209kt3.png",
+    "02_east/keihintohoku-line__e209kt.png",
+    "02_east/keihintohoku-line__e209kt-ad.png",
+    "02_east/keihintohoku-line__e901.png"
+   ],
+   "all_retired": true
+  },
+  "京葉線E331/209": {
+   "company": "JR東日本",
+   "jp": "京葉線E331/209",
+   "series": [
+    "209"
+   ],
+   "current_images": [],
+   "retired_images": [
+    "02_east/keiyo-line__e331ky.png",
+    "02_east/keiyo-line__e209ky.png"
+   ],
+   "all_retired": true
+  },
+  "常磐成田線": {
+   "company": "JR東日本",
+   "jp": "常磐成田線",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/joban-line__e231jy.png",
+    "02_east/joban-line__e231jyk.png",
+    "02_east/joban-line__e231jyk0.png",
+    "02_east/joban-line__e231jy0.png",
+    "02_east/joban-line__e231jy-ad.png",
+    "02_east/joban-line__e231jyskk.png",
+    "02_east/joban-line__e103gr.png",
+    "02_east/joban-line__e103gr1.png",
+    "02_east/joban-line__e103gr2.png",
+    "02_east/joban-line__e103grl1.png",
+    "02_east/joban-line__e103k.png",
+    "02_east/joban-line__e103grk1.png"
+   ],
+   "all_retired": true
+  },
+  "常磐千代田線": {
+   "company": "JR東日本",
+   "jp": "常磐千代田線",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/joban-line__e209jy1.png",
+    "02_east/joban-line__e209jy.png",
+    "02_east/joban-line__e207o1.png",
+    "02_east/joban-line__e207.png",
+    "02_east/joban-line__e203l.png",
+    "02_east/joban-line__e203.png",
+    "02_east/joban-line__e203-ad.png"
+   ],
+   "all_retired": true
+  },
+  "常磐水戸線": {
+   "company": "JR東日本",
+   "jp": "常磐水戸線",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/joban-line__e531.png",
+    "02_east/joban-line__e531k.png",
+    "02_east/joban-line__e501.png",
+    "02_east/joban-line__e501k.png",
+    "02_east/joban-line__e501g.png",
+    "02_east/joban-line__e501kg.png",
+    "02_east/joban-line__e415d.png",
+    "02_east/joban-line__e415d0.png",
+    "02_east/joban-line__e415.png",
+    "02_east/joban-line__e415-15.png"
+   ],
+   "all_retired": true
+  },
+  "横浜線/京浜東北線": {
+   "company": "JR東日本",
+   "jp": "横浜線/京浜東北線",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/negishi-line__e205yo.png",
+    "02_east/negishi-line__e205yoo.png",
+    "02_east/negishi-line__e205yo8.png",
+    "02_east/negishi-line__e205yo2.png",
+    "02_east/negishi-line__e205yo-ad.png",
+    "02_east/negishi-line__e205yo-ad0.png",
+    "02_east/negishi-line__e205yo-ad1.png",
+    "02_east/negishi-line__e205kt.png"
+   ],
+   "all_retired": true
+  },
+  "京葉線205": {
+   "company": "JR東日本",
+   "jp": "京葉線205",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/keiyo-line__e205kyo.png",
+    "02_east/keiyo-line__e205ky.png",
+    "02_east/keiyo-line__e205ky-ad.png",
+    "02_east/keiyo-line__e205ky-ad1.png",
+    "02_east/keiyo-line__e205ky-ad2.png"
+   ],
+   "all_retired": true
+  },
+  "京葉線205/201": {
+   "company": "JR東日本",
+   "jp": "京葉線205/201",
+   "series": [
+    "201"
+   ],
+   "current_images": [],
+   "retired_images": [
+    "02_east/keiyo-line__e205ky0.png",
+    "02_east/keiyo-line__e205ky01.png",
+    "02_east/keiyo-line__e205ky0-ad.png",
+    "02_east/keiyo-line__e205ky0-ad1.png",
+    "02_east/keiyo-line__e201p3.png",
+    "02_east/keiyo-line__e201bl.png",
+    "02_east/keiyo-line__e201kbl.png"
+   ],
+   "all_retired": true
+  },
+  "京葉線103": {
+   "company": "JR東日本",
+   "jp": "京葉線103",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/keiyo-line__e103ky1.png",
+    "02_east/keiyo-line__e103ky2.png",
+    "02_east/keiyo-line__e103ky.png",
+    "02_east/keiyo-line__e103ky3.png",
+    "02_east/keiyo-line__e103bl.png",
+    "02_east/keiyo-line__e103ky4.png"
+   ],
+   "all_retired": true
+  },
+  "中央青梅線": {
+   "company": "JR東日本",
+   "jp": "中央青梅線",
+   "series": [],
+   "current_images": [
+    "02_east/chuo-line__e233kor.png",
+    "02_east/chuo-line__e233or.png"
+   ],
+   "retired_images": [
+    "02_east/chuo-line__e201.png",
+    "02_east/chuo-line__e201k.png",
+    "02_east/chuo-line__e201sr.png",
+    "02_east/chuo-line__j201or-sr.png",
+    "02_east/chuo-line__e201k1.png",
+    "02_east/chuo-line__e201or1.png",
+    "02_east/chuo-line__e201ome.png",
+    "02_east/chuo-line__e201p1.png",
+    "02_east/chuo-line__e103or.png"
+   ],
+   "all_retired": false
+  },
+  "武蔵野線": {
+   "company": "JR東日本",
+   "jp": "武蔵野線",
+   "series": [],
+   "current_images": [
+    "02_east/musashino-line__e231mul.png",
+    "02_east/musashino-line__e231mu.png",
+    "02_east/musashino-line__e231muk.png",
+    "02_east/musashino-line__e231mu1.png",
+    "02_east/musashino-line__e209mu.png"
+   ],
+   "retired_images": [
+    "02_east/musashino-line__e205mu2.png",
+    "02_east/musashino-line__e205mu8.png",
+    "02_east/musashino-line__e205muo.png",
+    "02_east/musashino-line__e205mu0.png",
+    "02_east/musashino-line__e205mu1.png",
+    "02_east/musashino-line__e205mu3.png",
+    "02_east/musashino-line__e103mu8c.png",
+    "02_east/musashino-line__e103mu8a.png",
+    "02_east/musashino-line__e103mu8b.png",
+    "02_east/musashino-line__e103mu.png"
+   ],
+   "all_retired": false
+  },
+  "総武中央線": {
+   "company": "JR東日本",
+   "jp": "総武中央線",
+   "series": [],
+   "current_images": [
+    "02_east/chuo-sobu-line__e235so.png",
+    "02_east/chuo-sobu-line__e231so5l.png",
+    "02_east/chuo-sobu-line__e231so5.png",
+    "02_east/chuo-sobu-line__e231so3.png",
+    "02_east/chuo-sobu-line__e231-8b1.png",
+    "02_east/chuo-sobu-line__e231-8bl.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "南武線/南武支線": {
+   "company": "JR東日本",
+   "jp": "南武線/南武支線",
+   "series": [],
+   "current_images": [
+    "02_east/nanbu-line__e233na.png",
+    "02_east/nanbu-line__e233na1.png",
+    "02_east/nanbu-line__e127nas.png",
+    "02_east/nanbu-line__e127nasl.png",
+    "02_east/nanbu-line__e205-nas.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "総武横須賀線": {
+   "company": "JR東日本",
+   "jp": "総武横須賀線",
+   "series": [],
+   "current_images": [
+    "02_east/yokosuka-line__e235sk.png",
+    "02_east/yokosuka-line__e235skk.png"
+   ],
+   "retired_images": [
+    "02_east/yokosuka-line__e217-2.png",
+    "02_east/yokosuka-line__e217k2.png",
+    "02_east/yokosuka-line__e217k1.png",
+    "02_east/yokosuka-line__e217.png",
+    "02_east/yokosuka-line__e217k.png",
+    "02_east/yokosuka-line__e217-1.png",
+    "02_east/yokosuka-line__e217nk.png",
+    "02_east/yokosuka-line__e217n.png",
+    "02_east/yokosuka-line__e217n1.png",
+    "02_east/yokosuka-line__e217nk1.png"
+   ],
+   "all_retired": false
+  },
+  "房総地区": {
+   "company": "JR東日本",
+   "jp": "房総地区",
+   "series": [],
+   "current_images": [
+    "02_east/boso-area__e131bo.png",
+    "02_east/boso-area__e233bo.png",
+    "02_east/boso-area__e233bok.png",
+    "02_east/boso-area__e233bo1.png",
+    "02_east/boso-area__e209c.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "久留里線": {
+   "company": "JR東日本",
+   "jp": "久留里線",
+   "series": [],
+   "current_images": [
+    "02_east/kururi-line__e130kr.png"
+   ],
+   "retired_images": [
+    "02_east/kururii-line__e30kr1.png",
+    "02_east/kururii-line__e37kr1.png",
+    "02_east/kururii-line__e38kr1.png",
+    "02_east/kururii-line__e35kr2.png",
+    "02_east/kururii-line__e37kr2.png",
+    "02_east/kururii-line__e38kr2.png",
+    "02_east/kururii-line__e30kr2.png"
+   ],
+   "all_retired": false
+  },
+  "相模線": {
+   "company": "JR東日本",
+   "jp": "相模線",
+   "series": [],
+   "current_images": [
+    "02_east/sagami-line__e131sg.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "鶴見線": {
+   "company": "JR東日本",
+   "jp": "鶴見線",
+   "series": [],
+   "current_images": [
+    "02_east/tsurumi-line__e131tr.png"
+   ],
+   "retired_images": [
+    "02_east/tsurumi-line__e205-tr.png"
+   ],
+   "all_retired": false
+  },
+  "川越線,八高線": {
+   "company": "JR東日本",
+   "jp": "川越線,八高線",
+   "series": [],
+   "current_images": [
+    "02_east/kawagoe-line__e231ha.png",
+    "02_east/kawagoe-line__e231hk1.png",
+    "02_east/kawagoe-line__e209hk35.png",
+    "02_east/kawagoe-line__e209hk35l.png",
+    "02_east/kawagoe-line__ee220gms.png"
+   ],
+   "retired_images": [
+    "02_east/kawagoe-line__e209hk.png",
+    "02_east/kawagoe-line__e209-31hk.png",
+    "02_east/kawagoe-line__e110hc80.png",
+    "02_east/kawagoe-line__e205-hk.png"
+   ],
+   "all_retired": false
+  },
+  "総武中央線209/E231": {
+   "company": "JR東日本",
+   "jp": "総武中央線209/E231",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/sobu-line__e231so2.png",
+    "02_east/sobu-line__e231so1.png",
+    "02_east/sobu-line__e231so.png",
+    "02_east/sobu-line__e209so.png",
+    "02_east/sobu-line__e209so1.png",
+    "02_east/sobu-line__e231-8b.png"
+   ],
+   "all_retired": true
+  },
+  "南武線209": {
+   "company": "JR東日本",
+   "jp": "南武線209",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/nanbu-line__e209na3.png",
+    "02_east/nanbu-line__e209na.png",
+    "02_east/nanbu-line__e209na2.png"
+   ],
+   "all_retired": true
+  },
+  "中央青梅線201/AD": {
+   "company": "JR東日本",
+   "jp": "中央青梅線201/AD",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/chuo-ome-line__e201or2.png",
+    "02_east/chuo-ome-line__e201ork1.png",
+    "02_east/chuo-ome-line__e201-ad.png",
+    "02_east/chuo-ome-line__e201-ad1.png"
+   ],
+   "all_retired": true
+  },
+  "総武中央線201/103": {
+   "company": "JR東日本",
+   "jp": "総武中央線201/103",
+   "series": [
+    "103"
+   ],
+   "current_images": [],
+   "retired_images": [
+    "02_east/sobu-line__e205so.png",
+    "02_east/sobu-line__e205soo.png",
+    "02_east/sobu-line__e201p2.png",
+    "02_east/sobu-line__e201ye0.png",
+    "02_east/sobu-line__e201ye.png",
+    "02_east/sobu-line__e201kye.png",
+    "02_east/sobu-line__e103yel.png"
+   ],
+   "all_retired": true
+  },
+  "南武線205/103": {
+   "company": "JR東日本",
+   "jp": "南武線205/103",
+   "series": [
+    "103"
+   ],
+   "current_images": [],
+   "retired_images": [
+    "02_east/nanbu-line__e205na2.png",
+    "02_east/nanbu-line__e205na3.png",
+    "02_east/nanbu-line__e205-na.png",
+    "02_east/nanbu-line__e205na1.png",
+    "02_east/nanbu-line__e205na.png",
+    "02_east/nanbu-line__e205nao.png",
+    "02_east/nanbu-line__e103ye.png"
+   ],
+   "all_retired": true
+  },
+  "東西線直通": {
+   "company": "JR東日本",
+   "jp": "東西線直通",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/sobu-chuo-line__e301bl.png",
+    "02_east/sobu-chuo-line__e301bl1.png",
+    "02_east/sobu-chuo-line__e103kbl1.png",
+    "02_east/sobu-chuo-line__e103kbl.png"
+   ],
+   "all_retired": true
+  },
+  "房総地区/*Nなのはな": {
+   "company": "JR東日本",
+   "jp": "房総地区/*Nなのはな",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/boso-area__e211crp.png",
+    "02_east/boso-area__e211cr.png",
+    "02_east/boso-area__e211cy.png",
+    "02_east/boso-area__e211cg.png",
+    "02_east/boso-area__e211cb.png",
+    "02_east/boso-area__e113su16.png",
+    "02_east/boso-area__e113-su.png",
+    "02_east/boso-area__e485jnano.png"
+   ],
+   "all_retired": true
+  },
+  "南武支線": {
+   "company": "JR東日本",
+   "jp": "南武支線",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/nanbu-line__e101na.png",
+    "02_east/nanbu-line__e101na0.png"
+   ],
+   "all_retired": true
+  },
+  "相模線/八高線": {
+   "company": "JR東日本",
+   "jp": "相模線/八高線",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/sagami-line__e205sg.png",
+    "02_east/sagami-line__j35st4.png",
+    "02_east/sagami-line__e30sg.png",
+    "02_east/sagami-line__e30sg1.png",
+    "02_east/sagami-line__e30sg2.png"
+   ],
+   "all_retired": true
+  },
+  "首都圏エリア": {
+   "company": "JR東日本",
+   "jp": "首都圏エリア",
+   "series": [],
+   "current_images": [
+    "02_east/tokyo-area__e233shk.png",
+    "02_east/tokyo-area__e233sh.png",
+    "02_east/tokyo-area__e231td.png",
+    "02_east/tokyo-area__e231tdk.png",
+    "02_east/tokyo-area__e231ta1.png",
+    "02_east/tokyo-area__e231tak1.png"
+   ],
+   "retired_images": [
+    "02_east/tokyo-area__e231td1.png",
+    "02_east/tokyo-area__e231tdk1.png",
+    "02_east/tokyo-area__e231tak.png",
+    "02_east/tokyo-area__e231ta.png",
+    "02_east/tokyo-area__e211o1.png",
+    "02_east/tokyo-area__e211.png",
+    "02_east/tokyo-area__e211o.png",
+    "02_east/tokyo-area__e211o1p.png",
+    "02_east/tokyo-area__e211p.png",
+    "02_east/tokyo-area__e115-sh.png",
+    "02_east/tokyo-area__e115sh0.png",
+    "02_east/tokyo-area__e115sh1.png",
+    "02_east/tokyo-area__e113sh1.png",
+    "02_east/tokyo-area__e113sh0.png",
+    "02_east/tokyo-area__e113sh15.png"
+   ],
+   "all_retired": false
+  },
+  "日光線/東北線": {
+   "company": "JR東日本",
+   "jp": "日光線/東北線",
+   "series": [],
+   "current_images": [
+    "02_east/nikko-line__e131nk.png",
+    "02_east/nikko-line__e131nkp.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "高崎地区": {
+   "company": "JR東日本",
+   "jp": "高崎地区",
+   "series": [],
+   "current_images": [
+    "02_east/takasaki-area__e211ry.png",
+    "02_east/takasaki-area__e211s1.png",
+    "02_east/takasaki-area__e211n.png",
+    "02_east/takasaki-area__e107ta1.png",
+    "02_east/takasaki-area__e107ta.png"
+   ],
+   "retired_images": [
+    "02_east/takasaki-area__e211s.png",
+    "02_east/takasaki-area__e211o1s.png",
+    "02_east/takasaki-area__e211sp.png"
+   ],
+   "all_retired": false
+  },
+  "烏山線": {
+   "company": "JR東日本",
+   "jp": "烏山線",
+   "series": [],
+   "current_images": [
+    "02_east/karasuyama-line__ee301ka.png",
+    "02_east/karasuyama-line__ee301kap.png"
+   ],
+   "retired_images": [
+    "02_east/karasuyama-line__e40ka.png",
+    "02_east/karasuyama-line__e40ka1.png",
+    "02_east/karasuyama-line__e40ka2.png"
+   ],
+   "all_retired": false
+  },
+  "東海道線": {
+   "company": "JR東日本",
+   "jp": "東海道線",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/tokaido-line__e217td1.png",
+    "02_east/tokaido-line__e217ktd1.png",
+    "02_east/tokaido-line__e217ktd2.png",
+    "02_east/tokaido-line__e217td.png",
+    "02_east/tokaido-line__e217ktd.png",
+    "02_east/tokaido-line__e217ktd3.png",
+    "03_tokai/tokai-area__c117.png",
+    "03_tokai/tokai-area__c117o.png",
+    "03_tokai/tokai-area__c117b.png"
+   ],
+   "all_retired": true
+  },
+  "日光東北線/いろは": {
+   "company": "JR東日本",
+   "jp": "日光東北線/いろは",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/nikko-line__e107nipr.png",
+    "02_east/nikko-line__e107ni1r.png",
+    "02_east/nikko-line__e107ni1h.png",
+    "02_east/nikko-line__e107niph.png",
+    "02_east/nikko-line__e107ni1.png",
+    "02_east/nikko-line__e107nip.png",
+    "02_east/nikko-line__e107ni.png",
+    "02_east/nikko-line__e205sh1.png",
+    "02_east/nikko-line__e205sh.png",
+    "02_east/nikko-line__e205nk.png",
+    "02_east/nikko-line__e205irh.png"
+   ],
+   "all_retired": true
+  },
+  "東京地区": {
+   "company": "JR東日本",
+   "jp": "東京地区",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/tokyo-area__e165-sh.png",
+    "02_east/tokyo-area__e167-ksh.png",
+    "02_east/tokyo-area__e167ksh.png",
+    "02_east/tokyo-area__e167tmd.png",
+    "02_east/tokyo-area__e167ktm.png",
+    "02_east/tokyo-area__e167tm.png",
+    "02_east/tokyo-area__e167-tm.png",
+    "02_east/tokyo-area__e167tmd2.png"
+   ],
+   "all_retired": true
+  },
+  "高崎,八王子地区": {
+   "company": "JR東日本",
+   "jp": "高崎,八王子地区",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/untitled__e165sm.png",
+    "02_east/untitled__e165smd.png",
+    "02_east/untitled__e165-sm.png",
+    "02_east/untitled__e165mi.png",
+    "02_east/untitled__e165mid.png"
+   ],
+   "all_retired": true
+  },
+  "長野地区E131": {
+   "company": "JR東日本",
+   "jp": "長野地区E131",
+   "series": [],
+   "current_images": [
+    "02_east/nagano-area__e131na.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "長野甲府地区/*": {
+   "company": "JR東日本",
+   "jp": "長野甲府地区/*",
+   "series": [],
+   "current_images": [
+    "02_east/nagano-area__e127mt.png",
+    "02_east/nagano-area__e127mtp.png",
+    "02_east/nagano-area__e211na.png",
+    "02_east/nagano-area__e211na1.png",
+    "02_east/nagano-area__e211na2.png",
+    "02_east/nagano-area__e211na1n.png",
+    "02_east/nagano-area__e211na2n.png",
+    "02_east/nagano-area__e211na6.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "甲信越地区": {
+   "company": "JR東日本",
+   "jp": "甲信越地区",
+   "series": [],
+   "current_images": [
+    "02_east/nagano-area__e211su.png",
+    "02_east/nagano-area__e110ak0.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "新潟地区": {
+   "company": "JR東日本",
+   "jp": "新潟地区",
+   "series": [],
+   "current_images": [
+    "02_east/niigata-area__ee400ni.png",
+    "02_east/niigata-area__e129ni.png",
+    "02_east/niigata-area__e129nip.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "小海線/飯山線": {
+   "company": "JR東日本",
+   "jp": "小海線/飯山線",
+   "series": [],
+   "current_images": [
+    "02_east/koumi-line__ee200p.png",
+    "02_east/koumi-line__e110.png",
+    "02_east/koumi-line__e110-1.png",
+    "02_east/koumi-line__e110-3.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "飯山線/小海線": {
+   "company": "JR東日本",
+   "jp": "飯山線/小海線",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/iiyama-koumi-line__e110ii.png",
+    "02_east/iiyama-koumi-line__e110iiy.png",
+    "02_east/iiyama-koumi-line__e110o.png",
+    "02_east/iiyama-koumi-line__e110ex0.png"
+   ],
+   "all_retired": true
+  },
+  "新潟地区E127": {
+   "company": "JR東日本",
+   "jp": "新潟地区E127",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/niigata-area__e127ni1.png",
+    "02_east/niigata-area__e127ni3.png",
+    "02_east/niigata-area__e127ni2.png",
+    "02_east/niigata-area__e127ni.png"
+   ],
+   "all_retired": true
+  },
+  "新潟地区E120": {
+   "company": "JR東日本",
+   "jp": "新潟地区E120",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/niigata-area__e120.png"
+   ],
+   "all_retired": true
+  },
+  "米坂/磐越西線": {
+   "company": "JR東日本",
+   "jp": "米坂/磐越西線",
+   "series": [],
+   "current_images": [
+    "02_east/yonesaka-line__e58yo15.png",
+    "02_east/yonesaka-line__e58yo1.png",
+    "02_east/yonesaka-line__e58yo.png",
+    "02_east/yonesaka-line__e52yo.png",
+    "02_east/yonesaka-line__e40yo.png",
+    "02_east/yonesaka-line__e40yo1.png",
+    "02_east/yonesaka-line__e40yo2.png",
+    "02_east/yonesaka-line__e40j.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "飯山線": {
+   "company": "JR東日本",
+   "jp": "飯山線",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/iiyama-line__e40ii.png",
+    "02_east/iiyama-line__e58ii.png",
+    "02_east/iiyama-line__e52ii.png"
+   ],
+   "all_retired": true
+  },
+  "コカコーラ/UCC色": {
+   "company": "JR東日本",
+   "jp": "コカコーラ/UCC色",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/nagano-area__e115coca.png",
+    "02_east/nagano-area__e58ucc.png"
+   ],
+   "all_retired": true
+  },
+  "中央本線/ミニエコー": {
+   "company": "JR東日本",
+   "jp": "中央本線/ミニエコー",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/chuo-line__e115su0.png",
+    "02_east/chuo-line__e123r.png",
+    "02_east/chuo-line__e123g.png"
+   ],
+   "all_retired": true
+  },
+  "長野地区": {
+   "company": "JR東日本",
+   "jp": "長野地区",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/nagano-area__e115na.png",
+    "02_east/nagano-area__e115na01.png",
+    "02_east/nagano-area__e169na1.png",
+    "02_east/nagano-area__e169na1d.png",
+    "02_east/nagano-area__e169km.png",
+    "02_east/nagano-area__e169km1.png",
+    "02_east/nagano-area__e115na1.png",
+    "02_east/nagano-area__e115na1n.png",
+    "02_east/nagano-area__e169-na1.png",
+    "02_east/nagano-area__e169na.png",
+    "02_east/nagano-area__e169nad.png",
+    "02_east/nagano-area__e169na2.png"
+   ],
+   "all_retired": true
+  },
+  "新潟地区115": {
+   "company": "JR東日本",
+   "jp": "新潟地区115",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/niigata-area__e115ni01.png",
+    "02_east/niigata-area__e115ni0.png",
+    "02_east/niigata-area__e115ni2.png",
+    "02_east/niigata-area__e115ni2o.png",
+    "02_east/niigata-area__e115jef1.png",
+    "02_east/niigata-area__e115jef2.png",
+    "02_east/niigata-area__e115yh.png",
+    "02_east/niigata-area__e115yh0.png",
+    "02_east/niigata-area__e115ni1d.png",
+    "02_east/niigata-area__e115ni1dn.png",
+    "02_east/niigata-area__e115ni1n.png",
+    "02_east/niigata-area__e115ni1.png",
+    "02_east/niigata-area__e115ni.png",
+    "02_east/niigata-area__e115ni3.png",
+    "02_east/niigata-area__e115nij.png"
+   ],
+   "all_retired": true
+  },
+  "只見線": {
+   "company": "JR東日本",
+   "jp": "只見線",
+   "series": [],
+   "current_images": [
+    "02_east/tadami-line__e110se.png",
+    "02_east/tadami-line__e110o1.png",
+    "02_east/tadami-line__e120td.png",
+    "02_east/tadami-line__e120ry.png"
+   ],
+   "retired_images": [
+    "02_east/tadami-line__e40tdg.png",
+    "02_east/tadami-line__e40tdr.png"
+   ],
+   "all_retired": false
+  },
+  "仙台地区/空港線": {
+   "company": "JR東日本",
+   "jp": "仙台地区/空港線",
+   "series": [],
+   "current_images": [
+    "02_east/sendai-area__e721se1.png",
+    "02_east/sendai-area__e721se.png",
+    "02_east/sendai-area__e721.png",
+    "02_east/sendai-area__ee210st.png",
+    "02_east/sendai-area__e701se2.png",
+    "02_east/sendai-area__e701se1.png",
+    "02_east/sendai-area__e701se.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "仙石線E131": {
+   "company": "JR東日本",
+   "jp": "仙石線E131",
+   "series": [],
+   "current_images": [
+    "02_east/senseki-line__e131se.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "山形線": {
+   "company": "JR東日本",
+   "jp": "山形線",
+   "series": [],
+   "current_images": [
+    "02_east/yamagata-line__e723ya.png",
+    "02_east/yamagata-line__e701ya.png",
+    "02_east/yamagata-line__e719y.png"
+   ],
+   "retired_images": [
+    "02_east/yamagata-line__e701ya0.png",
+    "02_east/yamagata-line__e719y0.png"
+   ],
+   "all_retired": false
+  },
+  "陸羽/左沢線": {
+   "company": "JR東日本",
+   "jp": "陸羽/左沢線",
+   "series": [],
+   "current_images": [
+    "02_east/rikuu-aterazawa__e110rtr.png",
+    "02_east/rikuu-aterazawa__e110th6.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "仙台地区": {
+   "company": "JR東日本",
+   "jp": "仙台地区",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/sendai-area__e719.png",
+    "02_east/sendai-area__e719-scr.png",
+    "02_east/sendai-area__e715h.png",
+    "02_east/sendai-area__e715l.png",
+    "02_east/sendai-area__e455o.png",
+    "02_east/sendai-area__e455o1.png",
+    "02_east/sendai-area__e455o1l.png",
+    "02_east/sendai-area__e455l-scr.png",
+    "02_east/sendai-area__e455l.png",
+    "02_east/sendai-area__e455l2.png",
+    "02_east/sendai-area__e455.png",
+    "02_east/sendai-area__e417.png"
+   ],
+   "all_retired": true
+  },
+  "磐越西線": {
+   "company": "JR東日本",
+   "jp": "磐越西線",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/banetsu-line__e719bs.png",
+    "02_east/banetsu-line__e719b.png",
+    "02_east/banetsu-line__e455bal.png",
+    "02_east/banetsu-line__e455bal2.png",
+    "02_east/banetsu-line__e455ba.png",
+    "02_east/banetsu-line__e455ba2.png",
+    "02_east/banetsu-line__e455bab.png"
+   ],
+   "all_retired": true
+  },
+  "仙台地区717": {
+   "company": "JR東日本",
+   "jp": "仙台地区717",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/sendai-area__e717se.png"
+   ],
+   "all_retired": true
+  },
+  "仙石線": {
+   "company": "JR東日本",
+   "jp": "仙石線",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/senseki-line__e103se1.png",
+    "02_east/senseki-line__e103seh.png",
+    "02_east/senseki-line__e103se.png",
+    "02_east/senseki-line__e103se3.png",
+    "02_east/senseki-line__e103se2.png",
+    "02_east/senseki-line__e105se1.png",
+    "02_east/senseki-line__e103se6.png"
+   ],
+   "all_retired": true
+  },
+  "仙石線/仙石東北": {
+   "company": "JR東日本",
+   "jp": "仙石線/仙石東北",
+   "series": [],
+   "current_images": [
+    "02_east/senseki-line__e205-se.png",
+    "02_east/senseki-line__e205-sep.png",
+    "02_east/senseki-line__e205-seg.png",
+    "02_east/senseki-line__e205-suica.png",
+    "02_east/senseki-line__e205-mg3.png",
+    "02_east/senseki-line__e205-mg1.png",
+    "02_east/senseki-line__e205-mg2.png",
+    "02_east/senseki-line__e205-mg4.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "只見線/*南東北/左沢": {
+   "company": "JR東日本",
+   "jp": "只見線/*南東北/左沢",
+   "series": [],
+   "current_images": [
+    "02_east/sendai-area__e40ta.png",
+    "02_east/sendai-area__e40se1.png",
+    "02_east/sendai-area__e58se2.png",
+    "02_east/sendai-area__e58se.png",
+    "02_east/sendai-area__e58se3.png",
+    "02_east/sendai-area__e23se.png",
+    "02_east/sendai-area__e22se.png",
+    "02_east/sendai-area__e40at.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "盛岡地区110": {
+   "company": "JR東日本",
+   "jp": "盛岡地区110",
+   "series": [],
+   "current_images": [
+    "02_east/morioka-area__e110mo.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "秋田地区": {
+   "company": "JR東日本",
+   "jp": "秋田地区",
+   "series": [],
+   "current_images": [
+    "02_east/akita-area__e701ak4.png",
+    "02_east/akita-area__e701ak6.png"
+   ],
+   "retired_images": [
+    "02_east/akita-area__e701ak1.png",
+    "02_east/akita-area__e701ak5.png",
+    "02_east/akita-area__e701ak2.png",
+    "02_east/akita-area__e701ak3.png"
+   ],
+   "all_retired": false
+  },
+  "田沢湖線/*": {
+   "company": "JR東日本",
+   "jp": "田沢湖線/*",
+   "series": [],
+   "current_images": [
+    "02_east/tazawako-line__e701tal.png",
+    "02_east/tazawako-line__e701ta1.png",
+    "02_east/tazawako-line__e701ta.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "東北線": {
+   "company": "JR東日本",
+   "jp": "東北線",
+   "series": [],
+   "current_images": [
+    "02_east/tohoku-line__e701mo.png",
+    "02_east/tohoku-line__e701mo1.png",
+    "02_east/tohoku-line__e701mo2.png",
+    "02_east/tohoku-line__e701mohr.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "五能線/男鹿線": {
+   "company": "JR東日本",
+   "jp": "五能線/男鹿線",
+   "series": [],
+   "current_images": [
+    "02_east/gono-oga-line__ee801ogr1.png",
+    "02_east/gono-oga-line__ee801ogr.png",
+    "02_east/gono-oga-line__ee801ogb1.png",
+    "02_east/gono-oga-line__ee801ogb.png"
+   ],
+   "retired_images": [
+    "02_east/gono-oga-line__e40og.png",
+    "02_east/gono-oga-line__e40og1.png",
+    "02_east/gono-oga-line__e40go2.png",
+    "02_east/gono-oga-line__e40go.png"
+   ],
+   "all_retired": false
+  },
+  "八戸/五能/釜石線": {
+   "company": "JR東日本",
+   "jp": "八戸/五能/釜石線",
+   "series": [],
+   "current_images": [
+    "02_east/tohoku-area__e130he.png",
+    "02_east/tohoku-area__ee400ak.png",
+    "02_east/tohoku-area__ee220gm.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "盛岡地区(外幌付)": {
+   "company": "JR東日本",
+   "jp": "盛岡地区(外幌付)",
+   "series": [],
+   "current_images": [
+    "02_east/morioka-area__e112ex.png",
+    "02_east/morioka-area__e112.png",
+    "02_east/morioka-area__e110ex.png",
+    "02_east/morioka-area__e110s.png",
+    "02_east/morioka-area__e110-2.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "秋田地区旧色": {
+   "company": "JR東日本",
+   "jp": "秋田地区旧色",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/akita-area__e701ak0.png",
+    "02_east/akita-area__e701ak.png",
+    "02_east/akita-area__e719ak.png"
+   ],
+   "all_retired": true
+  },
+  "北東北地区": {
+   "company": "JR東日本",
+   "jp": "北東北地区",
+   "series": [],
+   "current_images": [
+    "02_east/morioka-area__e110ex1.png",
+    "02_east/morioka-area__e110ymmc.png",
+    "02_east/morioka-area__e110pm.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "Rうみねこ/八戸線": {
+   "company": "JR東日本",
+   "jp": "Rうみねこ/八戸線",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/umineko__e40jum.png",
+    "02_east/umineko__e40jumk.png",
+    "02_east/umineko__e40mo.png"
+   ],
+   "all_retired": true
+  },
+  "男鹿/五能線": {
+   "company": "JR東日本",
+   "jp": "男鹿/五能線",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/oga-gonou-line__e58go0.png",
+    "02_east/oga-gonou-line__e58go1.png",
+    "02_east/oga-gonou-line__e40go1.png",
+    "02_east/oga-gonou-line__e58ak0.png",
+    "02_east/oga-gonou-line__e58ak.png",
+    "02_east/oga-gonou-line__e58ak150.png",
+    "02_east/oga-gonou-line__e58ak15.png",
+    "02_east/oga-gonou-line__e40ak.png"
+   ],
+   "all_retired": true
+  },
+  "盛岡地区": {
+   "company": "JR東日本",
+   "jp": "盛岡地区",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/morioka-area__e58mo.png",
+    "02_east/morioka-area__e23mo.png",
+    "02_east/morioka-area__e52mo1.png",
+    "02_east/morioka-area__e40mo2.png",
+    "02_east/morioka-area__e58mo2.png",
+    "02_east/morioka-area__e23mo2.png",
+    "02_east/morioka-area__e58mo2b.png",
+    "02_east/morioka-area__e52mo2.png"
+   ],
+   "all_retired": true
+  },
+  "こまち/おばこ,アキ座": {
+   "company": "JR東日本",
+   "jp": "こまち/おばこ,アキ座",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "02_east/akita-area__e58jkmt.png",
+    "02_east/akita-area__e58jobk.png",
+    "02_east/akita-area__e58jakki.png",
+    "02_east/akita-area__e58jakz.png",
+    "02_east/akita-area__e58jakz2.png"
+   ],
+   "all_retired": true
+  },
+  "東海地区315": {
+   "company": "JR東海",
+   "jp": "東海地区315",
+   "series": [],
+   "current_images": [
+    "03_tokai/tokai-area__c315.png",
+    "03_tokai/tokai-area__c315k.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "東海地区313": {
+   "company": "JR東海",
+   "jp": "東海地区313",
+   "series": [],
+   "current_images": [
+    "03_tokai/tokai-area__c313ce.png",
+    "03_tokai/tokai-area__c313p.png",
+    "03_tokai/tokai-area__c313.png",
+    "03_tokai/tokai-area__c313hp.png",
+    "03_tokai/tokai-area__c313h.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "みえ/高山線75": {
+   "company": "JR東海",
+   "jp": "みえ/高山線75",
+   "series": [],
+   "current_images": [
+    "03_tokai/tokai-area__c75s.png",
+    "03_tokai/tokai-area__c75os.png",
+    "03_tokai/tokai-area__c75.png",
+    "03_tokai/tokai-area__c75o.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "三重岐阜地区25/11": {
+   "company": "JR東海",
+   "jp": "三重岐阜地区25/11",
+   "series": [],
+   "current_images": [
+    "03_tokai/tokai-area-jr__c25.png",
+    "03_tokai/tokai-area-jr__c25-1.png",
+    "03_tokai/tokai-area-jr__c25-2.png",
+    "03_tokai/tokai-area-jr__c11nsk.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "三重岐阜地区11": {
+   "company": "JR東海",
+   "jp": "三重岐阜地区11",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "03_tokai/tokai-area__c11n.png",
+    "03_tokai/tokai-area__c11.png",
+    "03_tokai/tokai-area__c11-2.png"
+   ],
+   "all_retired": true
+  },
+  "東海地区211/213": {
+   "company": "JR東海",
+   "jp": "東海地区211/213",
+   "series": [
+    "213"
+   ],
+   "current_images": [],
+   "retired_images": [
+    "03_tokai/tokai-area__c211-0.png",
+    "03_tokai/tokai-area__c211sn1.png",
+    "03_tokai/tokai-area__c211n1.png",
+    "03_tokai/tokai-area__c211.png",
+    "03_tokai/tokai-area__c211s.png",
+    "03_tokai/tokai-area__c211j0.png",
+    "03_tokai/tokai-area__c211jn0.png"
+   ],
+   "all_retired": true
+  },
+  "みえ/東海地区": {
+   "company": "JR東海",
+   "jp": "みえ/東海地区",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "03_tokai/tokai-area__c40s.png",
+    "03_tokai/tokai-area__c40.png",
+    "03_tokai/tokai-area__c40jnr.png",
+    "03_tokai/tokai-area__c58.png",
+    "03_tokai/tokai-area__c65.png",
+    "03_tokai/tokai-area__c65mie.png",
+    "03_tokai/tokai-area__c58mie.png"
+   ],
+   "all_retired": true
+  },
+  "飯田線": {
+   "company": "JR東海",
+   "jp": "飯田線",
+   "series": [
+    "119"
+   ],
+   "current_images": [],
+   "retired_images": [
+    "03_tokai/iida-line-119__c119b.png",
+    "03_tokai/iida-line-119__c119c-1.png",
+    "03_tokai/iida-line-119__c119c.png",
+    "03_tokai/iida-line-119__c119p.png",
+    "03_tokai/iida-line-119__c119.png",
+    "03_tokai/iida-line-119__c119-1.png"
+   ],
+   "all_retired": true
+  },
+  "するがシャトル/中央": {
+   "company": "JR東海",
+   "jp": "するがシャトル/中央",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "03_tokai/tokai-area__c119sr.png",
+    "03_tokai/tokai-area__c103s.png",
+    "03_tokai/tokai-area__c103.png"
+   ],
+   "all_retired": true
+  },
+  "身延線": {
+   "company": "JR東海",
+   "jp": "身延線",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "03_tokai/minobu-line__c123.png",
+    "03_tokai/minobu-line__c123k.png",
+    "03_tokai/minobu-line__c123mnb.png",
+    "03_tokai/minobu-line__c123k1.png",
+    "03_tokai/minobu-line__c123a.png",
+    "03_tokai/minobu-line__c123mnb2.png"
+   ],
+   "all_retired": true
+  },
+  "各線/身延": {
+   "company": "JR東海",
+   "jp": "各線/身延",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "03_tokai/tokai-area__c113d.png",
+    "03_tokai/tokai-area__c115.png",
+    "03_tokai/tokai-area__c115d.png",
+    "03_tokai/tokai-area__c113.png",
+    "03_tokai/tokai-area__c115mb70.png",
+    "03_tokai/tokai-area__c115mb71.png"
+   ],
+   "all_retired": true
+  },
+  "名古屋地区トロッコ": {
+   "company": "JR東海",
+   "jp": "名古屋地区トロッコ",
+   "series": [
+    "2025"
+   ],
+   "current_images": [],
+   "retired_images": [
+    "03_tokai/nagoya-area-90000-jr-jr-2025-9-5-update__c90000tf.png"
+   ],
+   "all_retired": true
+  },
+  "花嫁のれん/べるもんた": {
+   "company": "JR西日本",
+   "jp": "花嫁のれん/べるもんた",
+   "series": [],
+   "current_images": [
+    "04_west/hokuriku-area__w40jnrn.png",
+    "04_west/hokuriku-area__w40jbel.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "○○のはなし/あめつち": {
+   "company": "JR西日本",
+   "jp": "○○のはなし/あめつち",
+   "series": [],
+   "current_images": [
+    "04_west/chugoku-area__w40oog.png",
+    "04_west/chugoku-area__w40oor.png",
+    "04_west/chugoku-area__w40amtc.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "東海道/山陽線": {
+   "company": "JR西日本",
+   "jp": "東海道/山陽線",
+   "series": [],
+   "current_images": [
+    "04_west/tokaido-line__w223ms.png",
+    "04_west/tokaido-line__w223h1.png",
+    "04_west/tokaido-line__w223n1.png",
+    "04_west/tokaido-line__w223-2f.png",
+    "04_west/tokaido-line__w223n2.png",
+    "04_west/tokaido-line__w223msp.png",
+    "04_west/tokaido-line__w223s.png",
+    "04_west/tokaido-line__w223-2.png",
+    "04_west/tokaido-line__w223h2.png",
+    "04_west/tokaido-line__w223hp.png",
+    "04_west/tokaido-line__w223-1s1.png"
+   ],
+   "retired_images": [
+    "04_west/tokaido-line__w201nbls.png",
+    "04_west/tokaido-line__w201bls.png",
+    "04_west/tokaido-line__w201.png",
+    "04_west/tokaido-line__w201nbl.png",
+    "04_west/tokaido-line__w205nl.png",
+    "04_west/tokaido-line__w205n.png"
+   ],
+   "all_retired": false
+  },
+  "関西地区": {
+   "company": "JR西日本",
+   "jp": "関西地区",
+   "series": [],
+   "current_images": [
+    "04_west/kansai-area__w221np.png",
+    "04_west/kansai-area__w221n.png",
+    "04_west/kansai-area__w221n1p.png",
+    "04_west/kansai-area__w221n1.png",
+    "04_west/kansai-area__w225.png",
+    "04_west/kansai-area__w225-6.png",
+    "04_west/kansai-area__w225-1.png",
+    "04_west/kansai-area__w225h.png"
+   ],
+   "retired_images": [
+    "04_west/kansai-area__w221.png",
+    "04_west/kansai-area__w221-2.png",
+    "04_west/kansai-area__w221p2.png"
+   ],
+   "all_retired": false
+  },
+  "LED種別表示": {
+   "company": "JR西日本",
+   "jp": "LED種別表示",
+   "series": [],
+   "current_images": [
+    "04_west/kansai-area__w221f.png",
+    "04_west/kansai-area__w221f1.png",
+    "04_west/kansai-area__w207f.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "関西地区_幌付": {
+   "company": "JR西日本",
+   "jp": "関西地区_幌付",
+   "series": [],
+   "current_images": [
+    "04_west/kansai-area__w207y3p.png",
+    "04_west/kansai-area__w207y3k.png",
+    "04_west/kansai-area__w207n1p.png",
+    "04_west/kansai-area__w207n1k.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "福知山線223-6": {
+   "company": "JR西日本",
+   "jp": "福知山線223-6",
+   "series": [],
+   "current_images": [
+    "04_west/fukuchiyama-line__w223-6.png",
+    "04_west/fukuchiyama-line__w223p6.png",
+    "04_west/fukuchiyama-line__w223-6h.png",
+    "04_west/fukuchiyama-line__w223p6h.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "福知山線223-55": {
+   "company": "JR西日本",
+   "jp": "福知山線223-55",
+   "series": [],
+   "current_images": [
+    "04_west/fukuchiyama-line__w223hs55.png",
+    "04_west/fukuchiyama-line__w223hsp55.png",
+    "04_west/fukuchiyama-line__w223h55.png",
+    "04_west/fukuchiyama-line__w223hp55.png",
+    "04_west/fukuchiyama-line__w223-55.png",
+    "04_west/fukuchiyama-line__w223p55.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "福知山地区復刻色113": {
+   "company": "JR西日本",
+   "jp": "福知山地区復刻色113",
+   "series": [],
+   "current_images": [
+    "04_west/fukuchiyama-area__w113fk053.png",
+    "04_west/fukuchiyama-area__w113fk053p.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "嵯峨野線森の京都号": {
+   "company": "JR西日本",
+   "jp": "嵯峨野線森の京都号",
+   "series": [],
+   "current_images": [
+    "04_west/sagano-line__w223mori.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "お茶の京都": {
+   "company": "JR西日本",
+   "jp": "お茶の京都",
+   "series": [],
+   "current_images": [
+    "04_west/kansai-area__w120cha.png",
+    "04_west/kansai-area__w221cha.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "福知山地区": {
+   "company": "JR西日本",
+   "jp": "福知山地区",
+   "series": [],
+   "current_images": [
+    "04_west/fukuchiyama-area__w115n1p.png",
+    "04_west/fukuchiyama-area__w115n1.png",
+    "04_west/fukuchiyama-area__w115n65.png",
+    "04_west/fukuchiyama-area__w113n76.png",
+    "04_west/fukuchiyama-area__w113k53.png",
+    "04_west/fukuchiyama-area__w113k53p.png",
+    "04_west/fukuchiyama-area__w113n.png",
+    "04_west/fukuchiyama-area__w115s65.png",
+    "04_west/fukuchiyama-area__w115s65p.png"
+   ],
+   "retired_images": [
+    "04_west/fukuchiyama-area__w41bas.png",
+    "04_west/fukuchiyama-area__w41ba1.png",
+    "04_west/fukuchiyama-area__w41bao.png",
+    "04_west/fukuchiyama-area__w41ba.png",
+    "04_west/fukuchiyama-area__w40ba1.png",
+    "04_west/fukuchiyama-area__w40bao.png",
+    "04_west/fukuchiyama-area__w40ba.png",
+    "04_west/fukuchiyama-area__w40fk.png",
+    "04_west/fukuchiyama-area__w40fk0.png",
+    "04_west/fukuchiyama-area__w58wktr.png",
+    "04_west/fukuchiyama-area__w58wktr1.png"
+   ],
+   "all_retired": false
+  },
+  "福知山湖西線/*": {
+   "company": "JR西日本",
+   "jp": "福知山湖西線/*",
+   "series": [],
+   "current_images": [
+    "04_west/fukuchiyama-area__w115s65kg.png",
+    "04_west/fukuchiyama-area__w115s65pkg.png",
+    "04_west/fukuchiyama-area__w117kg.png",
+    "04_west/fukuchiyama-area__w113k53kg.png",
+    "04_west/fukuchiyama-area__w113k53pkg.png",
+    "04_west/fukuchiyama-area__w113gnt.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "福知山線113": {
+   "company": "JR西日本",
+   "jp": "福知山線113",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "04_west/fukuchiyama-line__w113fk.png",
+    "04_west/fukuchiyama-line__w113fk-b.png",
+    "04_west/fukuchiyama-line__w113fk-d.png",
+    "04_west/fukuchiyama-line__w113fk-c.png",
+    "04_west/fukuchiyama-line__w113fks.png",
+    "04_west/fukuchiyama-line__w113fk0-b.png",
+    "04_west/fukuchiyama-line__w113fk0.png"
+   ],
+   "all_retired": true
+  },
+  "福知山線103/117": {
+   "company": "JR西日本",
+   "jp": "福知山線103/117",
+   "series": [
+    "117"
+   ],
+   "current_images": [],
+   "retired_images": [
+    "04_west/fukuchiyama-line__w103ye.png",
+    "04_west/fukuchiyama-line__w103yel.png",
+    "04_west/fukuchiyama-line__w117fk.png"
+   ],
+   "all_retired": true
+  },
+  "福知山線113-38": {
+   "company": "JR西日本",
+   "jp": "福知山線113-38",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "04_west/fukuchiyama-line__w113fk2p.png",
+    "04_west/fukuchiyama-line__w113fk2.png",
+    "04_west/fukuchiyama-line__w115n2.png"
+   ],
+   "all_retired": true
+  },
+  "嵯峨野線": {
+   "company": "JR西日本",
+   "jp": "嵯峨野線",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "04_west/kansai-area__w113sg.png",
+    "04_west/kansai-area__w113sgt.png",
+    "04_west/kansai-area__w113sgtp.png",
+    "04_west/kansai-area__w113shdt.png",
+    "04_west/kansai-area__w113sht.png"
+   ],
+   "all_retired": true
+  },
+  "関西地区/和田岬": {
+   "company": "JR西日本",
+   "jp": "関西地区/和田岬",
+   "series": [
+    "2026"
+   ],
+   "current_images": [],
+   "retired_images": [
+    "04_west/kansai-area-jr-jr-1-2-3-4-5-6-7-8-2026-5-15-update__w223-1.png",
+    "04_west/kansai-area-jr-jr-1-2-3-4-5-6-7-8-2026-5-15-update__w223.png",
+    "04_west/kansai-area-jr-jr-1-2-3-4-5-6-7-8-2026-5-15-update__w207p.png",
+    "04_west/kansai-area-jr-jr-1-2-3-4-5-6-7-8-2026-5-15-update__w207.png",
+    "04_west/kansai-area-jr-jr-1-2-3-4-5-6-7-8-2026-5-15-update__w207-1.png",
+    "04_west/kansai-area-jr-jr-1-2-3-4-5-6-7-8-2026-5-15-update__w207-2.png",
+    "04_west/kansai-area-jr-jr-1-2-3-4-5-6-7-8-2026-5-15-update__w30wd.png"
+   ],
+   "all_retired": true
+  },
+  "大阪環状線323": {
+   "company": "JR西日本",
+   "jp": "大阪環状線323",
+   "series": [],
+   "current_images": [
+    "04_west/osaka-loop-line__w323or.png",
+    "04_west/osaka-loop-line__w323m.png",
+    "04_west/osaka-loop-line__w323expo.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "大和路線/奈良線": {
+   "company": "JR西日本",
+   "jp": "大和路線/奈良線",
+   "series": [],
+   "current_images": [
+    "04_west/kansai-nara-line__w201ka1.png",
+    "04_west/kansai-nara-line__w201ka2.png",
+    "04_west/kansai-nara-line__w205hn2.png",
+    "04_west/kansai-nara-line__w205hn1.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "阪和/関空線": {
+   "company": "JR西日本",
+   "jp": "阪和/関空線",
+   "series": [],
+   "current_images": [
+    "04_west/hanwa-line__w225-51.png",
+    "04_west/hanwa-line__w225h5.png",
+    "04_west/hanwa-line__w225-5.png",
+    "04_west/hanwa-line__w225-51a.png",
+    "04_west/hanwa-line__w223kin.png",
+    "04_west/hanwa-line__w223kah.png",
+    "04_west/hanwa-line__w223kas.png",
+    "04_west/hanwa-line__w223kih.png",
+    "04_west/hanwa-line__w223kis.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "和歌山桜井線": {
+   "company": "JR西日本",
+   "jp": "和歌山桜井線",
+   "series": [
+    "2025"
+   ],
+   "current_images": [
+    "04_west/wakayama-line__w227wk.png",
+    "04_west/wakayama-line__w227wkp.png"
+   ],
+   "retired_images": [
+    "04_west/wakayama-line-jr-jr-1-2-3-4-5-6-7-8-2025-10-26-update__w105lwk.png",
+    "04_west/wakayama-line-jr-jr-1-2-3-4-5-6-7-8-2025-10-26-update__w105lwk1.png",
+    "04_west/wakayama-line-jr-jr-1-2-3-4-5-6-7-8-2025-10-26-update__w105lwk2.png",
+    "04_west/wakayama-line-jr-jr-1-2-3-4-5-6-7-8-2025-10-26-update__w105olwk.png",
+    "04_west/wakayama-line-jr-jr-1-2-3-4-5-6-7-8-2025-10-26-update__w105wk1.png",
+    "04_west/wakayama-line-jr-jr-1-2-3-4-5-6-7-8-2025-10-26-update__w105wk.png",
+    "04_west/wakayama-line-jr-jr-1-2-3-4-5-6-7-8-2025-10-26-update__w105wk2.png",
+    "04_west/wakayama-line-jr-jr-1-2-3-4-5-6-7-8-2025-10-26-update__w105owk.png"
+   ],
+   "all_retired": false
+  },
+  "関西本線": {
+   "company": "JR西日本",
+   "jp": "関西本線",
+   "series": [],
+   "current_images": [
+    "04_west/kansai-line__w120ka.png",
+    "04_west/kansai-line__w120ka1.png",
+    "04_west/kansai-line__w120kan.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "大和路線": {
+   "company": "JR西日本",
+   "jp": "大和路線",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "04_west/kansai-line__w103ka1t.png",
+    "04_west/kansai-line__w201ka.png",
+    "04_west/kansai-line__w201psnd.png",
+    "04_west/kansai-line__w103hka2.png",
+    "04_west/kansai-line__w103ka.png",
+    "04_west/kansai-line__w103hka.png",
+    "04_west/kansai-line__w103ka1.png",
+    "04_west/kansai-line__w103hka1.png",
+    "04_west/kansai-line__w103ka3.png",
+    "04_west/kansai-line__w103ka2.png",
+    "04_west/kansai-line__w103ug.png"
+   ],
+   "all_retired": true
+  },
+  "関西線103": {
+   "company": "JR西日本",
+   "jp": "関西線103",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "04_west/kansai-line__w103kny1.png",
+    "04_west/kansai-line__w103kny1c.png",
+    "04_west/kansai-line__w103kny2.png",
+    "04_west/kansai-line__w103kny2c.png"
+   ],
+   "all_retired": true
+  },
+  "関西線101": {
+   "company": "JR西日本",
+   "jp": "関西線101",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "04_west/kansai-line__w101kny1.png",
+    "04_west/kansai-line__w101kny2.png"
+   ],
+   "all_retired": true
+  },
+  "大阪環状線": {
+   "company": "JR西日本",
+   "jp": "大阪環状線",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "04_west/osaka-loop-line__w201nor1.png",
+    "04_west/osaka-loop-line__w201nor.png",
+    "04_west/osaka-loop-line__w201nors.png",
+    "04_west/osaka-loop-line__w103or.png",
+    "04_west/osaka-loop-line__w103hor.png",
+    "04_west/osaka-loop-line__w103or2t.png",
+    "04_west/osaka-loop-line__w103or1t.png",
+    "04_west/osaka-loop-line__w103or1.png"
+   ],
+   "all_retired": true
+  },
+  "ゆめ咲線": {
+   "company": "JR西日本",
+   "jp": "ゆめ咲線",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "04_west/sakurajima-line__w103usj6.png",
+    "04_west/sakurajima-line__w103usj1.png",
+    "04_west/sakurajima-line__w103usj2.png",
+    "04_west/sakurajima-line__w103usj3.png",
+    "04_west/sakurajima-line__w103usj4.png",
+    "04_west/sakurajima-line__w103usj5.png"
+   ],
+   "all_retired": true
+  },
+  "阪和線": {
+   "company": "JR西日本",
+   "jp": "阪和線",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "04_west/hanwa-line__w103hhn.png",
+    "04_west/hanwa-line__w103bl.png",
+    "04_west/hanwa-line__w103hhn2.png",
+    "04_west/hanwa-line__w103bl1.png",
+    "04_west/hanwa-line__w103bl1t.png",
+    "04_west/hanwa-line__w103bl2t.png",
+    "04_west/hanwa-line__w103bl2.png",
+    "04_west/hanwa-line__w123hn.png",
+    "04_west/hanwa-line__w103hn2.png",
+    "04_west/hanwa-line__w103hn3.png",
+    "04_west/hanwa-line__w103hn1.png",
+    "04_west/hanwa-line__w103hn.png",
+    "04_west/hanwa-line__w205tos.png",
+    "04_west/hanwa-line__w223ka.png",
+    "04_west/hanwa-line__w223ki.png",
+    "04_west/hanwa-line__w113hndt.png",
+    "04_west/hanwa-line__w205to.png",
+    "04_west/hanwa-line__w205hns.png",
+    "04_west/hanwa-line__w205hn.png",
+    "04_west/hanwa-line__w113hn1t.png"
+   ],
+   "all_retired": true
+  },
+  "紀勢線": {
+   "company": "JR西日本",
+   "jp": "紀勢線",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "04_west/kisei-line__w117wm.png",
+    "04_west/kisei-line__w117ks.png",
+    "04_west/kisei-line__w113nwm.png",
+    "04_west/kisei-line__w113nks.png",
+    "04_west/kisei-line__w105kpnd1.png",
+    "04_west/kisei-line__w105pnd1.png",
+    "04_west/kisei-line__w113pnd1.png",
+    "04_west/kisei-line__w113dpnd1.png"
+   ],
+   "all_retired": true
+  },
+  "和歌山線": {
+   "company": "JR西日本",
+   "jp": "和歌山線",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "04_west/wakayama-line__w105tbm2p.png",
+    "04_west/wakayama-line__w105tbm2m.png",
+    "04_west/wakayama-line__w105tbm3.png",
+    "04_west/wakayama-line__w105snd.png",
+    "04_west/wakayama-line__w105tbm3k.png",
+    "04_west/wakayama-line__w105tbm4.png",
+    "04_west/wakayama-line__w105tbm4k.png",
+    "04_west/wakayama-line__w105snd2.png",
+    "04_west/wakayama-line__w105lwm.png",
+    "04_west/wakayama-line__w105lwm1.png",
+    "04_west/wakayama-line__w105wmp.png",
+    "04_west/wakayama-line__w105wm.png",
+    "04_west/wakayama-line__w105wm1.png",
+    "04_west/wakayama-line__w105tbm1.png",
+    "04_west/wakayama-line__w105nks.png"
+   ],
+   "all_retired": true
+  },
+  "山口地区227": {
+   "company": "JR西日本",
+   "jp": "山口地区227",
+   "series": [],
+   "current_images": [
+    "04_west/yamaguchi-area__w227ym.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "岡山地区227/213": {
+   "company": "JR西日本",
+   "jp": "岡山地区227/213",
+   "series": [
+    "213"
+   ],
+   "current_images": [
+    "04_west/okayama-area__w227ok.png",
+    "04_west/okayama-area__w227okp.png",
+    "04_west/okayama-area__w213k.png",
+    "04_west/okayama-area__w213nk.png",
+    "04_west/okayama-area__w213n.png",
+    "04_west/okayama-area__w213expo.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "広島地区/広電色": {
+   "company": "JR西日本",
+   "jp": "広島地区/広電色",
+   "series": [],
+   "current_images": [
+    "04_west/hiroshima-area__w227hi.png",
+    "04_west/hiroshima-area__w227himx.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "福塩線": {
+   "company": "JR西日本",
+   "jp": "福塩線",
+   "series": [],
+   "current_images": [
+    "04_west/fukuen-line__w105hy.png",
+    "04_west/fukuen-line__w105hy3.png",
+    "04_west/fukuen-line__w105hy2.png",
+    "04_west/fukuen-line__w105hy1.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "下関地区": {
+   "company": "JR西日本",
+   "jp": "下関地区",
+   "series": [],
+   "current_images": [
+    "04_west/yamaguchi-area__w115hy15.png",
+    "04_west/yamaguchi-area__w115hy15p.png",
+    "04_west/yamaguchi-area__w115hy.png",
+    "04_west/yamaguchi-area__w123hyp.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "山陽線": {
+   "company": "JR西日本",
+   "jp": "山陽線",
+   "series": [],
+   "current_images": [
+    "04_west/sanyo-line__w117hy.png",
+    "04_west/sanyo-line__w117sn.png",
+    "04_west/sanyo-line__w117pmt.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "下関地区115": {
+   "company": "JR西日本",
+   "jp": "下関地区115",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "04_west/sanyo-line__w115nc.png",
+    "04_west/sanyo-line__w115hi4.png",
+    "04_west/sanyo-line__w115hi5.png",
+    "04_west/sanyo-line__w115n.png",
+    "04_west/sanyo-line__w115hi15.png",
+    "04_west/sanyo-line__w115hi15p.png",
+    "04_west/sanyo-line__w115hi5c.png",
+    "04_west/sanyo-line__w115hi5t.png",
+    "04_west/sanyo-line__w115s65k.png",
+    "04_west/sanyo-line__w115s65kp.png",
+    "04_west/sanyo-line__w115s65t.png",
+    "04_west/sanyo-line__w115s65tw.png"
+   ],
+   "all_retired": true
+  },
+  "伯備線/岡山地区": {
+   "company": "JR西日本",
+   "jp": "伯備線/岡山地区",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "04_west/okayama-area__w115n3y.png",
+    "04_west/okayama-area__w115y16.png",
+    "04_west/okayama-area__w115hyl.png",
+    "04_west/okayama-area__w115hykm.png",
+    "04_west/okayama-area__w115n3.png",
+    "04_west/okayama-area__w115n3p.png",
+    "04_west/okayama-area__w115-16.png",
+    "04_west/okayama-area__w115nl.png",
+    "04_west/okayama-area__w213.png"
+   ],
+   "all_retired": true
+  },
+  "福塩/*下関地区": {
+   "company": "JR西日本",
+   "jp": "福塩/*下関地区",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "04_west/sanyo-area__w123sm.png",
+    "04_west/sanyo-area__w123smw.png",
+    "04_west/sanyo-area__w123smk.png",
+    "04_west/sanyo-area__w123smkp.png",
+    "04_west/sanyo-area__w123sm0.png",
+    "04_west/sanyo-area__w123sm1.png",
+    "04_west/sanyo-area__w103hy2.png",
+    "04_west/sanyo-area__w105ofu.png",
+    "04_west/sanyo-area__w105fu.png",
+    "04_west/sanyo-area__w105fu1.png",
+    "04_west/sanyo-area__w105fu2.png"
+   ],
+   "all_retired": true
+  },
+  "広島地区": {
+   "company": "JR西日本",
+   "jp": "広島地区",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "04_west/hiroshima-area__w105hyk2.png",
+    "04_west/hiroshima-area__w105hyk.png",
+    "04_west/hiroshima-area__w117hy1.png",
+    "04_west/hiroshima-area__w115hytc.png"
+   ],
+   "all_retired": true
+  },
+  "山陽地区": {
+   "company": "JR西日本",
+   "jp": "山陽地区",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "04_west/sanyo-area__w115hi.png",
+    "04_west/sanyo-area__w115hit.png",
+    "04_west/sanyo-area__w115hitc.png",
+    "04_west/sanyo-area__w115hid.png",
+    "04_west/sanyo-area__w113hid2.png",
+    "04_west/sanyo-area__w113hid3.png",
+    "04_west/sanyo-area__w115hiu.png",
+    "04_west/sanyo-area__w115hiud.png",
+    "04_west/sanyo-area__w103hhi.png",
+    "04_west/sanyo-area__w103hi2.png",
+    "04_west/sanyo-area__w103hi.png",
+    "04_west/sanyo-area__w103hi3.png"
+   ],
+   "all_retired": true
+  },
+  "可部線": {
+   "company": "JR西日本",
+   "jp": "可部線",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "04_west/kabe-line__w105hik.png",
+    "04_west/kabe-line__w105hik2.png",
+    "04_west/kabe-line__w105hik1.png",
+    "04_west/kabe-line__w103kb.png",
+    "04_west/kabe-line__w105hi.png",
+    "04_west/kabe-line__w105ohi.png",
+    "04_west/kabe-line__w105hi3.png",
+    "04_west/kabe-line__w105hi2.png",
+    "04_west/kabe-line__w105hi1.png"
+   ],
+   "all_retired": true
+  },
+  "岡山地区/こんぴら": {
+   "company": "JR西日本",
+   "jp": "岡山地区/こんぴら",
+   "series": [
+    "2026"
+   ],
+   "current_images": [],
+   "retired_images": [
+    "04_west/okayama-area-jr-jr-1-2-3-4-5-6-7-8-2026-5-15-update__w115shl.png",
+    "04_west/okayama-area-jr-jr-1-2-3-4-5-6-7-8-2026-5-15-update__w115se.png",
+    "04_west/okayama-area-jr-jr-1-2-3-4-5-6-7-8-2026-5-15-update__w115set.png",
+    "04_west/okayama-area-jr-jr-1-2-3-4-5-6-7-8-2026-5-15-update__w115knpr.png",
+    "04_west/okayama-area-jr-jr-1-2-3-4-5-6-7-8-2026-5-15-update__w84un.png",
+    "04_west/okayama-area-jr-jr-1-2-3-4-5-6-7-8-2026-5-15-update__w84un1.png",
+    "04_west/okayama-area-jr-jr-1-2-3-4-5-6-7-8-2026-5-15-update__w123un.png",
+    "04_west/okayama-area-jr-jr-1-2-3-4-5-6-7-8-2026-5-15-update__w103ok.png"
+   ],
+   "all_retired": true
+  },
+  "山口地区": {
+   "company": "JR西日本",
+   "jp": "山口地区",
+   "series": [],
+   "current_images": [
+    "04_west/yamaguchi-area__w700dy.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "吉備線": {
+   "company": "JR西日本",
+   "jp": "吉備線",
+   "series": [],
+   "current_images": [
+    "04_west/kibi-line__w40mmtr.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "津山/吉備/姫新線": {
+   "company": "JR西日本",
+   "jp": "津山/吉備/姫新線",
+   "series": [],
+   "current_images": [
+    "04_west/tsuyama-line__w40ty1.png",
+    "04_west/tsuyama-line__w40ty.png",
+    "04_west/tsuyama-line__w120tu.png",
+    "04_west/tsuyama-line__w120tun.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "美祢線": {
+   "company": "JR西日本",
+   "jp": "美祢線",
+   "series": [],
+   "current_images": [
+    "04_west/mine-line__w120mi2.png",
+    "04_west/mine-line__w120mi3.png",
+    "04_west/mine-line__w120mi4.png",
+    "04_west/mine-line__w120mi5.png",
+    "04_west/mine-line__w120mi1.png",
+    "04_west/mine-line__w120mi.png",
+    "04_west/mine-line__w120min.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "三江線/山陰本線": {
+   "company": "JR西日本",
+   "jp": "三江線/山陰本線",
+   "series": [],
+   "current_images": [
+    "04_west/san-in-line__w120hm.png",
+    "04_west/san-in-line__w120hmn.png",
+    "04_west/san-in-line__w126.png",
+    "04_west/san-in-line__w40dojo.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "芸備/木次線": {
+   "company": "JR西日本",
+   "jp": "芸備/木次線",
+   "series": [],
+   "current_images": [
+    "04_west/geibi-kisuki-line__w120ki3.png",
+    "04_west/geibi-kisuki-line__w120ki4.png",
+    "04_west/geibi-kisuki-line__w120fu.png",
+    "04_west/geibi-kisuki-line__w120fun.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "木次線キハ120": {
+   "company": "JR西日本",
+   "jp": "木次線キハ120",
+   "series": [],
+   "current_images": [
+    "04_west/kisuki-line__w120kig.png",
+    "04_west/kisuki-line__w120kim.png",
+    "04_west/kisuki-line__w120kip.png",
+    "04_west/kisuki-line__w120kis.png",
+    "04_west/kisuki-line__w120ki1.png",
+    "04_west/kisuki-line__w120ki2.png",
+    "04_west/kisuki-line__w120kin.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "広島山口地区": {
+   "company": "JR西日本",
+   "jp": "広島山口地区",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "04_west/untitled__w40hi.png",
+    "04_west/untitled__w40hi1.png",
+    "04_west/untitled__w40j.png",
+    "04_west/untitled__w23hi.png",
+    "04_west/untitled__w35hi.png",
+    "04_west/untitled__w58hiy.png",
+    "04_west/untitled__w58hiy-1.png",
+    "04_west/untitled__w20hi.png",
+    "04_west/untitled__w20hi1.png"
+   ],
+   "all_retired": true
+  },
+  "大嶺支線/みよし": {
+   "company": "JR西日本",
+   "jp": "大嶺支線/みよし",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "04_west/miyoshi__w58mi.png",
+    "04_west/miyoshi__w58mi-1.png",
+    "04_west/miyoshi__w58hi2.png",
+    "04_west/miyoshi__w58hi2-1.png",
+    "04_west/miyoshi__w58hi1.png",
+    "04_west/miyoshi__w30om.png"
+   ],
+   "all_retired": true
+  },
+  "木次/三江線": {
+   "company": "JR西日本",
+   "jp": "木次/三江線",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "04_west/kisuki-line__w52ks.png",
+    "04_west/kisuki-line__w53ks.png",
+    "04_west/kisuki-line__w40ki2.png",
+    "04_west/kisuki-line__w40ki.png"
+   ],
+   "all_retired": true
+  },
+  "西日本地区/因美": {
+   "company": "JR西日本",
+   "jp": "西日本地区/因美",
+   "series": [],
+   "current_images": [
+    "04_west/west-japan-area__w40or.png",
+    "04_west/west-japan-area__w40in.png",
+    "04_west/west-japan-area__w40in1.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "境線/*": {
+   "company": "JR西日本",
+   "jp": "境線/*",
+   "series": [],
+   "current_images": [
+    "04_west/sakai-line__w40ktro11.png",
+    "04_west/sakai-line__w40ktro12.png",
+    "04_west/sakai-line__w40ktro13.png",
+    "04_west/sakai-line__w40ktro14.png",
+    "04_west/sakai-line__w40ktro4.png",
+    "04_west/sakai-line__w40ktro3.png",
+    "04_west/sakai-line__w40ktro5.png",
+    "04_west/sakai-line__w40ktro6.png",
+    "04_west/sakai-line__w40ktro2.png",
+    "04_west/sakai-line__w33ktro2.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "境/山陰本線": {
+   "company": "JR西日本",
+   "jp": "境/山陰本線",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "04_west/sakai-line__w37or.png",
+    "04_west/sakai-line__w33or.png",
+    "04_west/sakai-line__w33o.png",
+    "04_west/sakai-line__w33tai.png",
+    "04_west/sakai-line__w33kani.png",
+    "04_west/sakai-line__w33tori.png",
+    "04_west/sakai-line__w40ktro1.png",
+    "04_west/sakai-line__w40yacht.png"
+   ],
+   "all_retired": true
+  },
+  "姫新線": {
+   "company": "JR西日本",
+   "jp": "姫新線",
+   "series": [],
+   "current_images": [
+    "04_west/kishin-line__w122.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "加古川/小浜線": {
+   "company": "JR西日本",
+   "jp": "加古川/小浜線",
+   "series": [],
+   "current_images": [
+    "04_west/kakogawa-obama__w103kg.png",
+    "04_west/kakogawa-obama__w103kgp.png",
+    "04_west/kakogawa-obama__w125bp.png",
+    "04_west/kakogawa-obama__w125b.png",
+    "04_west/kakogawa-obama__w125p.png",
+    "04_west/kakogawa-obama__w125.png",
+    "04_west/kakogawa-obama__w125c.png",
+    "04_west/kakogawa-obama__w125cp.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "播但/山陰線": {
+   "company": "JR西日本",
+   "jp": "播但/山陰線",
+   "series": [],
+   "current_images": [
+    "04_west/bantan-line__w41.png",
+    "04_west/bantan-line__w103ba.png",
+    "04_west/bantan-line__w103bap.png",
+    "04_west/bantan-line__w40bag1.png",
+    "04_west/bantan-line__w41bag1.png",
+    "04_west/bantan-line__w103bag1.png",
+    "04_west/bantan-line__w103bag2.png",
+    "04_west/bantan-line__w103bag3.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "小浜線": {
+   "company": "JR西日本",
+   "jp": "小浜線",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "04_west/obama-line__w58ob4.png",
+    "04_west/obama-line__w58ob3.png",
+    "04_west/obama-line__w53ob.png",
+    "04_west/obama-line__w58ob.png",
+    "04_west/obama-line__w58ob2.png",
+    "04_west/obama-line__w40ob.png",
+    "04_west/obama-line__w58pat.png",
+    "04_west/obama-line__w113nob.png"
+   ],
+   "all_retired": true
+  },
+  "加古川線": {
+   "company": "JR西日本",
+   "jp": "加古川線",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "04_west/kakogawa-line__w40ka.png",
+    "04_west/kakogawa-line__w40ka1.png",
+    "04_west/kakogawa-line__w40ka0.png",
+    "04_west/kakogawa-line__w20ka.png",
+    "04_west/kakogawa-line__w20ka1.png",
+    "04_west/kakogawa-line__w20ka0.png",
+    "04_west/kakogawa-line__w35ka.png",
+    "04_west/kakogawa-line__w30ka.png"
+   ],
+   "all_retired": true
+  },
+  "七尾線": {
+   "company": "JR西日本",
+   "jp": "七尾線",
+   "series": [],
+   "current_images": [
+    "04_west/nanao-line__w521na.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "氷見城端線": {
+   "company": "JR西日本",
+   "jp": "氷見城端線",
+   "series": [
+    "2025"
+   ],
+   "current_images": [
+    "04_west/takaoka-area__w40tk1b.png",
+    "04_west/takaoka-area__w40tk1g.png",
+    "04_west/takaoka-area__w40tk1m.png",
+    "04_west/takaoka-area__w40tk1ro.png",
+    "04_west/himi-line__w40htr1p.png",
+    "04_west/himi-line__w40htr2p.png",
+    "04_west/himi-line__w40htr1o.png",
+    "04_west/himi-line__w40htr2o.png",
+    "04_west/himi-line__w40htr1b.png",
+    "04_west/himi-line__w40htr2b.png"
+   ],
+   "retired_images": [
+    "04_west/himi-line__w40hm.png",
+    "04_west/himi-line__w40hmc.png",
+    "04_west/himi-line__w58hm.png",
+    "04_west/himi-line__w30hm0.png",
+    "04_west/himi-line__w52hm0.png",
+    "04_west/himi-line__w45hm0.png",
+    "04_west/himi-line__w40hm0.png",
+    "04_west/himi-line__w58hm0.png",
+    "04_west/himi-line__w45hm.png",
+    "04_west/himi-line__w34hm.png",
+    "04_west/himi-line-jr-jr-1-2-3-4-5-6-7-8-2025-8-22-update__w30tkp.png",
+    "04_west/himi-line-jr-jr-1-2-3-4-5-6-7-8-2025-8-22-update__w45tkp.png",
+    "04_west/himi-line-jr-jr-1-2-3-4-5-6-7-8-2025-8-22-update__w40tk0.png",
+    "04_west/himi-line-jr-jr-1-2-3-4-5-6-7-8-2025-8-22-update__w40tkp.png"
+   ],
+   "all_retired": false
+  },
+  "高山本線/大糸線": {
+   "company": "JR西日本",
+   "jp": "高山本線/大糸線",
+   "series": [],
+   "current_images": [
+    "04_west/takayama-line__w120gr.png",
+    "04_west/takayama-line__w120grn.png",
+    "04_west/takayama-line__w120re.png",
+    "04_west/takayama-line__w120ren.png",
+    "04_west/takayama-line__w120oi1.png",
+    "04_west/takayama-line__w120oi.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "越美北線/RN車": {
+   "company": "JR西日本",
+   "jp": "越美北線/RN車",
+   "series": [],
+   "current_images": [
+    "04_west/kuzuryu-line__w120.png",
+    "04_west/kuzuryu-line__w120n.png",
+    "04_west/kuzuryu-line__w120et5.png",
+    "04_west/kuzuryu-line__w120et.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "越美北線": {
+   "company": "JR西日本",
+   "jp": "越美北線",
+   "series": [],
+   "current_images": [
+    "04_west/kuzuryu-line__w120et1.png",
+    "04_west/kuzuryu-line__w120et2.png",
+    "04_west/kuzuryu-line__w120et3.png",
+    "04_west/kuzuryu-line__w120et4.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "北陸本線": {
+   "company": "JR西日本",
+   "jp": "北陸本線",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "04_west/hokuriku-line__w521.png",
+    "04_west/hokuriku-line__w521b.png",
+    "04_west/hokuriku-line__w521a.png",
+    "04_west/hokuriku-line__w521a1.png",
+    "04_west/hokuriku-line__w413b.png",
+    "04_west/hokuriku-line__w455hb.png",
+    "04_west/hokuriku-line__w455bb.png",
+    "04_west/hokuriku-line__w419h2.png",
+    "04_west/hokuriku-line__w419h1.png",
+    "04_west/hokuriku-line__w419l1.png",
+    "04_west/hokuriku-line__w475j.png",
+    "04_west/hokuriku-line__w455b.png",
+    "04_west/hokuriku-line__w455.png"
+   ],
+   "all_retired": true
+  },
+  "七尾線/能登路": {
+   "company": "JR西日本",
+   "jp": "七尾線/能登路",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "04_west/nanao-line__w415r.png",
+    "04_west/nanao-line__w415r1.png",
+    "04_west/nanao-line__w413r.png",
+    "04_west/nanao-line__w415.png",
+    "04_west/nanao-line__w58na.png",
+    "04_west/nanao-line__w58na0.png",
+    "04_west/nanao-line__w58nt.png",
+    "04_west/nanao-line__w58nt1.png"
+   ],
+   "all_retired": true
+  },
+  "高山/大糸線": {
+   "company": "JR西日本",
+   "jp": "高山/大糸線",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "04_west/oito-line__w52tky.png",
+    "04_west/oito-line__w58tky.png",
+    "04_west/oito-line__w23tky.png",
+    "04_west/oito-line__w58tky1.png",
+    "04_west/oito-line__w58oi1.png",
+    "04_west/oito-line__w58oi.png"
+   ],
+   "all_retired": true
+  },
+  "予讃線7000": {
+   "company": "JR四国",
+   "jp": "予讃線7000",
+   "series": [],
+   "current_images": [
+    "05_shikoku/yosan-line__s7000.png",
+    "05_shikoku/yosan-line__s7002.png",
+    "05_shikoku/yosan-line__s7001.png",
+    "05_shikoku/yosan-line__s7003.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "予讃線6000RN/7200": {
+   "company": "JR四国",
+   "jp": "予讃線6000RN/7200",
+   "series": [],
+   "current_images": [
+    "05_shikoku/takamatsu-area__s6000f.png",
+    "05_shikoku/takamatsu-area__s6000pf.png",
+    "05_shikoku/takamatsu-area__s7200.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "徳島地区": {
+   "company": "JR四国",
+   "jp": "徳島地区",
+   "series": [],
+   "current_images": [
+    "05_shikoku/untitled__s1200.png",
+    "05_shikoku/untitled__s1201.png",
+    "05_shikoku/untitled__s1200n.png",
+    "05_shikoku/untitled__s1551.png",
+    "05_shikoku/untitled__s1500.png",
+    "05_shikoku/untitled__s1501.png",
+    "05_shikoku/untitled__s1550.png",
+    "05_shikoku/untitled__s3600.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "予土線32": {
+   "company": "JR四国",
+   "jp": "予土線32",
+   "series": [
+    "2023"
+   ],
+   "current_images": [
+    "05_shikoku/yodo-line__s32kpuy1.png",
+    "05_shikoku/yodo-line__s32kpuy2.png",
+    "05_shikoku/yodo-line__s32oni1.png",
+    "05_shikoku/yodo-line__s32oni1k.png"
+   ],
+   "retired_images": [
+    "05_shikoku/yodo-line-jr-jr-1-2-2023-10-6-update__s32uls.png",
+    "05_shikoku/yodo-line-jr-jr-1-2-2023-10-6-update__s32ulr.png",
+    "05_shikoku/yodo-line-jr-jr-1-2-2023-10-6-update__s32hb1.png",
+    "05_shikoku/yodo-line-jr-jr-1-2-2023-10-6-update__s32hb2.png",
+    "05_shikoku/yodo-line-jr-jr-1-2-2023-10-6-update__s32hb.png"
+   ],
+   "all_retired": false
+  },
+  "高松地区6000": {
+   "company": "JR四国",
+   "jp": "高松地区6000",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "05_shikoku/takamatsu-area__s6001.png",
+    "05_shikoku/takamatsu-area__s6001p.png",
+    "05_shikoku/takamatsu-area__s6000.png",
+    "05_shikoku/takamatsu-area__s6000p.png"
+   ],
+   "all_retired": true
+  },
+  "予讃線": {
+   "company": "JR四国",
+   "jp": "予讃線",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "05_shikoku/yosan-line__s121r.png",
+    "05_shikoku/yosan-line__s121.png",
+    "05_shikoku/yosan-line__s121n.png",
+    "05_shikoku/yosan-line__s121pbnb.png",
+    "05_shikoku/yosan-line__s111.png",
+    "05_shikoku/yosan-line__s111m.png",
+    "05_shikoku/yosan-line__s111a.png",
+    "05_shikoku/yosan-line__s111sh.png",
+    "05_shikoku/yosan-line__s113bl.png",
+    "05_shikoku/yosan-line__s113re.png",
+    "05_shikoku/yosan-line__s113ye.png"
+   ],
+   "all_retired": true
+  },
+  "四国各線": {
+   "company": "JR四国",
+   "jp": "四国各線",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "05_shikoku/shikoku-area__s45.png",
+    "05_shikoku/shikoku-area__s58.png",
+    "05_shikoku/shikoku-area__s58b.png",
+    "05_shikoku/shikoku-area__s58sk.png",
+    "05_shikoku/shikoku-area__s65b.png",
+    "05_shikoku/shikoku-area__s65.png",
+    "05_shikoku/shikoku-area__s20b.png",
+    "05_shikoku/shikoku-area__s20.png",
+    "05_shikoku/shikoku-area__s30.png"
+   ],
+   "all_retired": true
+  },
+  "四国各線54/32": {
+   "company": "JR四国",
+   "jp": "四国各線54/32",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "05_shikoku/shikoku-area__s54r.png",
+    "05_shikoku/shikoku-area__s54or.png",
+    "05_shikoku/shikoku-area__s32or.png",
+    "05_shikoku/shikoku-area__s32re.png",
+    "05_shikoku/shikoku-area__s32b2.png",
+    "05_shikoku/shikoku-area__s32bl.png",
+    "05_shikoku/shikoku-area__s32.png",
+    "05_shikoku/shikoku-area__s32n.png"
+   ],
+   "all_retired": true
+  },
+  "くまモン色": {
+   "company": "JR九州",
+   "jp": "くまモン色",
+   "series": [],
+   "current_images": [
+    "06_kyushu/kyushu-area__k800km.png",
+    "06_kyushu/kyushu-area__k200km.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "筑肥線/鹿児島線": {
+   "company": "JR九州",
+   "jp": "筑肥線/鹿児島線",
+   "series": [
+    "307",
+    "811"
+   ],
+   "current_images": [
+    "06_kyushu/fukuoka-area-307-811__k307qpo.png",
+    "06_kyushu/fukuoka-area-307-811__k811qpo.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "九州各線/ソニック": {
+   "company": "JR九州",
+   "jp": "九州各線/ソニック",
+   "series": [],
+   "current_images": [
+    "06_kyushu/kamome-sonic__k787.png",
+    "06_kyushu/kamome-sonic__k783s.png",
+    "06_kyushu/kamome-sonic__k885kb.png",
+    "06_kyushu/kamome-sonic__k885s.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "関門地区501": {
+   "company": "JR九州",
+   "jp": "関門地区501",
+   "series": [],
+   "current_images": [
+    "06_kyushu/kitakyushu-area__k501.png",
+    "06_kyushu/kitakyushu-area__k501k.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "筑肥線307": {
+   "company": "JR九州",
+   "jp": "筑肥線307",
+   "series": [],
+   "current_images": [
+    "06_kyushu/chikuhi-line__k307.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "筑肥線303": {
+   "company": "JR九州",
+   "jp": "筑肥線303",
+   "series": [],
+   "current_images": [
+    "06_kyushu/chikuhi-line__k303f.png",
+    "06_kyushu/chikuhi-line__k303fs.png",
+    "06_kyushu/chikuhi-line__k303ll.png",
+    "06_kyushu/chikuhi-line__k303lls.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "筑肥線": {
+   "company": "JR九州",
+   "jp": "筑肥線",
+   "series": [],
+   "current_images": [
+    "06_kyushu/chikuhi-line__k305.png",
+    "06_kyushu/chikuhi-line__k303.png",
+    "06_kyushu/chikuhi-line__k103r2.png",
+    "06_kyushu/chikuhi-line__k103.png"
+   ],
+   "retired_images": [
+    "06_kyushu/chikuhi-line__k303o2.png",
+    "06_kyushu/chikuhi-line__k303o.png",
+    "06_kyushu/chikuhi-line__k103r1.png"
+   ],
+   "all_retired": false
+  },
+  "筑肥線103-15": {
+   "company": "JR九州",
+   "jp": "筑肥線103-15",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "06_kyushu/chikuhi-line__k103blj.png",
+    "06_kyushu/chikuhi-line__k103k15.png"
+   ],
+   "all_retired": true
+  },
+  "北九州地区": {
+   "company": "JR九州",
+   "jp": "北九州地区",
+   "series": [],
+   "current_images": [
+    "06_kyushu/fukuoka-area__k821.png",
+    "06_kyushu/fukuoka-area__k817-2.png",
+    "06_kyushu/fukuoka-area__k817-11.png",
+    "06_kyushu/fukuoka-area__k817.png",
+    "06_kyushu/fukuoka-area__k817f.png",
+    "06_kyushu/fukuoka-area__k813n1.png",
+    "06_kyushu/fukuoka-area__k813sr.png",
+    "06_kyushu/fukuoka-area__k813.png",
+    "06_kyushu/fukuoka-area__k811n.png",
+    "06_kyushu/fukuoka-area__k811nl.png",
+    "06_kyushu/fukuoka-area__k811s.png"
+   ],
+   "retired_images": [
+    "06_kyushu/fukuoka-area__k813o.png",
+    "06_kyushu/fukuoka-area__k811.png"
+   ],
+   "all_retired": false
+  },
+  "鹿児島線/-300*": {
+   "company": "JR九州",
+   "jp": "鹿児島線/-300*",
+   "series": [
+    "300"
+   ],
+   "current_images": [
+    "06_kyushu/kagoshima-line__k813n1r.png",
+    "06_kyushu/kagoshima-line__k813r3.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "福北ゆたか線": {
+   "company": "JR九州",
+   "jp": "福北ゆたか線",
+   "series": [],
+   "current_images": [
+    "06_kyushu/sasaguri-line__k813n.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "大分地区415": {
+   "company": "JR九州",
+   "jp": "大分地区415",
+   "series": [],
+   "current_images": [
+    "06_kyushu/oita-area__k415-0.png",
+    "06_kyushu/oita-area__k415.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "九州各地区": {
+   "company": "JR九州",
+   "jp": "九州各地区",
+   "series": [],
+   "current_images": [
+    "06_kyushu/kyushu-area__k40.png",
+    "06_kyushu/kyushu-area__k40a.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "日田彦山線": {
+   "company": "JR九州",
+   "jp": "日田彦山線",
+   "series": [],
+   "current_images": [
+    "06_kyushu/hitah-hikosan-line__k147hkm.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "大分熊本地区": {
+   "company": "JR九州",
+   "jp": "大分熊本地区",
+   "series": [],
+   "current_images": [
+    "06_kyushu/oita-kumamoto__k815s.png",
+    "06_kyushu/oita-kumamoto__k220.png",
+    "06_kyushu/oita-kumamoto__k200re.png"
+   ],
+   "retired_images": [
+    "06_kyushu/oita-kumamoto__k815.png",
+    "06_kyushu/oita-kumamoto__k31sk.png",
+    "06_kyushu/oita-kumamoto__k31.png"
+   ],
+   "all_retired": false
+  },
+  "大村線": {
+   "company": "JR九州",
+   "jp": "大村線",
+   "series": [],
+   "current_images": [
+    "06_kyushu/omura-line__k1.png"
+   ],
+   "retired_images": [
+    "06_kyushu/omura-line__k200bl.png",
+    "06_kyushu/omura-line__k220b.png",
+    "06_kyushu/omura-line__k66htb.png",
+    "06_kyushu/omura-line__k200htb.png",
+    "06_kyushu/omura-line__k66ssl.png",
+    "06_kyushu/omura-line__k58ssl.png",
+    "06_kyushu/omura-line__k65ssl.png",
+    "06_kyushu/omura-line__k58ssl2.png",
+    "06_kyushu/omura-line__k65ssl2.png"
+   ],
+   "all_retired": false
+  },
+  "指宿,久大,日南線": {
+   "company": "JR九州",
+   "jp": "指宿,久大,日南線",
+   "series": [],
+   "current_images": [
+    "06_kyushu/kyushu-area__k200ye.png",
+    "06_kyushu/kyushu-area__k125.png",
+    "06_kyushu/kyushu-area__k40ye.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "宮崎地区/香椎/若松線": {
+   "company": "JR九州",
+   "jp": "宮崎地区/香椎/若松線",
+   "series": [],
+   "current_images": [
+    "06_kyushu/miyazaki-kashii__k713sn.png",
+    "06_kyushu/miyazaki-kashii__k819.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "佐賀地区やきもの園": {
+   "company": "JR九州",
+   "jp": "佐賀地区やきもの園",
+   "series": [],
+   "current_images": [
+    "06_kyushu/karatsu-line__k125yak.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "長崎本線47": {
+   "company": "JR九州",
+   "jp": "長崎本線47",
+   "series": [],
+   "current_images": [
+    "06_kyushu/nagasaki-line__k40km.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "肥薩線200": {
+   "company": "JR九州",
+   "jp": "肥薩線200",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "06_kyushu/hisatsu-line__k200r11.png"
+   ],
+   "all_retired": true
+  },
+  "筑肥線305LED灯": {
+   "company": "JR九州",
+   "jp": "筑肥線305LED灯",
+   "series": [],
+   "current_images": [
+    "06_kyushu/chikuhi-line__k305l.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "鹿児島本線LED灯": {
+   "company": "JR九州",
+   "jp": "鹿児島本線LED灯",
+   "series": [],
+   "current_images": [
+    "06_kyushu/kagoshima-line__k813r.png",
+    "06_kyushu/kagoshima-line__k815l.png"
+   ],
+   "retired_images": [],
+   "all_retired": false
+  },
+  "九州各線": {
+   "company": "JR九州",
+   "jp": "九州各線",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "06_kyushu/kyushu-area__k66.png",
+    "06_kyushu/kyushu-area__k45.png",
+    "06_kyushu/kyushu-area__k52a.png",
+    "06_kyushu/kyushu-area__k52b.png",
+    "06_kyushu/kyushu-area__k30.png",
+    "06_kyushu/kyushu-area__k52.png",
+    "06_kyushu/kyushu-area__k52w.png",
+    "06_kyushu/kyushu-area__k35.png"
+   ],
+   "all_retired": true
+  },
+  "長崎本線": {
+   "company": "JR九州",
+   "jp": "長崎本線",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "06_kyushu/nagasaki-line__k58.png",
+    "06_kyushu/nagasaki-line__k58hf.png",
+    "06_kyushu/nagasaki-line__k58-1.png",
+    "06_kyushu/nagasaki-line__k58sk.png",
+    "06_kyushu/nagasaki-line__k715h.png",
+    "06_kyushu/nagasaki-line__k715l.png"
+   ],
+   "all_retired": true
+  },
+  "九州地区475": {
+   "company": "JR九州",
+   "jp": "九州地区475",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "06_kyushu/kyushu-area__k475d.png",
+    "06_kyushu/kyushu-area__k475d1.png"
+   ],
+   "all_retired": true
+  },
+  "香椎線": {
+   "company": "JR九州",
+   "jp": "香椎線",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "06_kyushu/kashii-line__k40aq.png"
+   ],
+   "all_retired": true
+  },
+  "三角線トロッコ": {
+   "company": "JR九州",
+   "jp": "三角線トロッコ",
+   "series": [],
+   "current_images": [],
+   "retired_images": [
+    "06_kyushu/misumi-line__k70000b.png",
+    "06_kyushu/misumi-line__k70000bw.png",
+    "06_kyushu/misumi-line__k70000r.png",
+    "06_kyushu/misumi-line__k70000rw.png"
+   ],
+   "all_retired": true
+  }
+ }
+}

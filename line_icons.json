@@ -1,0 +1,1165 @@
+{
+ "irいしかわ鉄道線": [
+  "25_hokuriku/ir-ishikawa-rail__iskw521b.png",
+  "25_hokuriku/ir-ishikawa-rail__iskw521.png",
+  "25_hokuriku/ir-ishikawa-rail__iskw521fm.png"
+ ],
+ "jr七尾線": [
+  "04_west/nanao-line__w521na.png"
+ ],
+ "jr山口線": [
+  "12_seibu/yamaguchi-line__seb00.png",
+  "12_seibu/yamaguchi-line__seb00b.png",
+  "12_seibu/yamaguchi-line__seb8500.png"
+ ],
+ "いずみ野線": [
+  "13_odakyu/emu-4000-5000__odq5001.png",
+  "13_odakyu/emu-4000-5000__odq4000c.png"
+ ],
+ "みなとみらい21線": [
+  "14_tokyu/emu-5080-5050-m500__toq5051.png",
+  "14_tokyu/emu-5080-5050-m500__toq5058.png"
+ ],
+ "上越線": [
+  "02_east/takasaki-area__e211s.png",
+  "02_east/takasaki-area__e211o1s.png",
+  "02_east/takasaki-area__e211sp.png"
+ ],
+ "中央本線": [
+  "02_east/chuo-sobu-line__e235so.png",
+  "02_east/chuo-sobu-line__e231so5l.png",
+  "02_east/chuo-sobu-line__e231so5.png"
+ ],
+ "中村線": [
+  "05_shikoku/yodo-line__s32kpuy1.png",
+  "05_shikoku/yodo-line__s32kpuy2.png",
+  "05_shikoku/yodo-line__s32oni1.png"
+ ],
+ "久大本線": [
+  "06_kyushu/oita-area__k415-0.png",
+  "06_kyushu/oita-area__k415.png"
+ ],
+ "久里浜線": [
+  "02_east/yokosuka-line__e235sk.png",
+  "02_east/yokosuka-line__e235skk.png"
+ ],
+ "予讃線": [
+  "05_shikoku/yosan-line__s7000.png",
+  "05_shikoku/yosan-line__s7002.png",
+  "05_shikoku/yosan-line__s7001.png"
+ ],
+ "京急本線": [
+  "00_shinkansen/e3-cargo-shinkansen__e3w.png"
+ ],
+ "京急空港線": [
+  "02_east/sendai-area__e721se1.png",
+  "02_east/sendai-area__e721se.png",
+  "02_east/sendai-area__e721.png"
+ ],
+ "京成本線": [
+  "00_shinkansen/e3-cargo-shinkansen__e3w.png"
+ ],
+ "京王線": [
+  "00_shinkansen/e3-cargo-shinkansen__e3w.png"
+ ],
+ "京葉線": [
+  "02_east/keiyo-line__e233ky.png",
+  "02_east/keiyo-line__e233kyk.png",
+  "02_east/keiyo-line__e209ky1.png"
+ ],
+ "京阪本線": [
+  "00_shinkansen/e3-cargo-shinkansen__e3w.png"
+ ],
+ "伊勢崎線": [
+  "08_tobu/emu-50000__tob50000.png",
+  "08_tobu/emu-50000__tob50000ll.png"
+ ],
+ "伊勢線": [
+  "18_kintetsu/shimakaze-hinotori__kin50000.png",
+  "18_kintetsu/shimakaze-hinotori__kin80000.png"
+ ],
+ "伊東線": [
+  "02_east/yokosuka-line__e235sk.png",
+  "02_east/yokosuka-line__e235skk.png"
+ ],
+ "伊豆急行線": [
+  "09_keisei/chaiba-express__tibq3150.png",
+  "09_keisei/chaiba-express__tibq3050.png",
+  "09_keisei/chaiba-express__tibq3100.png"
+ ],
+ "会津線": [
+  "08_tobu/spacia-x-n100__tob-n100.png"
+ ],
+ "会津鬼怒川線": [
+  "08_tobu/spacia-x-n100__tob-n100.png"
+ ],
+ "伯備線": [
+  "04_west/okayama-area__w115n3y.png",
+  "04_west/okayama-area__w115y16.png",
+  "04_west/okayama-area__w115hyl.png"
+ ],
+ "佐世保線": [
+  "06_kyushu/nagasaki-line__k40km.png"
+ ],
+ "佐野線": [
+  "08_tobu/emu-10000__tob10050.png",
+  "08_tobu/emu-10000__tob10051.png"
+ ],
+ "信越本線": [
+  "02_east/nagano-area__e211su.png",
+  "02_east/nagano-area__e110ak0.png"
+ ],
+ "内子線": [
+  "05_shikoku/untitled__s1000.png",
+  "05_shikoku/untitled__s54.png",
+  "05_shikoku/untitled__s54s.png"
+ ],
+ "内房線": [
+  "02_east/boso-area__e131bo.png",
+  "02_east/boso-area__e233bo.png",
+  "02_east/boso-area__e233bok.png"
+ ],
+ "函館本線": [
+  "01_hokkaido/hakodate-line__h737.png",
+  "01_hokkaido/hakodate-line__h733.png",
+  "01_hokkaido/hakodate-line__h733l.png"
+ ],
+ "副都心線": [
+  "10_metro/fukutoshin-line__tkm17000.png",
+  "10_metro/fukutoshin-line__tkm17008.png",
+  "10_metro/fukutoshin-line__tkm10003.png"
+ ],
+ "北松江線": [
+  "26_sanyosanin/ichibata-rail__itbt8000bp.png",
+  "26_sanyosanin/ichibata-rail__itbt8000b.png"
+ ],
+ "北総線": [
+  "00_shinkansen/e3-cargo-shinkansen__e3w.png"
+ ],
+ "北陸本線": [
+  "00_shinkansen/e3-cargo-shinkansen__e3w.png"
+ ],
+ "千代田線": [
+  "02_east/joban-line__e231jyl.png",
+  "02_east/joban-line__e231jylk.png",
+  "02_east/joban-line__e231jy1.png"
+ ],
+ "千歳線": [
+  "01_hokkaido/hakodate-line__h201.png",
+  "01_hokkaido/hakodate-line__h731.png",
+  "01_hokkaido/hakodate-line__h731ml.png"
+ ],
+ "南大阪線": [
+  "18_kintetsu/kintetsu-line__kin6600.png",
+  "18_kintetsu/kintetsu-line__kin5800.png"
+ ],
+ "南海本線": [
+  "00_shinkansen/e3-cargo-shinkansen__e3w.png"
+ ],
+ "南海空港線": [
+  "02_east/sendai-area__e721se1.png",
+  "02_east/sendai-area__e721se.png",
+  "02_east/sendai-area__e721.png"
+ ],
+ "博多南線": [
+  "06_kyushu/fukuoka-area__k821.png",
+  "06_kyushu/fukuoka-area__k817-2.png",
+  "06_kyushu/fukuoka-area__k817-11.png"
+ ],
+ "吉野線": [
+  "18_kintetsu/kintetsu-line__kin6600.png",
+  "18_kintetsu/kintetsu-line__kin5800.png"
+ ],
+ "名古屋本線": [
+  "18_kintetsu/kintetsu-1a-1b__kin1a.png"
+ ],
+ "吾妻線": [
+  "02_east/takasaki-area__e211s.png",
+  "02_east/takasaki-area__e211o1s.png",
+  "02_east/takasaki-area__e211sp.png"
+ ],
+ "和歌山港線": [
+  "23_nankai/emu-8300-8000__nan8300.png",
+  "23_nankai/emu-8300-8000__nan8300p.png"
+ ],
+ "因美線": [
+  "04_west/west-japan-area__w40or.png",
+  "04_west/west-japan-area__w40in.png",
+  "04_west/west-japan-area__w40in1.png"
+ ],
+ "土讃線": [
+  "05_shikoku/untitled__s1000.png",
+  "05_shikoku/untitled__s54.png",
+  "05_shikoku/untitled__s54s.png"
+ ],
+ "埼玉高速鉄道線": [
+  "10_metro/nanboku-line__tkm9002.png",
+  "10_metro/nanboku-line__tkm9003.png"
+ ],
+ "外房線": [
+  "02_east/boso-area__e131bo.png",
+  "02_east/boso-area__e233bo.png",
+  "02_east/boso-area__e233bok.png"
+ ],
+ "大月線": [
+  "13_odakyu/emu-4000-5000__odq5001.png",
+  "13_odakyu/emu-4000-5000__odq4000c.png"
+ ],
+ "大村線": [
+  "06_kyushu/omura-line__k1.png"
+ ],
+ "大牟田線": [
+  "24_nishitetsu/emu-3000__nisi3000.png",
+  "24_nishitetsu/emu-3000__nisi3001.png",
+  "24_nishitetsu/emu-3000__nisi3000fp.png"
+ ],
+ "大社線": [
+  "26_sanyosanin/ichibata-rail__itbt8000bp.png",
+  "26_sanyosanin/ichibata-rail__itbt8000b.png"
+ ],
+ "大糸線": [
+  "04_west/takayama-line__w120gr.png",
+  "04_west/takayama-line__w120grn.png",
+  "04_west/takayama-line__w120re.png"
+ ],
+ "大阪環状線": [
+  "04_west/osaka-loop-line__w323or.png",
+  "04_west/osaka-loop-line__w323m.png",
+  "04_west/osaka-loop-line__w323expo.png"
+ ],
+ "大阪線": [
+  "04_west/osaka-loop-line__w323or.png",
+  "04_west/osaka-loop-line__w323m.png",
+  "04_west/osaka-loop-line__w323expo.png"
+ ],
+ "天理線": [
+  "18_kintetsu/kintetsu-line__kin3221.png",
+  "18_kintetsu/kintetsu-line__kin3220.png"
+ ],
+ "奥羽本線": [
+  "02_east/akita-area__e701ak4.png",
+  "02_east/akita-area__e701ak6.png"
+ ],
+ "妙見線": [
+  "21_hankyu/kobe-rail__kobed6001.png",
+  "21_hankyu/kobe-rail__kobed6000.png"
+ ],
+ "妙高はねうまライン": [
+  "25_hokuriku/ainokaze-rail-1-2-3-2026-3-13-update__0aity0.png",
+  "25_hokuriku/ainokaze-rail-1-2-3-2026-3-13-update__aity521bg.png"
+ ],
+ "宇野線": [
+  "04_west/okayama-area__w227ok.png",
+  "04_west/okayama-area__w227okp.png"
+ ],
+ "宗谷本線": [
+  "01_hokkaido/asahikawa-area__h100frn.png",
+  "01_hokkaido/asahikawa-area__h100frn1.png",
+  "01_hokkaido/asahikawa-area__h100skhk.png"
+ ],
+ "宝塚本線": [
+  "21_hankyu/emu-9000-9300__hnq9300.png",
+  "21_hankyu/emu-9000-9300__hnq9301.png",
+  "21_hankyu/emu-9000-9300__hnq9000.png"
+ ],
+ "室蘭本線": [
+  "01_hokkaido/hidaka-muroran__h100hd.png",
+  "01_hokkaido/hidaka-muroran__h100mu1.png"
+ ],
+ "宮崎空港線": [
+  "06_kyushu/miyazaki-kashii__k713sn.png",
+  "06_kyushu/miyazaki-kashii__k819.png"
+ ],
+ "宮福線": [
+  "04_west/fukuchiyama-area__w113fk053.png",
+  "04_west/fukuchiyama-area__w113fk053p.png"
+ ],
+ "宮豊線": [
+  "04_west/fukuchiyama-area__w113fk053.png",
+  "04_west/fukuchiyama-area__w113fk053p.png"
+ ],
+ "宿毛線": [
+  "05_shikoku/yodo-line__s32kpuy1.png",
+  "05_shikoku/yodo-line__s32kpuy2.png",
+  "05_shikoku/yodo-line__s32oni1.png"
+ ],
+ "富山地方鉄道本線": [
+  "25_hokuriku/toyama-regioal-rail__tymti14760o.png",
+  "25_hokuriku/toyama-regioal-rail__tymti10020o.png"
+ ],
+ "小田原線": [
+  "13_odakyu/odawara-tram-1-2-2026-1-2-update__htr-l100.png",
+  "13_odakyu/odawara-tram-1-2-2026-1-2-update__htr-l200.png"
+ ],
+ "小田急江ノ島線": [
+  "00_shinkansen/e3-cargo-shinkansen__e3w.png"
+ ],
+ "尾西線": [
+  "17_meitetsu/meitetsu-3100-6800__mei3100l.png",
+  "17_meitetsu/meitetsu-3100-6800__mei3100nl.png"
+ ],
+ "山手線": [
+  "02_east/yamanote-line__e235ya.png"
+ ],
+ "山陰本線": [
+  "04_west/san-in-line__w120hm.png",
+  "04_west/san-in-line__w120hmn.png",
+  "04_west/san-in-line__w126.png"
+ ],
+ "山陽本線": [
+  "04_west/tokaido-line__w223ms.png",
+  "04_west/tokaido-line__w223h1.png",
+  "04_west/tokaido-line__w223n1.png"
+ ],
+ "山陽電鉄本線": [
+  "22_hanshin/sanyo-5000-3050__san6000.png",
+  "22_hanshin/sanyo-5000-3050__san5000n.png",
+  "22_hanshin/sanyo-5000-3050__san5030.png"
+ ],
+ "川越線": [
+  "02_east/saikyo-line__e233sk.png"
+ ],
+ "常滑線": [
+  "17_meitetsu/meitetsu-9500-9100__mei9500.png",
+  "17_meitetsu/meitetsu-9500-9100__mei9500k.png"
+ ],
+ "常磐線": [
+  "02_east/joban-line__e231jyl.png",
+  "02_east/joban-line__e231jylk.png",
+  "02_east/joban-line__e231jy1.png"
+ ],
+ "御殿場線": [
+  "03_tokai/tokai-area__c313ce.png",
+  "03_tokai/tokai-area__c313p.png",
+  "03_tokai/tokai-area__c313.png"
+ ],
+ "徳島線": [
+  "05_shikoku/untitled__s1200.png",
+  "05_shikoku/untitled__s1201.png",
+  "05_shikoku/untitled__s1200n.png"
+ ],
+ "志摩線": [
+  "18_kintetsu/shimakaze-hinotori__kin50000.png",
+  "18_kintetsu/shimakaze-hinotori__kin80000.png"
+ ],
+ "成田空港線": [
+  "09_keisei/skyliner-keisei__kese2ae.png",
+  "09_keisei/skyliner-keisei__kese3150.png"
+ ],
+ "成田線": [
+  "02_east/joban-line__e231jy.png",
+  "02_east/joban-line__e231jyk.png"
+ ],
+ "押上線": [
+  "09_keisei/keisei-rail__kese3200n.png"
+ ],
+ "拝島線": [
+  "12_seibu/emu-2-3-40000-6000__seb40050.png",
+  "12_seibu/emu-2-3-40000-6000__seb40000.png"
+ ],
+ "指宿枕崎線": [
+  "06_kyushu/fukuoka-area-307-811__k307qpo.png",
+  "06_kyushu/fukuoka-area-307-811__k811qpo.png"
+ ],
+ "播但線": [
+  "04_west/tsuyama-line__w40ty1.png",
+  "04_west/tsuyama-line__w40ty.png",
+  "04_west/tsuyama-line__w120tu.png"
+ ],
+ "日南線": [
+  "06_kyushu/untitled__k58ha.png",
+  "06_kyushu/untitled__k40wkb1.png",
+  "06_kyushu/untitled__k40wkb2.png"
+ ],
+ "日比谷線": [
+  "10_metro/hibiya-line__tkm13000.png"
+ ],
+ "日生線": [
+  "22_hanshin/sanyo-5000-3050__san6000.png",
+  "22_hanshin/sanyo-5000-3050__san5000n.png"
+ ],
+ "日豊本線": [
+  "06_kyushu/miyazaki-kashii__k713sn.png",
+  "06_kyushu/miyazaki-kashii__k819.png"
+ ],
+ "智頭線": [
+  "04_west/okayama-area__w227ok.png",
+  "04_west/okayama-area__w227okp.png",
+  "04_west/okayama-area__w213k.png"
+ ],
+ "有馬線": [
+  "21_hankyu/kobe-rail__kobed6001.png",
+  "21_hankyu/kobe-rail__kobed6000.png"
+ ],
+ "本四備讃線": [
+  "04_west/okayama-area__w227ok.png",
+  "04_west/okayama-area__w227okp.png"
+ ],
+ "東上本線": [
+  "08_tobu/tobu-rail__tob90000.png"
+ ],
+ "東京メトロ南北線": [
+  "10_metro/nanboku-line-1-2-2024-3-29-update__eid9000.png",
+  "10_metro/nanboku-line-1-2-2024-3-29-update__eid9000l.png",
+  "10_metro/nanboku-line-1-2-2024-3-29-update__tkm9000.png"
+ ],
+ "東京メトロ有楽町線": [
+  "10_metro/yurakucho-line__eid07.png",
+  "10_metro/yurakucho-line__tkm07.png",
+  "10_metro/yurakucho-line__tkm7000o.png"
+ ],
+ "東北本線": [
+  "02_east/keihintohoku-line__e233kt.png"
+ ],
+ "東急新横浜線": [
+  "14_tokyu/tokyu-4000__toq4000w.png"
+ ],
+ "東成田線": [
+  "09_keisei/keisei-rail__kese3200n.png"
+ ],
+ "東横線": [
+  "14_tokyu/emu-8090__toq8590s.png",
+  "14_tokyu/emu-8090__toq8090k.png",
+  "14_tokyu/emu-8090__toq8090.png"
+ ],
+ "東武日光線": [
+  "08_tobu/spacia-x-n100__tob-n100.png"
+ ],
+ "東武鬼怒川線": [
+  "08_tobu/spacia-x-n100__tob-n100.png"
+ ],
+ "東海道本線": [
+  "03_tokai/tokai-area__c117.png",
+  "03_tokai/tokai-area__c117o.png",
+  "03_tokai/tokai-area__c117b.png"
+ ],
+ "根室本線": [
+  "01_hokkaido/kushiro-area__h100hnsk.png",
+  "01_hokkaido/kushiro-area__h100hnsk1.png",
+  "01_hokkaido/kushiro-area__h100snmo.png"
+ ],
+ "桐生線": [
+  "08_tobu/emu-10000__tob10050.png",
+  "08_tobu/emu-10000__tob10051.png"
+ ],
+ "横須賀線": [
+  "02_east/yokosuka-line__e235sk.png",
+  "02_east/yokosuka-line__e235skk.png"
+ ],
+ "橿原線": [
+  "18_kintetsu/kintetsu-line__kin3221.png",
+  "18_kintetsu/kintetsu-line__kin3220.png"
+ ],
+ "池袋線": [
+  "12_seibu/emu-2-3-40000-6000__seb40050.png",
+  "12_seibu/emu-2-3-40000-6000__seb40000.png",
+  "12_seibu/emu-2-3-40000-6000__seb30000.png"
+ ],
+ "河口湖線": [
+  "13_odakyu/emu-4000-5000__odq5001.png",
+  "13_odakyu/emu-4000-5000__odq4000c.png"
+ ],
+ "河和線": [
+  "17_meitetsu/300-4000-5000__mei300.png",
+  "17_meitetsu/300-4000-5000__mei4000.png"
+ ],
+ "泉北線": [
+  "00_shinkansen/e3-cargo-shinkansen__e3w.png"
+ ],
+ "津島線": [
+  "17_meitetsu/meitetsu-3100-6800__mei3100l.png",
+  "17_meitetsu/meitetsu-3100-6800__mei3100nl.png"
+ ],
+ "浅草線": [
+  "15_keikyu/untitled__khk1000.png",
+  "15_keikyu/untitled__khk1003.png",
+  "15_keikyu/untitled__khk1000pbl.png"
+ ],
+ "湖西線": [
+  "04_west/fukuchiyama-area__w115s65kg.png",
+  "04_west/fukuchiyama-area__w115s65pkg.png",
+  "04_west/fukuchiyama-area__w117kg.png"
+ ],
+ "犬山線": [
+  "17_meitetsu/100-6000__mei100.png",
+  "17_meitetsu/100-6000__mei6000.png",
+  "17_meitetsu/100-6000__mei6001.png"
+ ],
+ "狭山線": [
+  "12_seibu/emu-2-3-40000-6000__seb40050.png",
+  "12_seibu/emu-2-3-40000-6000__seb40000.png"
+ ],
+ "白新線": [
+  "02_east/niigata-area__ee400ni.png",
+  "02_east/niigata-area__e129ni.png",
+  "02_east/niigata-area__e129nip.png"
+ ],
+ "目黒線": [
+  "14_tokyu/emu-5080-3000-3020__toq3028.png",
+  "14_tokyu/emu-5080-3000-3020__toq3020.png",
+  "14_tokyu/emu-5080-3000-3020__toq3000f.png"
+ ],
+ "相模原線": [
+  "13_odakyu/emu-3000__odq3000c.png",
+  "13_odakyu/emu-3000__odq3001kc.png"
+ ],
+ "相鉄新横浜線": [
+  "14_tokyu/tokyu-4000__toq4000w.png"
+ ],
+ "相鉄本線": [
+  "00_shinkansen/e3-cargo-shinkansen__e3w.png"
+ ],
+ "知多新線": [
+  "17_meitetsu/300-4000-5000__mei300.png",
+  "17_meitetsu/300-4000-5000__mei4000.png"
+ ],
+ "石勝線": [
+  "01_hokkaido/hokkaido-area__h100.png",
+  "01_hokkaido/hokkaido-area__h150fu.png",
+  "01_hokkaido/hokkaido-area__h150.png"
+ ],
+ "石北本線": [
+  "01_hokkaido/asahikawa-area__h100frn.png",
+  "01_hokkaido/asahikawa-area__h100frn1.png",
+  "01_hokkaido/asahikawa-area__h100skhk.png"
+ ],
+ "磐越西線": [
+  "02_east/yonesaka-line__e58yo15.png",
+  "02_east/yonesaka-line__e58yo1.png",
+  "02_east/yonesaka-line__e58yo.png"
+ ],
+ "神戸本線": [
+  "21_hankyu/emu2000-2300__hnq2300pr.png",
+  "21_hankyu/emu2000-2300__hnq2000.png"
+ ],
+ "神戸高速線": [
+  "22_hanshin/hanshin-rail__hnsn3001.png"
+ ],
+ "神鉄三田線": [
+  "21_hankyu/kobe-rail__kobed3000ul.png"
+ ],
+ "福知山線": [
+  "04_west/fukuchiyama-line__w223-6.png",
+  "04_west/fukuchiyama-line__w223p6.png",
+  "04_west/fukuchiyama-line__w223-6h.png"
+ ],
+ "秩父本線": [
+  "12_seibu/chichibu-line__seb4000r.png"
+ ],
+ "立山線": [
+  "25_hokuriku/tateyama-sabo-rail__tsabo1dl.png"
+ ],
+ "箱根登山鉄道線": [
+  "13_odakyu/hakone-rail__htr4000.png",
+  "13_odakyu/hakone-rail__htr3000.png",
+  "13_odakyu/hakone-rail__htr1000rts.png"
+ ],
+ "篠ノ井線": [
+  "02_east/nagano-area__e131na.png"
+ ],
+ "紀勢本線": [
+  "04_west/kisei-line__w117wm.png",
+  "04_west/kisei-line__w117ks.png",
+  "04_west/kisei-line__w113nwm.png"
+ ],
+ "総武本線": [
+  "02_east/chuo-sobu-line__e235so.png",
+  "02_east/chuo-sobu-line__e231so5l.png",
+  "02_east/chuo-sobu-line__e231so5.png"
+ ],
+ "羽越本線": [
+  "02_east/niigata-area__ee400ni.png",
+  "02_east/niigata-area__e129ni.png",
+  "02_east/niigata-area__e129nip.png"
+ ],
+ "舞鶴線": [
+  "04_west/fukuchiyama-area__w113fk053.png",
+  "04_west/fukuchiyama-area__w113fk053p.png"
+ ],
+ "芝山鉄道線": [
+  "09_keisei/shibayama-rail-1-2-2026-3-13-update__sbym3600.png",
+  "09_keisei/shibayama-rail-1-2-2026-3-13-update__sbym3500n.png"
+ ],
+ "西尾線": [
+  "17_meitetsu/100-6000__mei100.png",
+  "17_meitetsu/100-6000__mei6000.png"
+ ],
+ "西武新宿線": [
+  "12_seibu/emu-2-3-40000-6000__seb40050.png",
+  "12_seibu/emu-2-3-40000-6000__seb40000.png",
+  "12_seibu/emu-2-3-40000-6000__seb30000.png"
+ ],
+ "西武有楽町線": [
+  "10_metro/yurakucho-line__eid07.png",
+  "10_metro/yurakucho-line__tkm07.png",
+  "10_metro/yurakucho-line__tkm7000o.png"
+ ],
+ "西武秩父線": [
+  "12_seibu/chichibu-line__seb4000r.png"
+ ],
+ "豊川線": [
+  "17_meitetsu/100-6000__mei100.png",
+  "17_meitetsu/100-6000__mei6000.png"
+ ],
+ "豊肥本線": [
+  "06_kyushu/oita-kumamoto__k815s.png",
+  "06_kyushu/oita-kumamoto__k220.png",
+  "06_kyushu/oita-kumamoto__k200re.png"
+ ],
+ "赤羽線": [
+  "02_east/yamanote-line__e235ya.png"
+ ],
+ "身延線": [
+  "03_tokai/minobu-line__c123.png",
+  "03_tokai/minobu-line__c123k.png",
+  "03_tokai/minobu-line__c123mnb.png"
+ ],
+ "近鉄京都線": [
+  "18_kintetsu/kintetsu-8a__kin8a.png"
+ ],
+ "近鉄名古屋線": [
+  "18_kintetsu/kintetsu-1a-1b__kin1a.png"
+ ],
+ "近鉄奈良線": [
+  "04_west/kansai-nara-line__w201ka1.png",
+  "04_west/kansai-nara-line__w201ka2.png",
+  "04_west/kansai-nara-line__w205hn2.png"
+ ],
+ "近鉄山田線": [
+  "18_kintetsu/shimakaze-hinotori__kin50000.png",
+  "18_kintetsu/shimakaze-hinotori__kin80000.png"
+ ],
+ "逗子線": [
+  "15_keikyu/untitled__khk601.png",
+  "15_keikyu/untitled__khk600.png"
+ ],
+ "都営地下鉄三田線": [
+  "10_metro/nanboku-line__tkm9002.png",
+  "10_metro/nanboku-line__tkm9003.png"
+ ],
+ "長崎本線": [
+  "06_kyushu/nagasaki-line__k40km.png"
+ ],
+ "長野電鉄長野線": [
+  "08_tobu/jomo-rail__jymo800v.png",
+  "08_tobu/jomo-rail__jymo800vp.png",
+  "08_tobu/jomo-rail__jymo800m.png"
+ ],
+ "関西本線": [
+  "04_west/kansai-line__w103kny1.png",
+  "04_west/kansai-line__w103kny1c.png",
+  "04_west/kansai-line__w103kny2.png"
+ ],
+ "関西空港線": [
+  "04_west/hanwa-line__w225-51.png",
+  "04_west/hanwa-line__w225h5.png",
+  "04_west/hanwa-line__w225-5.png"
+ ],
+ "阪和線": [
+  "04_west/hanwa-line__w103hhn.png",
+  "04_west/hanwa-line__w103bl.png",
+  "04_west/hanwa-line__w103hhn2.png"
+ ],
+ "阪急京都本線": [
+  "18_kintetsu/kintetsu-8a__kin8a.png"
+ ],
+ "阪神本線": [
+  "00_shinkansen/e3-cargo-shinkansen__e3w.png"
+ ],
+ "難波線": [
+  "18_kintetsu/kintetsu-line__kin6600.png",
+  "18_kintetsu/kintetsu-line__kin5800.png"
+ ],
+ "飯田線": [
+  "03_tokai/iida-line-119__c119b.png",
+  "03_tokai/iida-line-119__c119c-1.png",
+  "03_tokai/iida-line-119__c119c.png"
+ ],
+ "駿豆線": [
+  "12_seibu/izuhakone-rail__izh7000.png",
+  "12_seibu/izuhakone-rail__izh5501.png"
+ ],
+ "高尾線": [
+  "02_east/chuo-line__e233kor.png",
+  "02_east/chuo-line__e233or.png"
+ ],
+ "高山本線": [
+  "03_tokai/tokai-area__c75s.png",
+  "03_tokai/tokai-area__c75os.png",
+  "03_tokai/tokai-area__c75.png"
+ ],
+ "高崎線": [
+  "02_east/takasaki-area__e211s.png",
+  "02_east/takasaki-area__e211o1s.png",
+  "02_east/takasaki-area__e211sp.png"
+ ],
+ "高徳線": [
+  "05_shikoku/takamatsu-area__s6001.png",
+  "05_shikoku/takamatsu-area__s6001p.png"
+ ],
+ "高野線": [
+  "23_nankai/emu-20-23-2200__nan2000.png",
+  "23_nankai/emu-20-23-2200__nan2001.png",
+  "23_nankai/emu-20-23-2200__nan2002.png"
+ ],
+ "鳥羽線": [
+  "18_kintetsu/toba-line__kin1367tbsm2.png",
+  "18_kintetsu/toba-line__kin1367tbsm2p.png"
+ ],
+ "鴨東線": [
+  "19_keihan/3-6000-13000__khan6003.png",
+  "19_keihan/3-6000-13000__khan6002.png"
+ ],
+ "鹿児島本線": [
+  "06_kyushu/fukuoka-area-307-811__k307qpo.png",
+  "06_kyushu/fukuoka-area-307-811__k811qpo.png"
+ ],
+ "久留里線": [
+  "02_east/kururi-line__e130kr.png"
+ ],
+ "只見線": [
+  "02_east/tadami-line__e110se.png",
+  "02_east/tadami-line__e110o1.png",
+  "02_east/tadami-line__e120td.png"
+ ],
+ "五能線": [
+  "02_east/gono-oga-line__ee801ogr1.png",
+  "02_east/gono-oga-line__ee801ogr.png",
+  "02_east/gono-oga-line__ee801ogb1.png"
+ ],
+ "小海線": [
+  "02_east/koumi-line__ee200p.png",
+  "02_east/koumi-line__e110.png",
+  "02_east/koumi-line__e110-1.png"
+ ],
+ "大和路線": [
+  "04_west/kansai-nara-line__w201ka1.png",
+  "04_west/kansai-nara-line__w201ka2.png",
+  "04_west/kansai-nara-line__w205hn2.png"
+ ],
+ "奈良線": [
+  "04_west/kansai-nara-line__w201ka1.png",
+  "04_west/kansai-nara-line__w201ka2.png",
+  "04_west/kansai-nara-line__w205hn2.png"
+ ],
+ "小浜線": [
+  "04_west/kakogawa-obama__w103kg.png",
+  "04_west/kakogawa-obama__w103kgp.png",
+  "04_west/kakogawa-obama__w125bp.png"
+ ],
+ "姫新線": [
+  "04_west/tsuyama-line__w40ty1.png",
+  "04_west/tsuyama-line__w40ty.png",
+  "04_west/tsuyama-line__w120tu.png"
+ ],
+ "加古川線": [
+  "04_west/kakogawa-obama__w103kg.png",
+  "04_west/kakogawa-obama__w103kgp.png",
+  "04_west/kakogawa-obama__w125bp.png"
+ ],
+ "和歌山線": [
+  "04_west/wakayama-line__w227wk.png",
+  "04_west/wakayama-line__w227wkp.png"
+ ],
+ "桜井線": [
+  "04_west/wakayama-line__w227wk.png",
+  "04_west/wakayama-line__w227wkp.png"
+ ],
+ "草津線": [
+  "04_west/kansai-area__w221np.png",
+  "04_west/kansai-area__w221n.png",
+  "04_west/kansai-area__w221n1p.png"
+ ],
+ "奈良": [
+  "04_west/kansai-nara-line__w201ka1.png",
+  "04_west/kansai-nara-line__w201ka2.png",
+  "04_west/kansai-nara-line__w205hn2.png"
+ ],
+ "予土線": [
+  "05_shikoku/yodo-line__s32kpuy1.png",
+  "05_shikoku/yodo-line__s32kpuy2.png",
+  "05_shikoku/yodo-line__s32oni1.png"
+ ],
+ "牟岐線": [
+  "05_shikoku/untitled__s1200.png",
+  "05_shikoku/untitled__s1201.png",
+  "05_shikoku/untitled__s1200n.png"
+ ],
+ "日田彦山線": [
+  "06_kyushu/hitah-hikosan-line__k147hkm.png"
+ ],
+ "香椎線": [
+  "06_kyushu/miyazaki-kashii__k713sn.png",
+  "06_kyushu/miyazaki-kashii__k819.png"
+ ],
+ "筑肥線": [
+  "06_kyushu/fukuoka-area-307-811__k307qpo.png",
+  "06_kyushu/fukuoka-area-307-811__k811qpo.png"
+ ],
+ "唐津線": [
+  "06_kyushu/karatsu-line__k125yak.png"
+ ],
+ "江ノ島線": [
+  "13_odakyu/emu-1000-2000__odq2000c.png",
+  "13_odakyu/emu-1000-2000__odq2001.png",
+  "13_odakyu/emu-1000-2000__odq1003.png"
+ ],
+ "七尾線": [
+  "04_west/nanao-line__w521na.png"
+ ],
+ "氷見線": [
+  "04_west/takaoka-area__w40tk1b.png",
+  "04_west/takaoka-area__w40tk1g.png",
+  "04_west/takaoka-area__w40tk1m.png"
+ ],
+ "城端線": [
+  "04_west/takaoka-area__w40tk1b.png",
+  "04_west/takaoka-area__w40tk1g.png",
+  "04_west/takaoka-area__w40tk1m.png"
+ ],
+ "越美北線": [
+  "04_west/kuzuryu-line__w120.png",
+  "04_west/kuzuryu-line__w120n.png",
+  "04_west/kuzuryu-line__w120et5.png"
+ ],
+ "こどもの国線": [
+  "14_tokyu/untitled__yokk000.png",
+  "14_tokyu/untitled__yokk000mo.png"
+ ],
+ "野田線": [
+  "08_tobu/noda-line-upl__tob80000.png",
+  "08_tobu/noda-line-upl__tob60000f.png"
+ ],
+ "動物園線": [
+  "11_keio/keio-rail__keio7000tm.png"
+ ],
+ "西鉄天神大牟田線": [
+  "24_nishitetsu/emu-3000__nisi3000.png",
+  "24_nishitetsu/emu-3000__nisi3001.png"
+ ],
+ "貝塚線": [
+  "24_nishitetsu/kaizuka-line__nisi601.png",
+  "24_nishitetsu/kaizuka-line__nisi600y.png"
+ ],
+ "東京メトロ副都心線": [
+  "10_metro/fukutoshin-line__tkm17000.png",
+  "10_metro/fukutoshin-line__tkm17008.png"
+ ],
+ "篠栗線": [
+  "06_kyushu/sasaguri-line__k813n.png"
+ ],
+ "筑豊本線": [
+  "06_kyushu/fukuoka-area__k821.png",
+  "06_kyushu/fukuoka-area__k817-2.png"
+ ],
+ "大分地区": [
+  "06_kyushu/oita-area__k415-0.png",
+  "06_kyushu/oita-area__k415.png"
+ ],
+ "釧網本線": [
+  "01_hokkaido/kushiro-area__h100hnsk.png",
+  "01_hokkaido/kushiro-area__h100hnsk1.png"
+ ],
+ "花咲線": [
+  "01_hokkaido/soya-hanasaki-line__h54n.png",
+  "01_hokkaido/soya-hanasaki-line__h54.png"
+ ],
+ "富良野線": [
+  "01_hokkaido/asahikawa-area__h100frn.png",
+  "01_hokkaido/asahikawa-area__h100frn1.png"
+ ],
+ "宗谷線": [
+  "01_hokkaido/asahikawa-area__h100frn.png",
+  "01_hokkaido/asahikawa-area__h100frn1.png"
+ ],
+ "名寄本線": [
+  "01_hokkaido/asahikawa-area__h100frn.png",
+  "01_hokkaido/asahikawa-area__h100frn1.png"
+ ],
+ "天北線": [
+  "01_hokkaido/asahikawa-area__h100frn.png",
+  "01_hokkaido/asahikawa-area__h100frn1.png"
+ ],
+ "京浜東北線": [
+  "02_east/keihintohoku-line__e233kt.png"
+ ],
+ "中央線": [
+  "02_east/chuo-line__e233kor.png",
+  "02_east/chuo-line__e233or.png"
+ ],
+ "総武線": [
+  "02_east/chuo-sobu-line__e235so.png",
+  "02_east/chuo-sobu-line__e231so5l.png"
+ ],
+ "南武線": [
+  "02_east/nanbu-line__e233na.png",
+  "02_east/nanbu-line__e233na1.png"
+ ],
+ "武蔵野線": [
+  "02_east/musashino-line__e231mul.png",
+  "02_east/musashino-line__e231mu.png"
+ ],
+ "埼京線": [
+  "02_east/saikyo-line__e233sk.png"
+ ],
+ "八高線": [
+  "02_east/kawagoe-line__e231ha.png",
+  "02_east/kawagoe-line__e231hk1.png"
+ ],
+ "宇都宮線": [
+  "02_east/keihintohoku-line__e233kt.png"
+ ],
+ "水戸線": [
+  "02_east/joban-line__e531s.png",
+  "02_east/joban-line__e531ks.png"
+ ],
+ "鹿島線": [
+  "02_east/boso-area__e131bo.png",
+  "02_east/boso-area__e233bo.png"
+ ],
+ "相模線": [
+  "02_east/sagami-line__e131sg.png"
+ ],
+ "鶴見線": [
+  "02_east/tsurumi-line__e131tr.png"
+ ],
+ "青梅線": [
+  "02_east/chuo-line__e233kor.png",
+  "02_east/chuo-line__e233or.png"
+ ],
+ "五日市線": [
+  "02_east/chuo-line__e233kor.png",
+  "02_east/chuo-line__e233or.png"
+ ],
+ "八王子": [
+  "02_east/chuo-line__e233kor.png",
+  "02_east/chuo-line__e233or.png"
+ ],
+ "高尾": [
+  "02_east/chuo-line__e233kor.png",
+  "02_east/chuo-line__e233or.png"
+ ],
+ "大月": [
+  "02_east/chuo-line__e233kor.png",
+  "02_east/chuo-line__e233or.png"
+ ],
+ "小淵沢": [
+  "02_east/chuo-line__e233kor.png",
+  "02_east/chuo-line__e233or.png"
+ ],
+ "茅野": [
+  "02_east/chuo-line__e233kor.png",
+  "02_east/chuo-line__e233or.png"
+ ],
+ "上諏訪": [
+  "02_east/chuo-line__e233kor.png",
+  "02_east/chuo-line__e233or.png"
+ ],
+ "塩尻": [
+  "02_east/nagano-area__e131na.png"
+ ],
+ "松本": [
+  "02_east/nagano-area__e131na.png"
+ ],
+ "篠ノ井": [
+  "02_east/nagano-area__e131na.png"
+ ],
+ "長野": [
+  "02_east/nagano-area__e131na.png"
+ ],
+ "飯山": [
+  "02_east/koumi-line__ee200p.png",
+  "02_east/koumi-line__e110.png"
+ ],
+ "小海": [
+  "02_east/koumi-line__ee200p.png",
+  "02_east/koumi-line__e110.png"
+ ],
+ "新潟": [
+  "02_east/niigata-area__ee400ni.png",
+  "02_east/niigata-area__e129ni.png"
+ ],
+ "秋田": [
+  "02_east/akita-area__e701ak4.png",
+  "02_east/akita-area__e701ak6.png"
+ ],
+ "盛岡": [
+  "02_east/morioka-area__e110mo.png"
+ ],
+ "仙台": [
+  "02_east/sendai-area__e721se1.png",
+  "02_east/sendai-area__e721se.png"
+ ],
+ "山形": [
+  "02_east/yamagata-line__e723ya.png",
+  "02_east/yamagata-line__e701ya.png"
+ ],
+ "福島": [
+  "02_east/sendai-area__e721se1.png",
+  "02_east/sendai-area__e721se.png"
+ ],
+ "郡山": [
+  "02_east/niigata-area__ee400ni.png",
+  "02_east/niigata-area__e129ni.png"
+ ],
+ "会津若松": [
+  "02_east/tadami-line__e110se.png",
+  "02_east/tadami-line__e110o1.png"
+ ],
+ "太多線": [
+  "03_tokai/tokai-area__c313ce.png",
+  "03_tokai/tokai-area__c313p.png"
+ ],
+ "武豊線": [
+  "03_tokai/tokai-area__c313ce.png",
+  "03_tokai/tokai-area__c313p.png"
+ ],
+ "紀州": [
+  "04_west/wakayama-line__w227wk.png",
+  "04_west/wakayama-line__w227wkp.png"
+ ],
+ "大和路快速": [
+  "04_west/kansai-nara-line__w201ka1.png",
+  "04_west/kansai-nara-line__w201ka2.png"
+ ],
+ "おおさか東線": [
+  "04_west/osaka-loop-line__w323or.png",
+  "04_west/osaka-loop-line__w323m.png"
+ ],
+ "片町線": [
+  "04_west/osaka-loop-line__w323or.png",
+  "04_west/osaka-loop-line__w323m.png"
+ ],
+ "JR東西線": [
+  "04_west/jr-tozai-line__w321.png",
+  "04_west/jr-tozai-line__w321p.png"
+ ],
+ "学研都市線": [
+  "04_west/jr-tozai-line__w321.png",
+  "04_west/jr-tozai-line__w321p.png"
+ ],
+ "宝塚線": [
+  "04_west/fukuchiyama-line__w223-6.png",
+  "04_west/fukuchiyama-line__w223p6.png"
+ ],
+ "赤穂線": [
+  "04_west/tsuyama-line__w40ty1.png",
+  "04_west/tsuyama-line__w40ty.png"
+ ],
+ "津山線": [
+  "04_west/tsuyama-line__w40ty1.png",
+  "04_west/tsuyama-line__w40ty.png"
+ ],
+ "赤穂": [
+  "04_west/tsuyama-line__w40ty1.png",
+  "04_west/tsuyama-line__w40ty.png"
+ ],
+ "姫路": [
+  "04_west/tsuyama-line__w40ty1.png",
+  "04_west/tsuyama-line__w40ty.png"
+ ],
+ "相生": [
+  "04_west/tsuyama-line__w40ty1.png",
+  "04_west/tsuyama-line__w40ty.png"
+ ],
+ "上郡": [
+  "04_west/tsuyama-line__w40ty1.png",
+  "04_west/tsuyama-line__w40ty.png"
+ ],
+ "岡山": [
+  "04_west/okayama-area__w227ok.png",
+  "04_west/okayama-area__w227okp.png"
+ ],
+ "広島": [
+  "04_west/hiroshima-area__w227hi.png",
+  "04_west/hiroshima-area__w227himx.png"
+ ],
+ "福山": [
+  "04_west/hiroshima-area__w227hi.png",
+  "04_west/hiroshima-area__w227himx.png"
+ ],
+ "岩国": [
+  "04_west/yamaguchi-area__w115hy15.png",
+  "04_west/yamaguchi-area__w115hy15p.png"
+ ],
+ "徳山": [
+  "04_west/yamaguchi-area__w115hy15.png",
+  "04_west/yamaguchi-area__w115hy15p.png"
+ ],
+ "下関": [
+  "04_west/yamaguchi-area__w115hy15.png",
+  "04_west/yamaguchi-area__w115hy15p.png"
+ ],
+ "九州": [
+  "06_kyushu/fukuoka-area__k821.png",
+  "06_kyushu/fukuoka-area__k817-2.png"
+ ],
+ "鹿児島線": [
+  "06_kyushu/fukuoka-area-307-811__k307qpo.png",
+  "06_kyushu/fukuoka-area-307-811__k811qpo.png"
+ ],
+ "唐津": [
+  "06_kyushu/karatsu-line__k125yak.png"
+ ],
+ "長崎": [
+  "06_kyushu/nagasaki-line__k40km.png"
+ ],
+ "佐世保": [
+  "06_kyushu/nagasaki-line__k40km.png"
+ ],
+ "大村": [
+  "06_kyushu/omura-line__k1.png"
+ ],
+ "熊本": [
+  "06_kyushu/oita-kumamoto__k815s.png",
+  "06_kyushu/oita-kumamoto__k220.png"
+ ],
+ "八代": [
+  "06_kyushu/oita-kumamoto__k815s.png",
+  "06_kyushu/oita-kumamoto__k220.png"
+ ],
+ "川内": [
+  "06_kyushu/fukuoka-area-307-811__k307qpo.png",
+  "06_kyushu/fukuoka-area-307-811__k811qpo.png"
+ ],
+ "鹿児島": [
+  "06_kyushu/fukuoka-area-307-811__k307qpo.png",
+  "06_kyushu/fukuoka-area-307-811__k811qpo.png"
+ ],
+ "大分": [
+  "06_kyushu/oita-area__k415-0.png",
+  "06_kyushu/oita-area__k415.png"
+ ],
+ "別府": [
+  "06_kyushu/oita-area__k415-0.png",
+  "06_kyushu/oita-area__k415.png"
+ ],
+ "宮崎": [
+  "06_kyushu/miyazaki-kashii__k713sn.png",
+  "06_kyushu/miyazaki-kashii__k819.png"
+ ],
+ "高千穂": [
+  "06_kyushu/oita-kumamoto__k815s.png",
+  "06_kyushu/oita-kumamoto__k220.png"
+ ],
+ "宇和島": [
+  "05_shikoku/untitled__s1000.png",
+  "05_shikoku/untitled__s54.png"
+ ],
+ "松山": [
+  "05_shikoku/yosan-line__s7000.png",
+  "05_shikoku/yosan-line__s7002.png"
+ ],
+ "高松": [
+  "05_shikoku/takamatsu-area__s6001.png",
+  "05_shikoku/takamatsu-area__s6001p.png"
+ ],
+ "徳島": [
+  "05_shikoku/untitled__s1200.png",
+  "05_shikoku/untitled__s1201.png"
+ ],
+ "高知": [
+  "05_shikoku/untitled__s1000.png",
+  "05_shikoku/untitled__s54.png"
+ ]
+}

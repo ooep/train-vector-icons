@@ -1,0 +1,10 @@
+{
+  "github_token": "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",
+  "github_repo_owner_hint": "floral-salad-8734",
+  "cloudflare_account_id": "d6ee2f4ae988c0cc3a75d3e76d0c6af4",
+  "cloudflare_api_token": "cfat_0KfcOXS3BiMZbuXenT8CxkT3DZg0DqwZQQ2sFLX257441bce",
+  "r2_access_key_id": "363b9920025246d11c69345d82e7915b",
+  "r2_secret_access_key": "45aa2482b7fc2991900a67c2e2eac3576b44e279f58e331078e9fdc70141fd0b",
+  "r2_endpoint": "https://d6ee2f4ae988c0cc3a75d3e76d0c6af4.r2.cloudflarestorage.com",
+  "stored_at": "2026-10-04"
+}
