@@ -470,8 +470,7 @@
   "34_kyushu_mi/shimabara-rail__smbr2501.png"
  ],
  "嵯峨野観光線": [
-  "32_kansai_mi/sagano-rail__sagn-de10nm.png",
-  "32_kansai_mi/sagano-rail__sagn-de10.png"
+  "32_kansai_mi/sagano-rail__sagn-de10nm.png"
  ],
  "川越線": [
   "02_east/saikyo-line__e233sk.png"
@@ -507,8 +506,7 @@
   "18_kintetsu/les-saveurs-shima__kin12400lssp.png"
  ],
  "愛知環状鉄道線": [
-  "31_tokai_mi/aichi-loop-rail__aitk100.png",
-  "31_tokai_mi/aichi-loop-rail__aitk2000.png"
+  "31_tokai_mi/aichi-loop-rail__aitk100.png"
  ],
  "成田空港線": [
   "29_kanto_mi/nrt-skytrain__apt-nrt1.png"
@@ -553,8 +551,7 @@
   "04_west/geibi-kisuki-line__w120ki4.png"
  ],
  "本町線": [
-  "10_metro/fukutoshin-line__tkm17000.png",
-  "10_metro/fukutoshin-line__tkm17008.png"
+  "33_shikoku_mi/matsuyama-tram__iyo50.png"
  ],
  "札沼線": [
   "01_hokkaido/hakodate-line__h737.png",
@@ -688,8 +685,7 @@
   "29_kanto_mi/ryutetsu-rail__ngry5004n.png"
  ],
  "浅草線": [
-  "15_keikyu/untitled__khk1000.png",
-  "15_keikyu/untitled__khk1003.png"
+  "29_kanto_mi/asakusa-line__toky6500.png"
  ],
  "浅野川線": [
   "25_hokuriku/hokuriku-rail-8800__hkrk8901.png",
@@ -834,12 +830,10 @@
   "02_east/chuo-sobu-line__e231so5l.png"
  ],
  "肥薩おれんじ鉄道線": [
-  "34_kyushu_mi/hisatsu-rail__hsor100ore.png",
-  "34_kyushu_mi/hisatsu-rail__hsor106.png"
+  "34_kyushu_mi/hisatsu-rail__hsor100ore.png"
  ],
  "肥薩線": [
-  "34_kyushu_mi/hisatsu-rail__hsor100ore.png",
-  "34_kyushu_mi/hisatsu-rail__hsor106.png"
+  "34_kyushu_mi/hisatsu-rail__hsor100ore.png"
  ],
  "芝山鉄道線": [
   "09_keisei/shibayama-rail__sbym3601.png",
@@ -1024,28 +1018,23 @@
   "31_tokai_mi/nagoya-metro__nag6050.png"
  ],
  "6号線桜通線": [
-  "31_tokai_mi/sakuradori-line__nag6000h.png",
-  "31_tokai_mi/sakuradori-line__nag6000ll.png"
+  "31_tokai_mi/sakuradori-line__nag6000h.png"
  ],
  "あいの風とやま鉄道線": [
   "25_hokuriku/ainokaze-rail-1-2-3-2026-3-13-update__0aity0.png",
   "25_hokuriku/ainokaze-rail-1-2-3-2026-3-13-update__aity521bg.png"
  ],
  "京都市営地下鉄東西線": [
-  "04_west/jr-tozai-line__w321.png",
-  "04_west/jr-tozai-line__w321p.png"
+  "32_kansai_mi/kyoto-metro__kyot50.png"
  ],
  "仙台市地下鉄南北線": [
-  "10_metro/nanboku-line__tkm9002.png",
-  "10_metro/nanboku-line__tkm9003.png"
+  "28_tohoku_mi/sendai-metro__sen1000.png"
  ],
  "仙台市地下鉄東西線": [
-  "04_west/jr-tozai-line__w321.png",
-  "04_west/jr-tozai-line__w321p.png"
+  "28_tohoku_mi/sendai-metro__sen2000.png"
  ],
  "伊予鉄道城北線": [
-  "31_tokai_mi/johoku-line__tkai11.png",
-  "31_tokai_mi/johoku-line__tkai11-3.png"
+  "33_shikoku_mi/matsuyama-tram__iyo50.png"
  ],
  "国際文化公園都市モノレール線": [
   "32_kansai_mi/osaka-monorail__mn-osk3000.png"
@@ -1063,34 +1052,30 @@
   "09_keisei/kominato-rail__kmnt200.png"
  ],
  "日暮里・舎人ライナー": [
-  "01_hokkaido/hakodate-area__h733v.png"
+  "29_kanto_mi/toneri-liner-apm__toky320.png"
  ],
  "札幌市営地下鉄南北線": [
-  "10_metro/nanboku-line__tkm9002.png",
-  "10_metro/nanboku-line__tkm9003.png"
+  "27/hokkaido_mi/sapporo-metro__spr5000.png"
  ],
  "札幌市営地下鉄東西線": [
-  "04_west/jr-tozai-line__w321.png",
-  "04_west/jr-tozai-line__w321p.png"
+  "27/hokkaido_mi/sapporo-metro__spr8000.png"
  ],
  "沖縄都市モノレール線": [
-  "29_kanto_mi/tama-monorail__mn-tma1001.png",
-  "29_kanto_mi/tama-monorail__mn-tma1002.png"
+  "34_kyushu_mi/okinawa-rail-tram__1okik0.png"
  ],
  "相鉄新横浜線": [
   "16_sotetsu/sotetsu-rail__sote11001.png",
   "16_sotetsu/sotetsu-rail__sote10004.png"
  ],
  "神戸市営地下鉄山手線": [
-  "02_east/yamanote-line__e235ya.png"
+  "32_kansai_mi/kobe-metro__kob6000.png"
  ],
  "神戸高速線": [
   "10_metro/nanboku-line__tkm9002.png",
   "10_metro/nanboku-line__tkm9003.png"
  ],
  "福岡市地下鉄空港線": [
-  "02_east/sendai-area__e721se1.png",
-  "02_east/sendai-area__e721se.png"
+  "34_kyushu_mi/fukuoka-metro__fkok1000.png"
  ],
  "近鉄京都線": [
   "08_tobu/skytree-line__tob10030kin.png",
@@ -1105,8 +1090,7 @@
   "29_kanto_mi/asakusa-line__toky6300.png"
  ],
  "都営地下鉄新宿線": [
-  "12_seibu/emu-2-3-40000-6000__seb40050.png",
-  "12_seibu/emu-2-3-40000-6000__seb40000.png"
+  "29_kanto_mi/shinjuku-line__toky10300.png"
  ],
  "阪急京都本線": [
   "20_osakametro/kita-osaka-rail__nosk9000.png",
@@ -1117,8 +1101,7 @@
   "31_tokai_mi/nagoya-metro__nag6050.png"
  ],
  "tkj城北線": [
-  "31_tokai_mi/johoku-line__tkai11.png",
-  "31_tokai_mi/johoku-line__tkai11-3.png"
+  "31_tokai_mi/johoku-line__tkai11.png"
  ],
  "のと鉄道七尾線": [
   "04_west/nanao-line__w521na.png"
@@ -1139,12 +1122,10 @@
   "35_cablecar/rakutenchi-funicular__cb-rktn2.png"
  ],
  "千葉都市モノレール1号線": [
-  "13_odakyu/untitled__mn-odq500.png",
-  "13_odakyu/untitled__odq8000hg.png"
+  "29_kanto_mi/chiba-monorail__mn-tib1.png"
  ],
  "千葉都市モノレール2号線": [
-  "13_odakyu/untitled__mn-odq500.png",
-  "13_odakyu/untitled__odq8000hg.png"
+  "29_kanto_mi/chiba-monorail__mn-tib1.png"
  ],
  "南海空港線": [
   "02_east/sendai-area__e721se1.png",
@@ -1195,12 +1176,10 @@
   "04_west/akatsuki-nihonkai__w24dngs.png"
  ],
  "東京モノレール羽田空港線": [
-  "02_east/sendai-area__e721se1.png",
-  "02_east/sendai-area__e721se.png"
+  "29_kanto_mi/tokyo-monorail__mn-tky10000.png"
  ],
  "東京臨海新交通臨海線": [
-  "26_sanyosanin/mizushima-rail__mzsm200.png",
-  "26_sanyosanin/mizushima-rail__mzsm300.png"
+  "29_kanto_mi/yurikamome-apm__yrkm7000-1.png"
  ],
  "東急多摩川線": [
   "12_seibu/emu-101-3000__seb101w.png",
@@ -1224,20 +1203,20 @@
   "02_east/tokaido-line__e217ktd1.png"
  ],
  "横浜市営地下鉄1号線": [
-  "02_east/yokohama-line__e233yo.png"
+  "29_kanto_mi/yokohama__yok10000.png"
  ],
  "横浜市営地下鉄3号線": [
-  "02_east/yokohama-line__e233yo.png"
+  "29_kanto_mi/yokohama__yok10000.png"
  ],
  "横浜市営地下鉄4号線": [
-  "02_east/yokohama-line__e233yo.png"
+  "29_kanto_mi/yokohama__yok10000.png"
  ],
  "比叡山鉄道線": [
   "19_keihan/eizan-rail__eizn100p.png",
   "19_keihan/eizan-rail__eizn731.png"
  ],
  "熊本市電幹線": [
-  "00_shinkansen/e3-cargo-shinkansen__e3w.png"
+  "34_kyushu_mi/kumamoto-tram__lkuma0800.png"
  ],
  "甘木鉄道甘木線": [
   "34_kyushu_mi/amagi-rail__amg500.png",
@@ -1311,7 +1290,7 @@
   "02_east/tsurumi-line__e131tr.png"
  ],
  "長崎電気軌道本線": [
-  "06_kyushu/nagasaki-line__k40km.png"
+  "34_kyushu_mi/nagasaki-tram__lngsk1200.png"
  ],
  "長野電鉄長野線": [
   "30_koshinetsu_mi/nagano-rail__ngdn3000.png",
@@ -1342,20 +1321,16 @@
   "12_seibu/izuhakone-rail__izh160.png"
  ],
  "鹿児島市電唐湊線": [
-  "06_kyushu/fukuoka-area-307-811__k307qpo.png",
-  "06_kyushu/fukuoka-area-307-811__k811qpo.png"
+  "34_kyushu_mi/kagoshima__lkgsm2111y.png"
  ],
  "鹿児島市電第一期線": [
-  "06_kyushu/fukuoka-area-307-811__k307qpo.png",
-  "06_kyushu/fukuoka-area-307-811__k811qpo.png"
+  "34_kyushu_mi/kagoshima__lkgsm2111y.png"
  ],
  "鹿児島市電第二期線": [
-  "06_kyushu/fukuoka-area-307-811__k307qpo.png",
-  "06_kyushu/fukuoka-area-307-811__k811qpo.png"
+  "34_kyushu_mi/kagoshima__lkgsm2111y.png"
  ],
  "鹿児島市電谷山線": [
-  "06_kyushu/fukuoka-area-307-811__k307qpo.png",
-  "06_kyushu/fukuoka-area-307-811__k811qpo.png"
+  "34_kyushu_mi/kagoshima__lkgsm2111y.png"
  ],
  "黒部ケーブルカー": [
   "35_cablecar/kurobe-funicular__cb-krb1h.png",
@@ -1460,7 +1435,7 @@
   "02_east/odoriko__e257od25.png"
  ],
  "大洗鹿島線": [
-  "02_east/suigun-line-jr__e130.png"
+  "29_kanto_mi/kashima-rail__kasm201.png"
  ],
  "日光線": [
   "02_east/nikko-line__e131nk.png",
@@ -1667,8 +1642,7 @@
   "30_koshinetsu_mi/hokuetsu-rail__hk101.png"
  ],
  "フラワー長井線": [
-  "36_slopecar/hamamatsu-fp__slp-hmmtfp1.png",
-  "36_slopecar/hamamatsu-fp__slp-hmmtfp1l.png"
+  "28_tohoku_mi/yamagata-rail__yr880.png"
  ],
  "三国芦原線": [
   "30_koshinetsu_mi/tokimeki-rail__toki127g.png",
@@ -1815,8 +1789,7 @@
   "29_kanto_mi/nut-ina-line__nstl2007.png"
  ],
  "会津鬼怒川線": [
-  "36_slopecar/kai-kinugawa-hotel__slp-kaikinu1l.png",
-  "36_slopecar/kai-kinugawa-hotel__slp-kaikngw1.png"
+  "28_tohoku_mi/aizu-rail__aiz400n.png"
  ],
  "新湊港線": [
   "25_hokuriku/takaoka-tram__0mnyo0.png"
@@ -2177,8 +2150,7 @@
   "31_tokai_mi/shizuoka-rail__szok3002.png"
  ],
  "愛知環状鉄道": [
-  "31_tokai_mi/aichi-loop-rail__aitk100.png",
-  "31_tokai_mi/aichi-loop-rail__aitk2000.png"
+  "31_tokai_mi/aichi-loop-rail__aitk100.png"
  ],
  "三岐鉄道": [
   "31_tokai_mi/sangi-rail__sang5000.png",
@@ -2361,8 +2333,7 @@
   "28_tohoku_mi/yamagata-rail__yr881.png"
  ],
  "山形鉄道フラワー長井線": [
-  "36_slopecar/hamamatsu-fp__slp-hmmtfp1.png",
-  "36_slopecar/hamamatsu-fp__slp-hmmtfp1l.png"
+  "28_tohoku_mi/yamagata-rail__yr880.png"
  ],
  "福島交通": [
   "28_tohoku_mi/fukushima-rail__fuk1000.png",
@@ -3118,8 +3089,7 @@
   "17_meitetsu/emu-1000-1200__mei1001.png"
  ],
  "花園線": [
-  "26_sanyosanin/hiroshima-tram__hrdn76.png",
-  "26_sanyosanin/hiroshima-tram__hrdn77.png"
+  "33_shikoku_mi/matsuyama-tram__iyo50.png"
  ],
  "蒲郡線": [
   "17_meitetsu/emu-1000-1200__mei1000.png",
